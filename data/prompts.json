@@ -1,0 +1,1977 @@
+[
+  {
+    "id": "p1",
+    "category": "Everyday & Small Talk",
+    "title": "Asking How Someone's Weekend Went",
+    "level": "Intermediate",
+    "scenario": "You run into a colleague or friend on Monday morning and want to break the ice naturally without sounding stiff.",
+    "textbook": "\"Good morning. How was your weekend? Did you do any interesting activities during Saturday and Sunday?\"",
+    "textbookCritique": "Sounds like an interview interrogation. Native speakers rarely specify 'Saturday and Sunday' or ask for 'interesting activities'.",
+    "natural": "Morning! How'd your weekend treat ya? Do anything fun, or just take it easy?",
+    "chunks": [
+      "How'd your weekend treat ya?",
+      "Do anything fun",
+      "take it easy"
+    ],
+    "connectedSpeech": "In casual speech, 'How did your' blends into /haʊdʒər/, and 'treat you' links into /triːtʃə/.",
+    "listenText": "Morning! How'd your weekend treat ya? Do anything fun, or just take it easy?",
+    "title_cn": "周一自然询问对方周末过得如何",
+    "category_cn": "日常与社交闲聊",
+    "scenario_cn": "周一早上在走廊或茶水间碰到同事或朋友，想要自然破冰闲聊，避免像做笔录一样生硬。",
+    "textbookCritique_cn": "听起来像法庭审讯。母语者在非正式场合极少刻意罗列'周六和周日'，也不会一本正经地问'有趣活动'。",
+    "natural_cn": "早啊！周末过得怎么样？有去哪玩，还是在家彻底躺平放松？",
+    "chunks_cn": [
+      {
+        "en": "How'd your weekend treat ya?",
+        "cn": "周末过得还顺心吧？"
+      },
+      {
+        "en": "Do anything fun",
+        "cn": "有搞什么好玩的活动吗"
+      },
+      {
+        "en": "take it easy",
+        "cn": "在家休整/彻底放松躺平"
+      }
+    ],
+    "connectedSpeech_cn": "口语中 'How did your' 会弱读连读为 /haʊdʒər/，'treat you' 产生同化连读为 /triːtʃə/。"
+  },
+  {
+    "id": "p2",
+    "category": "Everyday & Small Talk",
+    "title": "Politely Declining an Invitation",
+    "level": "Intermediate",
+    "scenario": "A friend invites you out for drinks on Friday, but you are exhausted and just want to stay home.",
+    "textbook": "\"I cannot attend the gathering tonight because I am very fatigued and wish to sleep early.\"",
+    "textbookCritique": "Too clinical and overly formal. In casual English, this feels cold and robotic.",
+    "natural": "I'd love to, but I'm completely wiped out from this week. Mind if I take a rain check and catch you next time?",
+    "chunks": [
+      "I'd love to, but",
+      "completely wiped out",
+      "take a rain check",
+      "catch you next time"
+    ],
+    "connectedSpeech": "'Wiped out' links smoothly: /waɪp taʊt/. 'Rain check' puts crisp stress on 'rain'.",
+    "listenText": "I'd love to, but I'm completely wiped out from this week. Mind if I take a rain check and catch you next time?",
+    "title_cn": "高情商委婉拒绝朋友的周五聚会邀请",
+    "category_cn": "日常与社交闲聊",
+    "scenario_cn": "周五晚上朋友叫你出去喝酒聚会，但你上一周班累得精疲力竭，只想在家独处休息。",
+    "textbookCritique_cn": "措辞过于临床化和生硬。在英语社交中，用'fatigued'（疲惫）不仅显得刻板，而且会让对方感到冷淡疏远。",
+    "natural_cn": "我也超想去，但这一周下来我真的彻底被榨干了。介意我改天再约吗？下次一定！",
+    "chunks_cn": [
+      {
+        "en": "I'd love to, but",
+        "cn": "我也超想去，但...（经典委婉开场）"
+      },
+      {
+        "en": "completely wiped out",
+        "cn": "彻底精疲力竭/被榨干"
+      },
+      {
+        "en": "take a rain check",
+        "cn": "改天再约/改期"
+      },
+      {
+        "en": "catch you next time",
+        "cn": "下次再补上"
+      }
+    ],
+    "connectedSpeech_cn": "'Wiped out' 连读为 /waɪp taʊt/。'Rain check' 强调重音落在 'rain' 上。"
+  },
+  {
+    "id": "p3",
+    "category": "Everyday & Small Talk",
+    "title": "Joining a Conversation in Progress",
+    "level": "Advanced",
+    "scenario": "At a networking mixer or house party, two people are discussing a podcast or movie and you want to chime in smoothly.",
+    "textbook": "\"Excuse me, ladies and gentlemen. May I participate in this discussion regarding the subject?\"",
+    "textbookCritique": "Sounds like Victorian nobility. Creates an awkward barrier instead of flowing into the group.",
+    "natural": "Sorry to jump in, but I couldn't help overhearing—are you guys talking about the new Dune movie?",
+    "chunks": [
+      "Sorry to jump in, but",
+      "couldn't help overhearing",
+      "are you guys talking about"
+    ],
+    "connectedSpeech": "'Couldn't help overhearing' drops the /t/ in 'couldn't' and links 'help' directly to 'over' (/hel poʊvər/).",
+    "listenText": "Sorry to jump in, but I couldn't help overhearing—are you guys talking about the new Dune movie?",
+    "title_cn": "在聚会或酒会上自然加入已有对话",
+    "category_cn": "日常与社交闲聊",
+    "scenario_cn": "在社交酒会或朋友聚会上，两个人正在聊一部热播电影或播客，你想顺理成章地搭话插话。",
+    "textbookCritique_cn": "听起来像19世纪维多利亚时代的贵族开场，让人极度出戏，反而破坏了聊天氛围。",
+    "natural_cn": "不好意思打扰一下，我刚正好听到你们在聊——你们是在说那部新的《沙丘》电影吗？",
+    "chunks_cn": [
+      {
+        "en": "Sorry to jump in, but",
+        "cn": "不好意思插一句，但..."
+      },
+      {
+        "en": "couldn't help overhearing",
+        "cn": "刚无意中顺耳听到"
+      },
+      {
+        "en": "are you guys talking about",
+        "cn": "你们是在讨论...吗"
+      }
+    ],
+    "connectedSpeech_cn": "'Couldn't help overhearing' 中 'couldn't' 的 /t/ 失去爆破，'help' 与 'over' 连读为 /hel poʊvər/。"
+  },
+  {
+    "id": "p4",
+    "category": "Everyday & Small Talk",
+    "title": "Bumping Into an Acquaintance & Making a Quick Exit",
+    "level": "Intermediate",
+    "scenario": "You see someone you know at the grocery store or street, chat for 30 seconds, and need to head out gracefully.",
+    "textbook": "\"Now I must depart because I have other duties to accomplish at my residence. Goodbye.\"",
+    "textbookCritique": "Abrupt and socially clumsy. Native speakers soften departures by blaming their schedule or another appointment.",
+    "natural": "Hey, it was so good bumping into you! I gotta run or I'll be late for an appointment, but let's grab coffee soon!",
+    "chunks": [
+      "so good bumping into you",
+      "I gotta run",
+      "let's grab coffee soon"
+    ],
+    "connectedSpeech": "'I gotta run' softens 'got to' into /aɪ gɑːdə rʌn/ with an American flap-T.",
+    "listenText": "Hey, it was so good bumping into you! I gotta run or I'll be late for an appointment, but let's grab coffee soon!",
+    "title_cn": "街头偶遇熟人寒暄后优雅脱身离开",
+    "category_cn": "日常与社交闲聊",
+    "scenario_cn": "在超市或街头撞见熟人，闲聊了半分钟后，你需要赶时间优雅告辞，不能让场面尴尬。",
+    "textbookCritique_cn": "极其生硬古怪。母语者告辞时习惯以自己的行程紧迫作为台阶，并给对方留下下次见面的温馨期待。",
+    "natural_cn": "哇，真开心能在这儿碰到你！我得赶紧赶路了不然预约要迟到，改天找时间喝咖啡！",
+    "chunks_cn": [
+      {
+        "en": "so good bumping into you",
+        "cn": "偶遇你太棒了/真高兴碰到你"
+      },
+      {
+        "en": "I gotta run",
+        "cn": "我得先闪了/赶路了"
+      },
+      {
+        "en": "let's grab coffee soon",
+        "cn": "回头约喝咖啡！"
+      }
+    ],
+    "connectedSpeech_cn": "'I gotta run' 中 'got to' 美音弱读产生闪音 T (flap-T)，发音为 /aɪ gɑːdə rʌn/。"
+  },
+  {
+    "id": "p5",
+    "category": "Everyday & Small Talk",
+    "title": "Ordering Coffee with Custom Adjustments",
+    "level": "Beginner",
+    "scenario": "Ordering an iced latte with oat milk and half the sweetness at a busy cafe.",
+    "textbook": "\"Please give me one iced latte. I request oat milk and fifty percent of the standard sugar amount.\"",
+    "textbookCritique": "Sounds like giving instructions to an industrial machine. Slows down the barista queue.",
+    "natural": "Can I get a medium iced oat latte, half-sweet, to go please?",
+    "chunks": [
+      "Can I get a",
+      "oat latte",
+      "half-sweet",
+      "to go please"
+    ],
+    "connectedSpeech": "'Can I get a' runs together as a single rhythmic unit: /kənaɪ gedə/.",
+    "listenText": "Can I get a medium iced oat latte, half-sweet, to go please?",
+    "title_cn": "在繁忙咖啡馆精准定制点单（燕麦奶、半糖）",
+    "category_cn": "日常与社交闲聊",
+    "scenario_cn": "在忙碌的精品咖啡店点一杯中杯冰燕麦拿铁，要求半糖、外带，干脆利落不拖泥带水。",
+    "textbookCritique_cn": "像在给工业流水线机器人下达指令，罗嗦且让排队的咖啡师感到抓狂。",
+    "natural_cn": "你好，麻烦要一杯中杯冰燕麦拿铁、半糖、外带，谢谢！",
+    "chunks_cn": [
+      {
+        "en": "Can I get a",
+        "cn": "麻烦给我来一杯/一个（最地道的点单前缀）"
+      },
+      {
+        "en": "oat latte",
+        "cn": "燕麦拿铁"
+      },
+      {
+        "en": "half-sweet",
+        "cn": "半糖/降糖"
+      },
+      {
+        "en": "to go please",
+        "cn": "外带，谢谢"
+      }
+    ],
+    "connectedSpeech_cn": "'Can I get a' 作为一个连续的韵律单元一气呵成：/kənaɪ gedə/。"
+  },
+  {
+    "id": "p6",
+    "category": "Everyday & Small Talk",
+    "title": "Asking for the Bill and Splitting with Friends",
+    "level": "Intermediate",
+    "scenario": "Dinner is over at a casual sit-down restaurant and the table wants to pay equally.",
+    "textbook": "\"Waiter, bring the invoice please. We shall divide the monetary sum equally among the three persons.\"",
+    "textbookCritique": "Uses archaic terms like 'invoice' and overly formal division phrasing.",
+    "natural": "Whenever you get a chance, could we get the check? And could we just split it three ways?",
+    "chunks": [
+      "Whenever you get a chance",
+      "get the check",
+      "split it three ways"
+    ],
+    "connectedSpeech": "'Could we get the' links smoothly: /kʊdwiː ged ðə/. 'Split it' uses a flap T: /splɪ dɪt/.",
+    "listenText": "Whenever you get a chance, could we get the check? And could we just split it three ways?",
+    "title_cn": "餐厅结账并与朋友优雅AA分账",
+    "category_cn": "日常与社交闲聊",
+    "scenario_cn": "在休闲餐厅与朋友聚餐完毕，叫服务员买单并希望平均分摊成三份付款。",
+    "textbookCritique_cn": "用词老旧（把账单说成商业发票'invoice'），且分摊数学逻辑过于正式生硬。",
+    "natural_cn": "服务生，等您有空时麻烦结下账？另外我们可以直接三个人均摊吗？",
+    "chunks_cn": [
+      {
+        "en": "Whenever you get a chance",
+        "cn": "您有空的时候/不急的时候（极礼貌垫话）"
+      },
+      {
+        "en": "get the check",
+        "cn": "买单/结账"
+      },
+      {
+        "en": "split it three ways",
+        "cn": "三个人均摊/AA制"
+      }
+    ],
+    "connectedSpeech_cn": "'Could we get the' 平滑连读为 /kʊdwiː ged ðə/；'split it' 为闪音 T：/splɪ dɪt/。"
+  },
+  {
+    "id": "p7",
+    "category": "Job Interviews",
+    "title": "\"Tell Me About Yourself\" Opener",
+    "level": "Advanced",
+    "scenario": "The first 90 seconds of a job interview. You need an executive elevator pitch, not your life biography.",
+    "textbook": "\"I was born in 1995. I studied computer science at university and graduated in 2017. Then I joined Company A...\"",
+    "textbookCritique": "Chronological snoozefest. Interviewers want your current value proposition, top achievements, and why you're here.",
+    "natural": "Sure! At a high level, I'm a product engineer with about six years of experience scaling consumer web apps. Most recently at FinTech Corp, I led our core onboarding revamp, which boosted activation by 28%. Right now, I'm looking to bring that user-first mindset to a fast-growing team like yours.",
+    "chunks": [
+      "At a high level",
+      "six years of experience scaling",
+      "led our core onboarding revamp",
+      "looking to bring that user-first mindset"
+    ],
+    "connectedSpeech": "'At a high level' flows as /ædə haɪ levəl/. 'User-first' has strong primary stress on 'user'.",
+    "listenText": "Sure! At a high level, I'm a product engineer with about six years of experience scaling consumer web apps. Most recently at FinTech Corp, I led our core onboarding revamp, which boosted activation by 28%. Right now, I'm looking to bring that user-first mindset to a fast-growing team like yours.",
+    "title_cn": "面试开场'自我介绍'的高管级电梯演讲",
+    "category_cn": "外企求职与英文面试",
+    "scenario_cn": "面试官说'Tell me about yourself'。你需要在90秒内展现核心价值与商业战果，而不是念履历流水账。",
+    "textbookCritique_cn": "编年史式流水账。面试官看得到简历，他们想听的是你的核心优势、最高战绩以及为什么你能解决他们的问题。",
+    "natural_cn": "没问题！概括来说，我是一名拥有6年高并发C端Web产品架构经验的工程师。最近在FinTech Corp，我主导了核心入驻流程的重构，直接将用户激活率拉升了28%。现在，我非常希望把这种以用户为本的增长思维带入你们这样快速扩张的团队。",
+    "chunks_cn": [
+      {
+        "en": "At a high level",
+        "cn": "从宏观层面/概括来说"
+      },
+      {
+        "en": "six years of experience scaling",
+        "cn": "六年规模化/架构经验"
+      },
+      {
+        "en": "led our core onboarding revamp",
+        "cn": "主导了核心新用户流程的改版重构"
+      },
+      {
+        "en": "looking to bring that user-first mindset",
+        "cn": "希望将以用户为中心的心态带入..."
+      }
+    ],
+    "connectedSpeech_cn": "'At a high level' 连读为 /ædə haɪ levəl/。'User-first' 的主重音落在 'user' 上。"
+  },
+  {
+    "id": "p8",
+    "category": "Job Interviews",
+    "title": "Answering \"What Is Your Biggest Weakness?\"",
+    "level": "Advanced",
+    "scenario": "Demonstrating genuine self-awareness and active remediation without sounding fake or disqualifying yourself.",
+    "textbook": "\"My biggest weakness is that I am too much of a perfectionist and work too hard on everything.\"",
+    "textbookCritique": "The most clichéd, disingenuous answer in interview history. Recruiters roll their eyes.",
+    "natural": "Early on, I had a tendency to dive straight into execution before aligning all stakeholders on the scope. I realized that caused re-work down the line. Over the last year, I've instituted a lightweight 1-pager RFC process before kicking off sprints, which cut our alignment cycle in half.",
+    "chunks": [
+      "had a tendency to",
+      "dive straight into execution",
+      "down the line",
+      "instituted a lightweight 1-pager"
+    ],
+    "connectedSpeech": "'Tendency to' compresses into /tendənsiː tə/. 'Down the line' is an idiomatic chunk with rhythmic cadence.",
+    "listenText": "Early on, I had a tendency to dive straight into execution before aligning all stakeholders on the scope. I realized that caused re-work down the line. Over the last year, I've instituted a lightweight 1-pager RFC process before kicking off sprints, which cut our alignment cycle in half.",
+    "title_cn": "回答'你最大的缺点是什么？'的高情商策略",
+    "category_cn": "外企求职与英文面试",
+    "scenario_cn": "展示真诚的自我反思意识和落地的改进闭环，既不自断前程，也不讲虚伪的假缺点。",
+    "textbookCritique_cn": "面试史上最虚伪、最招人反感的陈词滥调。HR听到'我是完美主义者'只会翻白眼。",
+    "natural_cn": "早些时候，我有时容易在没有完全拉齐各方认知前就一头扎进具体执行里，后来发现这往往导致后期的返工。在过去这一年里，我推进了一套轻量级的单页RFC征求意见机制，在Sprint启动前先对齐共识，直接将沟通周期缩短了一半。",
+    "chunks_cn": [
+      {
+        "en": "had a tendency to",
+        "cn": "过去曾有一种...的倾向"
+      },
+      {
+        "en": "dive straight into execution",
+        "cn": "直接埋头扎进执行"
+      },
+      {
+        "en": "down the line",
+        "cn": "后期/后续阶段（返工）"
+      },
+      {
+        "en": "instituted a lightweight 1-pager",
+        "cn": "建立了一套轻量级单页文档机制"
+      }
+    ],
+    "connectedSpeech_cn": "'Tendency to' 弱读压缩为 /tendənsiː tə/。'Down the line' 是极地道的商业口语短语。"
+  },
+  {
+    "id": "p9",
+    "category": "Job Interviews",
+    "title": "Explaining an Employment Gap or Transition",
+    "level": "Intermediate",
+    "scenario": "You took 8 months off between jobs to upskill, care for family, or recover from burnout.",
+    "textbook": "\"I had no employment for eight months because I was unemployed and looking for positions.\"",
+    "textbookCritique": "Sounds defensive and apologetic. Frame intentionality and growth.",
+    "natural": "After wrapping up four intense years at my previous firm, I intentionally took a six-month sabbatical. During that stretch, I completed an advanced cloud architecture certification and contributed to open-source tooling. I'm now fully recharged and ready for my next long-term chapter.",
+    "chunks": [
+      "After wrapping up",
+      "intentionally took a sabbatical",
+      "During that stretch",
+      "fully recharged"
+    ],
+    "connectedSpeech": "'Wrapping up' links the /ŋ/ to /ʌp/. 'Recharged and ready' uses rhythmic alliteration.",
+    "listenText": "After wrapping up four intense years at my previous firm, I intentionally took a six-month sabbatical. During that stretch, I completed an advanced cloud architecture certification and contributed to open-source tooling. I'm now fully recharged and ready for my next long-term chapter.",
+    "title_cn": "解释职场空窗期或职业转型",
+    "category_cn": "外企求职与英文面试",
+    "scenario_cn": "两份工作之间有6-8个月的空档，用于陪伴家人、深造学习或从过度疲劳中休整充电。",
+    "textbookCritique_cn": "语气被动甚至带有道歉意味。成熟职场人应强调这是主动、有规划的蓄能期。",
+    "natural_cn": "在上一家公司拼搏了四年高强度战役之后，我主动安排了半年的休整蓄能期。在这段时期里，我完成了高级云架构的认证，并向开源项目贡献了核心代码。现在我已经彻底满电复活，为下一段长期的职业征程做好了充分准备。",
+    "chunks_cn": [
+      {
+        "en": "After wrapping up",
+        "cn": "在圆满结束/收尾了...之后"
+      },
+      {
+        "en": "intentionally took a sabbatical",
+        "cn": "主动安排了一段休整进修期"
+      },
+      {
+        "en": "During that stretch",
+        "cn": "在那段时间里"
+      },
+      {
+        "en": "fully recharged",
+        "cn": "彻底满电/能量满格"
+      }
+    ],
+    "connectedSpeech_cn": "'Wrapping up' 中 /ŋ/ 和 /ʌp/ 顺畅连读。'Recharged and ready' 押头韵具有极强节奏感。"
+  },
+  {
+    "id": "p10",
+    "category": "Job Interviews",
+    "title": "Answering \"Why Do You Want to Work Here?\"",
+    "level": "Intermediate",
+    "scenario": "The hiring manager wants to know why you applied to their specific company instead of blasting 50 resumes.",
+    "textbook": "\"Because your company has a great reputation and offers competitive salary and benefits.\"",
+    "textbookCritique": "Self-serving. Shows you didn't do homework on their actual product or market position.",
+    "natural": "Two things really stood out to me. First, how you solved latency in your v3 engine last quarter—I actually read your engineering blog breakdown. Second, your team's autonomous culture. I thrive when given high ownership over outcomes rather than rigid micro-management.",
+    "chunks": [
+      "really stood out to me",
+      "read your engineering blog breakdown",
+      "I thrive when given",
+      "high ownership over outcomes"
+    ],
+    "connectedSpeech": "'Stood out to me' connects: /stʊ daʊ tə miː/. 'High ownership' links with glottal precision.",
+    "listenText": "Two things really stood out to me. First, how you solved latency in your v3 engine last quarter—I actually read your engineering blog breakdown. Second, your team's autonomous culture. I thrive when given high ownership over outcomes rather than rigid micro-management.",
+    "title_cn": "回答'为什么想加入我们公司？'",
+    "category_cn": "外企求职与英文面试",
+    "scenario_cn": "面试官想确认你是否认真研究过他们的产品和商业护城河，而非盲投海投。",
+    "textbookCritique_cn": "纯以自我利益为中心。不仅没有体现出你对他们业务的独到见解，反而显得极其势利。",
+    "natural_cn": "有两点真正打动了我：首先是你们上个季度攻克v3引擎延迟的技术方案——我研读了你们官方工程博客的技术拆解；其次是团队高度自驱的工程师文化。相比于被微观管理，我更擅长在被赋予高自主权与目标责任的环境下大展拳脚。",
+    "chunks_cn": [
+      {
+        "en": "really stood out to me",
+        "cn": "真正让我眼前一亮的是..."
+      },
+      {
+        "en": "read your engineering blog breakdown",
+        "cn": "研读了你们工程博客的深度拆解"
+      },
+      {
+        "en": "I thrive when given",
+        "cn": "在被赋予...时我最能出成果/大展身手"
+      },
+      {
+        "en": "high ownership over outcomes",
+        "cn": "对最终交付战果的高度自主把控"
+      }
+    ],
+    "connectedSpeech_cn": "'Stood out to me' 连读为 /stʊ daʊ tə miː/。'High ownership' 带有声门阻断的精准爆发。"
+  },
+  {
+    "id": "p11",
+    "category": "Job Interviews",
+    "title": "Describing Conflict Resolution with a Coworker",
+    "level": "Advanced",
+    "scenario": "Behavioral question: Tell me about a time you had a disagreement with a team member.",
+    "textbook": "\"My colleague had a wrong opinion about the database architecture. I proved to him that I was correct.\"",
+    "textbookCritique": "Sounds hostile, combative, and immature. Interviews evaluate emotional intelligence and collaboration.",
+    "natural": "We had differing views on whether to refactor the legacy billing code or build a greenfield microservice. Instead of debating in Slack, I suggested we pull up our latency benchmarks and customer churn data. Grounding the discussion in actual metrics took the emotion out of it, and we agreed on a staged hybrid rollout.",
+    "chunks": [
+      "differing views on",
+      "Instead of debating in Slack",
+      "Grounding the discussion in",
+      "took the emotion out of it"
+    ],
+    "connectedSpeech": "'Took the emotion out of it' glides: /tʊk ðiː ɪmoʊʃən aʊ dəvɪt/.",
+    "listenText": "We had differing views on whether to refactor the legacy billing code or build a greenfield microservice. Instead of debating in Slack, I suggested we pull up our latency benchmarks and customer churn data. Grounding the discussion in actual metrics took the emotion out of it, and we agreed on a staged hybrid rollout.",
+    "title_cn": "STAR模型阐述与同事的冲突与化解",
+    "category_cn": "外企求职与英文面试",
+    "scenario_cn": "行为面试高频题：请描述一次你与同事或上级发生分歧并最终达成共识的经历。",
+    "textbookCritique_cn": "听起来充满好斗和攻击性。面试官考察的是你的情商、跨部门协同力以及基于数据做决策的成熟度。",
+    "natural_cn": "当时我们在究竟是重构祖传计费代码还是全新搭建微服务上产生了不同看法。与其在Slack里打字争执，我提议把真实压测延迟数据和客诉流失率拉出来复盘。用真实业务指标作为事实基础，瞬间消除了情绪对立，最终我们达成一致，采取分阶段的混合灰度方案。",
+    "chunks_cn": [
+      {
+        "en": "differing views on",
+        "cn": "在...上持有不同看法"
+      },
+      {
+        "en": "Instead of debating in Slack",
+        "cn": "与其在Slack群里反复争论"
+      },
+      {
+        "en": "Grounding the discussion in",
+        "cn": "将讨论锚定/立足在真实数据上"
+      },
+      {
+        "en": "took the emotion out of it",
+        "cn": "去除了情绪化干扰/就事论事"
+      }
+    ],
+    "connectedSpeech_cn": "'Took the emotion out of it' 连读为 /tʊk ðiː ɪmoʊʃən aʊ dəvɪt/。"
+  },
+  {
+    "id": "p12",
+    "category": "Job Interviews",
+    "title": "Asking Strategic Questions at the End",
+    "level": "Intermediate",
+    "scenario": "Interviewer says: 'We have 5 minutes left. What questions do you have for me?'",
+    "textbook": "\"I have no questions. When will I hear the result of the hiring decision?\"",
+    "textbookCritique": "Wastes your biggest opportunity to show executive presence, curiosity, and high intent.",
+    "natural": "I'd love to know: for whoever steps into this seat, what would a home run look like in the first 90 days? And what's the biggest roadblock they might run into?",
+    "chunks": [
+      "what would a home run look like",
+      "in the first 90 days",
+      "biggest roadblock they might run into"
+    ],
+    "connectedSpeech": "'Home run' is an American idiom for outstanding success. 'Look like in the' links: /lʊ klaɪ kɪn ðə/.",
+    "listenText": "I'd love to know: for whoever steps into this seat, what would a home run look like in the first 90 days? And what's the biggest roadblock they might run into?",
+    "title_cn": "面试尾声向面试官提出战略级好问题",
+    "category_cn": "外企求职与英文面试",
+    "scenario_cn": "面试官问：'我们还剩5分钟，你有什么问题想问我的吗？'",
+    "textbookCritique_cn": "白白浪费了全场面试最好的展示战略眼光、领导力与主动探究欲的黄金翻盘机会。",
+    "natural_cn": "我很想请教：对于接下来入职这个岗位的负责人，在头90天里怎样的成果算得上是一次'全垒打'大胜？以及在这个过程中，最可能遭遇的核心阻碍会是什么？",
+    "chunks_cn": [
+      {
+        "en": "what would a home run look like",
+        "cn": "怎样才算交出一份大获全胜的战绩 (Home run)"
+      },
+      {
+        "en": "in the first 90 days",
+        "cn": "在入职的前90天内"
+      },
+      {
+        "en": "biggest roadblock they might run into",
+        "cn": "最可能遭遇的核心卡点与阻碍"
+      }
+    ],
+    "connectedSpeech_cn": "'Home run' 是棒球俚语，在商业外企中特指极其亮眼的重大胜利。'Look like in the' 连读为 /lʊ klaɪ kɪn ðə/。"
+  },
+  {
+    "id": "p13",
+    "category": "Job Interviews",
+    "title": "Negotiating Salary Without Answering First",
+    "level": "Advanced",
+    "scenario": "Recruiter asks: 'What are your salary expectations for this role?' early in the screening call.",
+    "textbook": "\"I want one hundred and twenty thousand dollars minimum, or else I cannot accept.\"",
+    "textbookCritique": "Anchors you too early and risks either pricing yourself out or leaving money on the table.",
+    "natural": "Right now, my main focus is finding the right team fit and growth potential. I'm sure your compensation bands are competitive for this level—could you share what range you've budgeted for the role?",
+    "chunks": [
+      "Right now, my main focus is",
+      "team fit and growth potential",
+      "what range you've budgeted for"
+    ],
+    "connectedSpeech": "'Budgeted for the' produces a soft flap T: /bʌdʒɪdɪd fɔːr ðə/.",
+    "listenText": "Right now, my main focus is finding the right team fit and growth potential. I'm sure your compensation bands are competitive for this level—could you share what range you've budgeted for the role?",
+    "title_cn": "被HR追问期望薪资时的太极推手反客为主",
+    "category_cn": "外企求职与英文面试",
+    "scenario_cn": "HR或猎头在初筛电话中直接逼问：'请问你目前的期望薪资是多少？'",
+    "textbookCritique_cn": "过早给出确切数字，要么直接报价过高被筛除，要么过低白白损失谈判筹码。",
+    "natural_cn": "现阶段我更看重的是团队的契合度与未来的上升空间。我相信贵公司在同级别的薪资架构上一定非常有竞争力——不知道您能否先透露一下这个岗位目前设定的预算区间？",
+    "chunks_cn": [
+      {
+        "en": "Right now, my main focus is",
+        "cn": "现阶段我最核心关注的是..."
+      },
+      {
+        "en": "team fit and growth potential",
+        "cn": "团队契合度与业务增长潜力"
+      },
+      {
+        "en": "what range you've budgeted for",
+        "cn": "贵公司给该岗位预留的预算范围"
+      }
+    ],
+    "connectedSpeech_cn": "'Budgeted for the' 中 'budgeted' 产生柔和的闪音 T：/bʌdʒɪdɪd fɔːr ðə/。"
+  },
+  {
+    "id": "p14",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "IELTS Part 1: Describing Your Hometown",
+    "level": "Intermediate",
+    "scenario": "Examiner asks: 'Tell me about the town or city where you grew up.'",
+    "textbook": "\"I come from Taipei. It is a big city in Taiwan. The weather is humid. There are many buildings and cars.\"",
+    "textbookCritique": "Short, choppy simple sentences. Scores Band 5.5 to 6.0 due to limited lexical diversity and flat rhythm.",
+    "natural": "I grew up in Taipei, which is a buzzing metropolis nestled right in a mountainous basin. What I love most is the sheer contrast—you can be sipping bubble tea in a futuristic downtown district, and twenty minutes later, you're hiking a lush green trail overlooking the skyline.",
+    "chunks": [
+      "buzzing metropolis",
+      "nestled right in",
+      "sheer contrast",
+      "overlooking the skyline"
+    ],
+    "connectedSpeech": "'Buzzing metropolis' has a lively cadence; 'nestled right in' links /nesəld raɪ tɪn/.",
+    "listenText": "I grew up in Taipei, which is a buzzing metropolis nestled right in a mountainous basin. What I love most is the sheer contrast—you can be sipping bubble tea in a futuristic downtown district, and twenty minutes later, you're hiking a lush green trail overlooking the skyline.",
+    "title_cn": "雅思口语Part 1：高分描绘家乡风貌与反差",
+    "category_cn": "雅思与托福口语实战",
+    "scenario_cn": "考官提问：'Tell me about the town or city where you grew up.'",
+    "textbookCritique_cn": "短小破碎的简单句堆砌。词汇匮乏且语调平缓，在雅思评分中通常只能拿到 5.5-6.0 分档。",
+    "natural_cn": "我在台北长大，这是一座坐落在群山环抱盆地中的繁华大都会。我最着迷的是它强烈的反差感——前二十分钟你还在充满赛博朋克感的未来主义CBD喝着珍珠奶茶，转眼间你已经在俯瞰整座城市天际线的郁郁葱葱的步道上徒步了。",
+    "chunks_cn": [
+      {
+        "en": "buzzing metropolis",
+        "cn": "充满活力的繁华大都会"
+      },
+      {
+        "en": "nestled right in",
+        "cn": "依山傍水/坐落依偎在..."
+      },
+      {
+        "en": "sheer contrast",
+        "cn": "极其强烈的鲜明对比"
+      },
+      {
+        "en": "overlooking the skyline",
+        "cn": "俯瞰城市天际线"
+      }
+    ],
+    "connectedSpeech_cn": "'Buzzing metropolis' 语调轻快起伏；'nestled right in' 连读为 /nesəld raɪ tɪn/。"
+  },
+  {
+    "id": "p15",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "IELTS Part 2: Describing a Memorable Trip",
+    "level": "Advanced",
+    "scenario": "Cue Card: Describe an unforgettable journey you went on. You should say where you went and why it was memorable.",
+    "textbook": "\"Last year I traveled to Japan with my family. The food was tasty and the shrines were historical. I felt very happy.\"",
+    "textbookCritique": "Basic adjectives (tasty, happy, historical). Lacks sensory detail and idiomatic coherence.",
+    "natural": "A journey that truly left an indelible mark was a solo backpacking trip through Kyoto two autumns ago. What really struck me wasn't just the iconic wooden temples, but the morning mist rolling off the Arashiyama bamboo groves. It was a rare chance to unplug from screen fatigue and reflect.",
+    "chunks": [
+      "left an indelible mark",
+      "What really struck me wasn't just",
+      "unplug from screen fatigue"
+    ],
+    "connectedSpeech": "'Indelible mark' showcases Band 8.5+ vocabulary. 'Struck me' uses crisp /strʌk miː/ juncture.",
+    "listenText": "A journey that truly left an indelible mark was a solo backpacking trip through Kyoto two autumns ago. What really struck me wasn't just the iconic wooden temples, but the morning mist rolling off the Arashiyama bamboo groves. It was a rare chance to unplug from screen fatigue and reflect.",
+    "title_cn": "雅思口语Part 2：描述一段刻骨铭心的旅程",
+    "category_cn": "雅思与托福口语实战",
+    "scenario_cn": "口语卡片题：Describe an unforgettable journey you went on. 讲述一段真正触动你心灵的独自旅行。",
+    "textbookCritique_cn": "使用小学生水平的基础形容词（tasty, happy, historical），缺乏画面感和高级句式衔接。",
+    "natural_cn": "真正让我刻骨铭心的一趟旅程，是两个秋天前独自背包穿越京都的时光。真正震撼我的不仅是那些经典的百年古刹，更是清晨漫过岚山竹林的那层晨雾。那是一次难得能够彻底摆脱电子屏幕内耗、回归自省的绝佳体验。",
+    "chunks_cn": [
+      {
+        "en": "left an indelible mark",
+        "cn": "留下了不可磨灭的深刻印记 (Band 8+)"
+      },
+      {
+        "en": "What really struck me wasn't just",
+        "cn": "真正深深震撼我的不仅是..."
+      },
+      {
+        "en": "unplug from screen fatigue",
+        "cn": "从电子屏幕疲劳与数字焦虑中彻底拔出"
+      }
+    ],
+    "connectedSpeech_cn": "'Indelible mark' 是标准的雅思高分搭配。'Struck me' 发音干净利落：/strʌk miː/。"
+  },
+  {
+    "id": "p16",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "IELTS Part 3: Are People More Isolated by Tech?",
+    "level": "Advanced",
+    "scenario": "Examiner asks: 'In your opinion, does modern digital technology bring people closer together, or isolate them?'",
+    "textbook": "\"I think technology has advantages and disadvantages. On one hand, people use phones. On the other hand, they do not talk face-to-face.\"",
+    "textbookCritique": "Generic 'two-sided' formulaic memorized response. Examiners penalize template structures.",
+    "natural": "It's definitely a double-edged sword. On paper, we've never been more hyper-connected—you can FaceTime someone across the globe in seconds. But in practice, there's often an erosion of deep, nuanced presence. People end up craving genuine human connection while doom-scrolling beside their loved ones.",
+    "chunks": [
+      "double-edged sword",
+      "On paper, we've never been more",
+      "in practice, there's often",
+      "doom-scrolling beside"
+    ],
+    "connectedSpeech": "'Double-edged sword' has primary stress on 'sword'. 'Erosion of' links as /ɪroʊʒən əv/.",
+    "listenText": "It's definitely a double-edged sword. On paper, we've never been more hyper-connected—you can FaceTime someone across the globe in seconds. But in practice, there's often an erosion of deep, nuanced presence. People end up craving genuine human connection while doom-scrolling beside their loved ones.",
+    "title_cn": "雅思口语Part 3：科技到底拉近了还是疏远了人类？",
+    "category_cn": "雅思与托福口语实战",
+    "scenario_cn": "考官深入探讨：In your opinion, does modern technology bring people closer or isolate them?",
+    "textbookCritique_cn": "机械背诵痕迹严重的'正反双方论点'模板套话，考官一听就会判定为死记硬背而扣分。",
+    "natural_cn": "这绝对是一把双刃剑。理论上，我们拥有前所未有的超链接世界——几秒内就能跟地球另一端的人FaceTime。但实际上，深度的细腻陪伴却被严重侵蚀了。人们一边对身旁的至亲低头刷着短视频，一边却在虚拟网络中渴求真正的温存。",
+    "chunks_cn": [
+      {
+        "en": "double-edged sword",
+        "cn": "典型的双刃剑"
+      },
+      {
+        "en": "On paper, we've never been more",
+        "cn": "在理论上/字面上看，我们前所未有地..."
+      },
+      {
+        "en": "in practice, there's often",
+        "cn": "但在实际现实中，却往往存在..."
+      },
+      {
+        "en": "doom-scrolling beside",
+        "cn": "在...身旁低头沉溺式刷负面手机资讯"
+      }
+    ],
+    "connectedSpeech_cn": "'Double-edged sword' 的核心重音落在 'sword'。'Erosion of' 连读为 /ɪroʊʒən əv/。"
+  },
+  {
+    "id": "p17",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "TOEFL Independent: Remote Work vs. In-Office",
+    "level": "Intermediate",
+    "scenario": "Prompt: Do you prefer working or studying remotely, or in a physical environment? State your opinion with reasons.",
+    "textbook": "\"I prefer remote work because it is comfortable. I can save transportation time and wear comfortable clothes at home.\"",
+    "textbookCritique": "Repetitive word choice ('comfortable' twice). Missing transitional discourse markers.",
+    "natural": "Personally, I lean strongly toward a remote or hybrid model. For one, cutting out a grueling daily commute gives me back nearly two hours each day for focused deep work. Furthermore, working from an optimized home setup allows me to design my day around energy peaks rather than arbitrary office hours.",
+    "chunks": [
+      "lean strongly toward",
+      "cutting out a grueling daily commute",
+      "gives me back nearly",
+      "focused deep work"
+    ],
+    "connectedSpeech": "'Lean strongly toward' flows as /liːn strɔːŋli təwɔːrd/. 'Commute gives me' links without pause.",
+    "listenText": "Personally, I lean strongly toward a remote or hybrid model. For one, cutting out a grueling daily commute gives me back nearly two hours each day for focused deep work. Furthermore, working from an optimized home setup allows me to design my day around energy peaks rather than arbitrary office hours.",
+    "title_cn": "托福独立口语：居家远程办公 vs 实体办公室",
+    "category_cn": "雅思与托福口语实战",
+    "scenario_cn": "题目要求表明偏好并给出清晰的论证支撑：居家办公还是进办公室？",
+    "textbookCritique_cn": "反复使用单调单词（comfortable出现两次），缺少高级逻辑连接词与论证说服力。",
+    "natural_cn": "从个人角度，我强烈倾向于远程或混合办公模式。其一，砍掉每天痛苦折磨的通勤，直接给我省出了近两个小时来投入沉浸式深度思考；再者，在专门调校好的居家环境下，我可以根据自己的精力高峰来安排工作节奏，而不是被僵化的打卡工时所束缚。",
+    "chunks_cn": [
+      {
+        "en": "lean strongly toward",
+        "cn": "强烈偏向/青睐于..."
+      },
+      {
+        "en": "cutting out a grueling daily commute",
+        "cn": "砍掉每天令人筋疲力竭的苦差通勤"
+      },
+      {
+        "en": "gives me back nearly",
+        "cn": "为我重新争取回近..."
+      },
+      {
+        "en": "focused deep work",
+        "cn": "高度专注的深度工作状态"
+      }
+    ],
+    "connectedSpeech_cn": "'Lean strongly toward' 连读发音：/liːn strɔːŋli təwɔːrd/。'Commute gives me' 语流顺畅无卡顿。"
+  },
+  {
+    "id": "p18",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "TOEFL Integrated: Summarizing Campus Changes",
+    "level": "Intermediate",
+    "scenario": "Synthesizing a university reading announcement with a student's spoken reaction.",
+    "textbook": "\"The university announcement states that parking fees will increase. The student in the audio is angry about this policy.\"",
+    "textbookCritique": "Simplistic syntax. Doesn't show academic synthesis or specific counter-arguments.",
+    "natural": "The reading outlines the administration's plan to hike campus parking fees to fund bicycle infrastructure. However, the male speaker strongly pushes back on this, pointing out that off-campus commuters with limited transit options will bear the brunt of the cost without any real bicycle alternative.",
+    "chunks": [
+      "outlines the administration's plan to",
+      "strongly pushes back on this",
+      "bear the brunt of the cost"
+    ],
+    "connectedSpeech": "'Bear the brunt of' is an advanced collocated idiom. 'Pushes back on' links /pʊʃɪz bæk ɑːn/.",
+    "listenText": "The reading outlines the administration's plan to hike campus parking fees to fund bicycle infrastructure. However, the male speaker strongly pushes back on this, pointing out that off-campus commuters with limited transit options will bear the brunt of the cost without any real bicycle alternative.",
+    "title_cn": "托福综合口语：高分提炼校园政策与学生态度",
+    "category_cn": "雅思与托福口语实战",
+    "scenario_cn": "综合阅读校园涨停车费通告与听力中男学生的激烈反驳观点。",
+    "textbookCritique_cn": "语法结构过于低级，完全没有体现出学术维度的信息综合重构与论据因果链。",
+    "natural_cn": "阅读文本概括了校方准备提高校园停车费以补贴自行车道基建的决议。然而，听力中的男同学对此强烈提出异议，他犀利指出，对于住在校外、公共交通不便的通勤学生来说，他们不得不被迫咽下高昂的开销苦果，却根本没有任何实际可行的自行车骑行替代方案。",
+    "chunks_cn": [
+      {
+        "en": "outlines the administration's plan to",
+        "cn": "梳理概括了校方管理层的...计划"
+      },
+      {
+        "en": "strongly pushes back on this",
+        "cn": "对此提出了强烈的质疑与反驳"
+      },
+      {
+        "en": "bear the brunt of the cost",
+        "cn": "首当其冲承受最高昂的成本代价"
+      }
+    ],
+    "connectedSpeech_cn": "'Bear the brunt of' 是地道的学术与商务习语。'Pushes back on' 连读为 /pʊʃɪz bæk ɑːn/。"
+  },
+  {
+    "id": "p19",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "Buying Time & Fluency Fillers",
+    "level": "Advanced",
+    "scenario": "Examiner asks an unexpected, philosophical question and you need 3 seconds to organize your thoughts.",
+    "textbook": "\"Umm... err... wait a moment please, I am thinking of my answer.\"",
+    "textbookCritique": "Breaks the fluency score. Native speakers use conversational discourse fillers to think out loud.",
+    "natural": "That's a fascinating angle—I haven't thought about it in quite that light before. Off the top of my head, I'd say the primary factor comes down to...",
+    "chunks": [
+      "That's a fascinating angle",
+      "in quite that light before",
+      "Off the top of my head",
+      "comes down to"
+    ],
+    "connectedSpeech": "'Off the top of my head' is said in one smooth breath unit: /ɔːf ðə tɑːp əv maɪ hed/.",
+    "listenText": "That's a fascinating angle—I haven't thought about it in quite that light before. Off the top of my head, I'd say the primary factor comes down to...",
+    "title_cn": "雅思托福考场争取思考时间的母语级缓冲垫话",
+    "category_cn": "雅思与托福口语实战",
+    "scenario_cn": "考官冷不丁问了一个非常冷门抽象的哲学题，你脑子一片空白需要争取3秒构思论点。",
+    "textbookCritique_cn": "支支吾吾'Umm... err...'直接暴露考生的词穷与卡顿，直接在流利度（Fluency）维度被扣大分。",
+    "natural_cn": "这个切入点非常引人深思——我还真没从这个视角深入推敲过。如果让我不假思索脱口而出的话，我认为最核心的症结归根结底在于...",
+    "chunks_cn": [
+      {
+        "en": "That's a fascinating angle",
+        "cn": "这个切入点很有意思/令人耳目一新"
+      },
+      {
+        "en": "in quite that light before",
+        "cn": "以前还真没从这个角度看待过"
+      },
+      {
+        "en": "Off the top of my head",
+        "cn": "如果凭第一反应/不假思索脱口而出的话"
+      },
+      {
+        "en": "comes down to",
+        "cn": "归根结底的核心在于..."
+      }
+    ],
+    "connectedSpeech_cn": "'Off the top of my head' 在一个气息单元中一气呵成：/ɔːf ðə tɑːp əv maɪ hed/。"
+  },
+  {
+    "id": "p20",
+    "category": "Workplace & Meetings",
+    "title": "Daily Agile Standup 60-Second Update",
+    "level": "Intermediate",
+    "scenario": "Giving your daily engineering or team standup update quickly and clearly.",
+    "textbook": "\"Yesterday I wrote code. Today I will write code. I have no blockers right now. That is all.\"",
+    "textbookCritique": "Zero value provided. Teammates don't know what you shipped or what dependencies exist.",
+    "natural": "Yesterday I wrapped up the Stripe webhook handler and pushed it to staging for QA. Today, I'm heads-down on the checkout error states. No hard blockers, but I might tap Sarah for a quick sanity check on the error schema this afternoon.",
+    "chunks": [
+      "wrapped up the",
+      "pushed it to staging for QA",
+      "heads-down on",
+      "tap someone for a quick sanity check"
+    ],
+    "connectedSpeech": "'Heads-down on' links /hedz daʊ nɑːn/. 'Sanity check' carries brisk workplace tempo.",
+    "listenText": "Yesterday I wrapped up the Stripe webhook handler and pushed it to staging for QA. Today, I'm heads-down on the checkout error states. No hard blockers, but I might tap Sarah for a quick sanity check on the error schema this afternoon.",
+    "title_cn": "敏捷每日站会60秒精准战报",
+    "category_cn": "职场协作与外企会议",
+    "scenario_cn": "在跨国远程敏捷Standup上，干脆利落汇报昨日战果、今日重心与卡点阻碍。",
+    "textbookCritique_cn": "毫无营养的废话。队友完全不知道你到底交付了什么模块，存在哪些潜在依赖。",
+    "natural_cn": "昨天我搞定了Stripe的Webhook回调处理模块，并提到了测试环境交给QA验收。今天，我全神贯注在排查结账异常状态边界。目前没有硬性阻塞，但下午可能需要找Sarah稍微拉齐确认一眼异常数据结构。",
+    "chunks_cn": [
+      {
+        "en": "wrapped up the",
+        "cn": "顺利搞定/收尾了..."
+      },
+      {
+        "en": "pushed it to staging for QA",
+        "cn": "已推送到测试环境供QA验收"
+      },
+      {
+        "en": "heads-down on",
+        "cn": "正埋头全神贯注处理..."
+      },
+      {
+        "en": "tap someone for a quick sanity check",
+        "cn": "找某人快速过一眼/拉齐做个健全性确认"
+      }
+    ],
+    "connectedSpeech_cn": "'Heads-down on' 连读为 /hedz daʊ nɑːn/。'Sanity check' 是外企高频黑话。"
+  },
+  {
+    "id": "p21",
+    "category": "Workplace & Meetings",
+    "title": "Respectfully Disagreeing with a Senior Colleague",
+    "level": "Advanced",
+    "scenario": "In a team technical or product review, a lead proposes an approach that has architectural risks.",
+    "textbook": "\"I disagree with your proposal. Your idea will fail because of scalability problems.\"",
+    "textbookCritique": "Blunt and offensive. Triggers defensiveness instead of constructive technical dialogue.",
+    "natural": "I see where you're coming from with the monolith approach, and it definitely gets us to market faster. My only reservation is how it handles peak holiday traffic spikes. What if we spike a 10x load test first before locking in that schema?",
+    "chunks": [
+      "I see where you're coming from",
+      "gets us to market faster",
+      "My only reservation is",
+      "What if we spike a"
+    ],
+    "connectedSpeech": "'I see where you're coming from' is spoken with an encouraging, rising-falling intonation.",
+    "listenText": "I see where you're coming from with the monolith approach, and it definitely gets us to market faster. My only reservation is how it handles peak holiday traffic spikes. What if we spike a 10x load test first before locking in that schema?",
+    "title_cn": "在技术方案评审中礼貌反驳资深骨干",
+    "category_cn": "职场协作与外企会议",
+    "scenario_cn": "技术方案会上，资深负责人提出了一套架构方案，但你敏锐地察觉到了高并发下的潜在灾难。",
+    "textbookCritique_cn": "简单粗暴，充满敌意与火药味。会立刻引发对方的防御本能，毁掉良性的技术研讨氛围。",
+    "natural_cn": "我完全理解您选择单体架构的初衷，这确实能让我们以最快速度抢占市场。我唯一有所顾虑的，是它在应对节假日峰值流量激增时的表现。要不我们在拍死这个设计之前，先做一次10倍极限压测看看？",
+    "chunks_cn": [
+      {
+        "en": "I see where you're coming from",
+        "cn": "我完全理解你的考量与初衷"
+      },
+      {
+        "en": "gets us to market faster",
+        "cn": "能让我们更敏捷地推向市场"
+      },
+      {
+        "en": "My only reservation is",
+        "cn": "我唯一的一点顾虑/保留意见是..."
+      },
+      {
+        "en": "What if we spike a",
+        "cn": "要不我们先做个快速测试/预演？"
+      }
+    ],
+    "connectedSpeech_cn": "'I see where you're coming from' 语调升降富有包容性与同理心。"
+  },
+  {
+    "id": "p22",
+    "category": "Workplace & Meetings",
+    "title": "Interjecting in a Zoom Meeting Gracefully",
+    "level": "Intermediate",
+    "scenario": "Discussion is moving fast on a conference call and you need to clarify a key point before the topic changes.",
+    "textbook": "\"Stop talking please. I have an important remark to announce to the group.\"",
+    "textbookCritique": "Extremely rude. Will alienate the entire room.",
+    "natural": "Sorry to jump in while you're on a roll, Alex—just want to make sure I caught that last milestone date correctly. Did you say Nov 15th or Dec 1st?",
+    "chunks": [
+      "Sorry to jump in while you're on a roll",
+      "just want to make sure I caught",
+      "Did you say"
+    ],
+    "connectedSpeech": "'On a roll' means doing something with momentum: /ɑːnə roʊl/. 'Jump in' links /dʒʌm pɪn/.",
+    "listenText": "Sorry to jump in while you're on a roll, Alex—just want to make sure I caught that last milestone date correctly. Did you say Nov 15th or Dec 1st?",
+    "title_cn": "在Zoom跨国线上会议中优雅插话",
+    "category_cn": "职场协作与外企会议",
+    "scenario_cn": "会议节奏飞快，演讲人滔滔不绝，你需要在此人翻篇之前立即厘清一个关键里程碑日期。",
+    "textbookCritique_cn": "粗鲁无礼，仿佛在全员训话。会让所有人感到错愕与尴尬。",
+    "natural_cn": "不好意思打断一下正在兴头上的Alex——我只是想确保自己没听错刚才那个关键交付节点：您说的是11月15日还是12月1日？",
+    "chunks_cn": [
+      {
+        "en": "Sorry to jump in while you're on a roll",
+        "cn": "不好意思打断一下说得正起劲的你"
+      },
+      {
+        "en": "just want to make sure I caught",
+        "cn": "只是想确认一眼自己刚没漏听..."
+      },
+      {
+        "en": "Did you say",
+        "cn": "您刚才说的是...吗？"
+      }
+    ],
+    "connectedSpeech_cn": "'On a roll' 意为势头正猛/说得正顺手：/ɑːnə roʊl/。'Jump in' 连读为 /dʒʌm pɪn/。"
+  },
+  {
+    "id": "p23",
+    "category": "Workplace & Meetings",
+    "title": "Gently Nudging a Colleague for a Review / PR",
+    "level": "Intermediate",
+    "scenario": "A coworker has not reviewed your pull request or feedback request for two days.",
+    "textbook": "\"You have not reviewed my pull request for 48 hours. Please review it immediately.\"",
+    "textbookCritique": "Accusatory and demands compliance. Damages peer relationships.",
+    "natural": "Hey team, whenever you have a quick breather, could someone take a look at PR #104? It's ready to merge and just needs a second pair of eyes so we don't hold up release.",
+    "chunks": [
+      "whenever you have a quick breather",
+      "take a look at",
+      "needs a second pair of eyes",
+      "hold up release"
+    ],
+    "connectedSpeech": "'Quick breather' is a friendly colloquialism for a break. 'Pair of eyes' links /per ə vaɪz/.",
+    "listenText": "Hey team, whenever you have a quick breather, could someone take a look at PR #104? It's ready to merge and just needs a second pair of eyes so we don't hold up release.",
+    "title_cn": "委婉催促同事快速帮审代码 (PR Review)",
+    "category_cn": "职场协作与外企会议",
+    "scenario_cn": "你提的代码合并请求已经搁置两天没人审了，你需要提醒同事看一下，又不能显得高高在上。",
+    "textbookCritique_cn": "带有强烈的指责意味和命令口吻，极易破坏平级同事之间的协同信任感。",
+    "natural_cn": "团队小伙伴们，大家手头有空档喘口气的时候，能顺手帮看一眼104号PR吗？代码已经准备好可以合并了，就差一双眼睛做个最终把关，免得耽误发版。",
+    "chunks_cn": [
+      {
+        "en": "whenever you have a quick breather",
+        "cn": "等大家手头有空档喘口气的时候"
+      },
+      {
+        "en": "take a look at",
+        "cn": "顺带过一眼/看一眼"
+      },
+      {
+        "en": "needs a second pair of eyes",
+        "cn": "需要第二双眼睛把关（外企Code Review标准表达）"
+      },
+      {
+        "en": "hold up release",
+        "cn": "拖延/耽误发版上线"
+      }
+    ],
+    "connectedSpeech_cn": "'Quick breather' 指短暂的休整间隙。'Pair of eyes' 连读为 /per ə vaɪz/。"
+  },
+  {
+    "id": "p24",
+    "category": "Workplace & Meetings",
+    "title": "Admitting an Error or Missed Deadline",
+    "level": "Advanced",
+    "scenario": "You pushed a bad migration or missed a client delivery date, and you need to communicate it professionally.",
+    "textbook": "\"I made a terrible mistake and broke the system. I apologize for my incompetence.\"",
+    "textbookCritique": "Emotional self-flagellation. Leaders want root-cause ownership, mitigation, and preventative steps.",
+    "natural": "Heads up team: I dropped the ball on the database indexing script this morning, which caused a 5-minute timeout spike. I rolled back the migration immediately, verified all customer data is intact, and I've drafted a post-mortem with automated validation to prevent this going forward.",
+    "chunks": [
+      "Heads up team",
+      "dropped the ball on",
+      "rolled back the migration immediately",
+      "prevent this going forward"
+    ],
+    "connectedSpeech": "'Dropped the ball' is the standard American idiom for making an operational mistake.",
+    "listenText": "Heads up team: I dropped the ball on the database indexing script this morning, which caused a 5-minute timeout spike. I rolled back the migration immediately, verified all customer data is intact, and I've drafted a post-mortem with automated validation to prevent this going forward.",
+    "title_cn": "主动认错线上故障并给出止血修复闭环",
+    "category_cn": "职场协作与外企会议",
+    "scenario_cn": "你推的一个数据库脚本导致了生产环境5分钟的报警，你需要向团队通报事故与处理结果。",
+    "textbookCritique_cn": "情绪化的自我贬低。在外企与科技公司，大家只关心根因定位、止损方案与防复发机制。",
+    "natural_cn": "各位同步一个情况：今天早上的数据库索引脚本我这边处理有疏漏，导致了一波5分钟的请求超时报警。我已第一时间完成版本回滚，确认所有客户数据完好无损，并输出了一份复盘报告和自动化拦截策略，彻底杜绝此类事件再次发生。",
+    "chunks_cn": [
+      {
+        "en": "Heads up team",
+        "cn": "跟团队同步个突发情况 (Heads up)"
+      },
+      {
+        "en": "dropped the ball on",
+        "cn": "在...事情上出现失误/疏漏"
+      },
+      {
+        "en": "rolled back the migration immediately",
+        "cn": "第一时间完成了脚本回滚止损"
+      },
+      {
+        "en": "prevent this going forward",
+        "cn": "杜绝后续类似事故再次发生"
+      }
+    ],
+    "connectedSpeech_cn": "'Dropped the ball' 是北美商业中坦承工作失误的最地道习惯表达。"
+  },
+  {
+    "id": "p25",
+    "category": "Workplace & Meetings",
+    "title": "Wrapping Up a Meeting & Locking in Next Steps",
+    "level": "Intermediate",
+    "scenario": "The meeting has 2 minutes left and you need to ensure everyone knows who owns what action items.",
+    "textbook": "\"The clock says 3 PM. We will conclude this assembly. You must do your tasks.\"",
+    "textbookCritique": "Sounds like a drill sergeant. Lacks crisp collaborative alignment.",
+    "natural": "Alright, being mindful of everyone's time, let's wrap up here. To recap action items: I'll finalize the tech spec by Thursday, and David, you're tracking down client approval on the budget, right? Great sync, thanks all!",
+    "chunks": [
+      "being mindful of everyone's time",
+      "let's wrap up here",
+      "To recap action items",
+      "Great sync, thanks all"
+    ],
+    "connectedSpeech": "'Mindful of' blends: /maɪndfəl əv/. 'Wrap up' connects /ræ pʌp/.",
+    "listenText": "Alright, being mindful of everyone's time, let's wrap up here. To recap action items: I'll finalize the tech spec by Thursday, and David, you're tracking down client approval on the budget, right? Great sync, thanks all!",
+    "title_cn": "会议结束前锁定各方行动项与交付责任",
+    "category_cn": "职场协作与外企会议",
+    "scenario_cn": "距离会议结束还剩最后2分钟，你需要迅速锁定所有人的Action Items，确保会后有推进。",
+    "textbookCritique_cn": "像军训教官训话，缺乏职业经理人的亲和力与高效抓手。",
+    "natural_cn": "好的，考虑到大家的时间宝贵，我们就在这儿收尾。快速对齐一下接下来的行动项：我会在本周四前敲定技术规格文档，David你负责跟客户确认预算审批，没问题吧？今天讨论非常高效，感谢大家！",
+    "chunks_cn": [
+      {
+        "en": "being mindful of everyone's time",
+        "cn": "考虑到大家宝贵的时间"
+      },
+      {
+        "en": "let's wrap up here",
+        "cn": "我们就在这儿收尾吧"
+      },
+      {
+        "en": "To recap action items",
+        "cn": "快速对齐/回顾一下待办行动项"
+      },
+      {
+        "en": "Great sync, thanks all",
+        "cn": "非常高效的同步，谢谢各位！"
+      }
+    ],
+    "connectedSpeech_cn": "'Mindful of' 连读为 /maɪndfəl əv/。'Wrap up' 连读为 /ræ pʌp/。"
+  },
+  {
+    "id": "p26",
+    "category": "Workplace & Meetings",
+    "title": "Handling Scope Creep Professionally",
+    "level": "Advanced",
+    "scenario": "A stakeholder asks: 'Can we just quickly squeeze in this one extra feature before Friday launch?'",
+    "textbook": "\"No. That was not in the contract document. You cannot add new requirements.\"",
+    "textbookCritique": "Creates instant client friction. Frame trade-offs around quality and timeline instead of a blunt 'No'.",
+    "natural": "That's definitely a compelling feature, and we'd love to build it. To make sure we hit our Friday launch date without compromising test coverage, let's log this as our top priority for v1.1 right after release. Does that work for you?",
+    "chunks": [
+      "That's definitely a compelling feature",
+      "hit our Friday launch date",
+      "without compromising",
+      "top priority for v1.1"
+    ],
+    "connectedSpeech": "'Hit our Friday launch date' links /hɪ daʊər fraɪdeɪ.../. 'Does that work for you' softens the pushback.",
+    "listenText": "That's definitely a compelling feature, and we'd love to build it. To make sure we hit our Friday launch date without compromising test coverage, let's log this as our top priority for v1.1 right after release. Does that work for you?",
+    "title_cn": "高情商拒绝客户或业务方的临时加需求",
+    "category_cn": "职场协作与外企会议",
+    "scenario_cn": "周三下午，业务方跑过来说：'周五上线前能不能顺手把这个小功能也一起带上？'",
+    "textbookCritique_cn": "生硬把合同甩在对方脸上，瞬间引发对立冲突。高情商做法是用质量与时间取舍来倒逼优先级。",
+    "natural_cn": "这确实是一个非常有价值的功能点，我们也特别希望能做。为了确保周五顺利按时交付且不牺牲测试覆盖率，我们把它定为发版后v1.1版本的最高优先级立即推进，您看这样可以接受吗？",
+    "chunks_cn": [
+      {
+        "en": "That's definitely a compelling feature",
+        "cn": "这确实是个非常吸引人的好功能"
+      },
+      {
+        "en": "hit our Friday launch date",
+        "cn": "确保赶上我们周五的上线发版节点"
+      },
+      {
+        "en": "without compromising",
+        "cn": "在不牺牲...的前提下"
+      },
+      {
+        "en": "top priority for v1.1",
+        "cn": "作为下一迭代的最高优先级"
+      }
+    ],
+    "connectedSpeech_cn": "'Hit our Friday launch date' 连读为 /hɪ daʊər fraɪdeɪ.../。"
+  },
+  {
+    "id": "p27",
+    "category": "Travel & Social Life",
+    "title": "Dealing with a Delayed or Cancelled Flight",
+    "level": "Intermediate",
+    "scenario": "Your connecting flight was just cancelled at the airport and you are talking to the gate agent.",
+    "textbook": "\"My airplane has stopped. You must provide me another flight and hotel room immediately.\"",
+    "textbookCritique": "Demanding and angry tone makes gate agents less likely to offer discretionary perks or upgrades.",
+    "natural": "Hi there, I saw our connection to Chicago just got cancelled. I have a critical morning meeting tomorrow—what are our best rebooking options, or could you endorse my ticket over to another carrier?",
+    "chunks": [
+      "I saw our connection just got cancelled",
+      "critical morning meeting",
+      "what are our best rebooking options",
+      "endorse my ticket over"
+    ],
+    "connectedSpeech": "'Got cancelled' has an unreleased /t/ before /k/. 'Endorse my ticket' is insider industry terminology for transferring flights.",
+    "listenText": "Hi there, I saw our connection to Chicago just got cancelled. I have a critical morning meeting tomorrow—what are our best rebooking options, or could you endorse my ticket over to another carrier?",
+    "title_cn": "在机场登机口应对航班延误或取消",
+    "category_cn": "海外出行与生活社交",
+    "scenario_cn": "在中转机场，你的下一程飞芝加哥的航班突然取消，你需要到地勤柜台寻求改签或签转。",
+    "textbookCritique_cn": "居高临下的索赔口吻不仅无济于事，反而会让地勤人员收紧本可自由裁量的改签权限与酒店补贴。",
+    "natural_cn": "您好，我看到飞芝加哥的中转航班刚取消了。我明天一早有极其重要的商务会议——请问我们目前最优的改签方案是什么？或者您能帮我把机票签转到其他航空公司的最近班次吗？",
+    "chunks_cn": [
+      {
+        "en": "I saw our connection just got cancelled",
+        "cn": "我看到我们的中转航班刚取消了"
+      },
+      {
+        "en": "critical morning meeting",
+        "cn": "极其重要的早晨会议"
+      },
+      {
+        "en": "what are our best rebooking options",
+        "cn": "请问目前最好的改签方案是什么？"
+      },
+      {
+        "en": "endorse my ticket over",
+        "cn": "将机票签转给其他航空公司 (民航专业术语)"
+      }
+    ],
+    "connectedSpeech_cn": "'Got cancelled' 中 /t/ 失去爆破。'Endorse my ticket' 是签转机票的行业标准用词。"
+  },
+  {
+    "id": "p28",
+    "category": "Travel & Social Life",
+    "title": "Asking Airbnb Host for Hidden Gem Food Spots",
+    "level": "Beginner",
+    "scenario": "You've checked in and want authentic neighborhood food rather than tourist traps.",
+    "textbook": "\"Where can I eat food? Give me restaurant recommendations in this district.\"",
+    "textbookCritique": "Dry and generic. You'll end up at an overpriced tourist spot.",
+    "natural": "Thanks so much for having us! We'd love to skip the usual tourist traps—where's your personal favorite hole-in-the-wall spot for dinner around here that locals swear by?",
+    "chunks": [
+      "Thanks so much for having us",
+      "skip the usual tourist traps",
+      "hole-in-the-wall spot",
+      "locals swear by"
+    ],
+    "connectedSpeech": "'Hole-in-the-wall' is a beloved phrase for small, unassuming, high-quality local eateries: /hoʊlɪnðəwɔːl/.",
+    "listenText": "Thanks so much for having us! We'd love to skip the usual tourist traps—where's your personal favorite hole-in-the-wall spot for dinner around here that locals swear by?",
+    "title_cn": "向房东打听本地人才知道的隐藏宝藏小吃",
+    "category_cn": "海外出行与生活社交",
+    "scenario_cn": "入住Airbnb后，想向本地房东打听避开游客陷阱、只有当地人光顾的深巷苍蝇馆子。",
+    "textbookCritique_cn": "干瘪无味，房东通常只会随手推荐大众点评或TripAdvisor上排队的网红游客店。",
+    "natural_cn": "太感谢您的热情招待了！我们非常想避开常规的游客大路货——请问在附近这片儿，您个人最钟爱的、本地老饕私藏的宝藏苍蝇馆子是哪家？",
+    "chunks_cn": [
+      {
+        "en": "Thanks so much for having us",
+        "cn": "非常感谢您的热情款待"
+      },
+      {
+        "en": "skip the usual tourist traps",
+        "cn": "避开那些千篇一律的宰客/游客陷阱"
+      },
+      {
+        "en": "hole-in-the-wall spot",
+        "cn": "隐藏在深巷的宝藏苍蝇小馆"
+      },
+      {
+        "en": "locals swear by",
+        "cn": "连当地人都赞不绝口/私藏的"
+      }
+    ],
+    "connectedSpeech_cn": "'Hole-in-the-wall' 是地道英语里对不重装修、出品极佳的宝藏馆子的最高褒奖：/hoʊlɪnðəwɔːl/。"
+  },
+  {
+    "id": "p29",
+    "category": "Travel & Social Life",
+    "title": "Returning a Store Item Without a Paper Receipt",
+    "level": "Intermediate",
+    "scenario": "You bought a shirt that doesn't fit, but lost the physical slip. You paid with a card.",
+    "textbook": "\"I lost the paper receipt. But I demand a refund for this clothing because it is too small.\"",
+    "textbookCritique": "Confrontational. Most modern stores can look up your card effortlessly.",
+    "natural": "Hi, I'm hoping to return this sweater—it ended up being a size too small. I misplaced the paper receipt, but could you look up the transaction using the card I paid with?",
+    "chunks": [
+      "I'm hoping to return this",
+      "ended up being a size too small",
+      "misplaced the paper receipt",
+      "look up the transaction"
+    ],
+    "connectedSpeech": "'Ended up being' glides smoothly: /endɪ dʌp biːɪŋ/.",
+    "listenText": "Hi, I'm hoping to return this sweater—it ended up being a size too small. I misplaced the paper receipt, but could you look up the transaction using the card I paid with?",
+    "title_cn": "在国外商场无纸质小票办理退换货",
+    "category_cn": "海外出行与生活社交",
+    "scenario_cn": "买的毛衣尺寸小了，找不到纸质小票，但你是刷信用卡消费的。",
+    "textbookCritique_cn": "充满攻击性与对抗情绪。现代欧美商场系统完全可以通过付款卡号反查记录。",
+    "natural_cn": "您好，我想把这件毛衣退换一下——回去试穿发现买小了一号。我不小心把纸质小票弄丢了，能麻烦您用我当时付款的银行卡在系统里查一下这笔交易记录吗？",
+    "chunks_cn": [
+      {
+        "en": "I'm hoping to return this",
+        "cn": "我希望能退换一下这个..."
+      },
+      {
+        "en": "ended up being a size too small",
+        "cn": "拿回去穿结果发现小了一号"
+      },
+      {
+        "en": "misplaced the paper receipt",
+        "cn": "把纸质小票随手弄丢了"
+      },
+      {
+        "en": "look up the transaction",
+        "cn": "反查/检索这笔消费记录"
+      }
+    ],
+    "connectedSpeech_cn": "'Ended up being' 连读为 /endɪ dʌp biːɪŋ/。"
+  },
+  {
+    "id": "p30",
+    "category": "Travel & Social Life",
+    "title": "Inquiring About Severe Food Allergies",
+    "level": "Beginner",
+    "scenario": "You have a severe peanut or shellfish allergy and need to ensure cross-contamination won't happen.",
+    "textbook": "\"I have a dangerous allergy. If I eat peanuts I will get sick. Does this food contain peanuts?\"",
+    "textbookCritique": "Can be ambiguous about whether fryers or shared prep surfaces are safe.",
+    "natural": "Quick question for the chef: I have a severe peanut allergy. Can this dish be prepared strictly nut-free, and are you using a dedicated fryer or shared prep surface?",
+    "chunks": [
+      "Quick question for the chef",
+      "severe peanut allergy",
+      "strictly nut-free",
+      "dedicated fryer or shared prep surface"
+    ],
+    "connectedSpeech": "'Nut-free' puts strong rhythmic punch on 'nut'. 'Shared prep surface' links /ʃerd prep sɜːrfɪs/.",
+    "listenText": "Quick question for the chef: I have a severe peanut allergy. Can this dish be prepared strictly nut-free, and are you using a dedicated fryer or shared prep surface?",
+    "title_cn": "在西餐厅向主厨严谨确认严重过敏源",
+    "category_cn": "海外出行与生活社交",
+    "scenario_cn": "有重度坚果/花生过敏，需要确认餐食不仅无坚果，而且不存在共用炸锅或砧板交叉污染风险。",
+    "textbookCritique_cn": "表意含糊，无法排除厨房油炸锅或备料台交叉感染（Cross-contamination）的致命隐患。",
+    "natural_cn": "麻烦帮我跟主厨确认一个小问题：我有严重的坚果过敏。请问这道菜能严格做到无坚果烹饪吗？另外后厨是用独立专用的炸锅还是共用料理台？",
+    "chunks_cn": [
+      {
+        "en": "Quick question for the chef",
+        "cn": "麻烦代我向主厨确认个关键问题"
+      },
+      {
+        "en": "severe peanut allergy",
+        "cn": "严重的坚果过敏症"
+      },
+      {
+        "en": "strictly nut-free",
+        "cn": "严格不含坚果成分"
+      },
+      {
+        "en": "dedicated fryer or shared prep surface",
+        "cn": "专用的炸锅还是共用的备菜案板"
+      }
+    ],
+    "connectedSpeech_cn": "'Nut-free' 复合词主重音在 'nut'。'Shared prep surface' 连读为 /ʃerd prep sɜːrfɪs/。"
+  },
+  {
+    "id": "p31",
+    "category": "Travel & Social Life",
+    "title": "Asking for Transit Directions in a Fast Subway",
+    "level": "Beginner",
+    "scenario": "You are confused about which train platform goes uptown vs. downtown in NYC or London.",
+    "textbook": "\"Excuse me pedestrian, where is the railway to travel to Central Park?\"",
+    "textbookCritique": "'Pedestrian' and 'railway' sound century-old. Keep it ultra-quick.",
+    "natural": "Excuse me, super quick question—is this platform heading Uptown toward Central Park, or do I need to cross over?",
+    "chunks": [
+      "super quick question",
+      "is this platform heading Uptown",
+      "cross over"
+    ],
+    "connectedSpeech": "'Super quick question' links /suːpər kwɪk kwɛstʃən/. 'Cross over' links /krɔː soʊvər/.",
+    "listenText": "Excuse me, super quick question—is this platform heading Uptown toward Central Park, or do I need to cross over?",
+    "title_cn": "在繁杂的地铁站快步问路辨识方向",
+    "category_cn": "海外出行与生活社交",
+    "scenario_cn": "在纽约或伦敦复杂的地道里，分不清眼前的月台到底是进城 (Uptown) 还是出城 (Downtown)。",
+    "textbookCritique_cn": "在21世纪的地铁里使用'pedestrian'（行路之人）和'railway'，像从1880年穿越过来的老学究。",
+    "natural_cn": "不好意思打扰一秒钟——请问这个站台是开往中央公园方向的上城线吗，还是我需要走到马路对面去坐？",
+    "chunks_cn": [
+      {
+        "en": "super quick question",
+        "cn": "超快打扰问个路（极地道开口）"
+      },
+      {
+        "en": "is this platform heading Uptown",
+        "cn": "这个站台是开往上城方向吗？"
+      },
+      {
+        "en": "cross over",
+        "cn": "穿过去到对面月台"
+      }
+    ],
+    "connectedSpeech_cn": "'Super quick question' 连读为 /suːpər kwɪk kwɛstʃən/。'Cross over' 连读为 /krɔː soʊvər/。"
+  },
+  {
+    "id": "p32",
+    "category": "Travel & Social Life",
+    "title": "Delivering an Authentic, Casual Compliment",
+    "level": "Beginner",
+    "scenario": "You like someone's sneakers or tech setup and want to say so without making it weird.",
+    "textbook": "\"I admire your shoes. They possess good aesthetic quality and color.\"",
+    "textbookCritique": "Sounds like an alien anthropologist analyzing human footwear.",
+    "natural": "Those kicks are clean! Where'd you pick them up?",
+    "chunks": [
+      "Those kicks are clean",
+      "Where'd you pick them up"
+    ],
+    "connectedSpeech": "'Kicks' is authentic casual slang for sneakers. 'Where did you' blends into /wɛərdʒə pɪk ðəm ʌp/.",
+    "listenText": "Those kicks are clean! Where'd you pick them up?",
+    "title_cn": "自然松弛地夸赞对方的球鞋或装备",
+    "category_cn": "海外出行与生活社交",
+    "scenario_cn": "在办公室或社交场合看到别人的球鞋或极简电脑包很酷，想自然夸一句破冰。",
+    "textbookCritique_cn": "听起来像外星生物学家在严谨考察人类足部装备，令人啼笑皆非。",
+    "natural_cn": "你这双鞋太帅了！在哪儿入手的？",
+    "chunks_cn": [
+      {
+        "en": "Those kicks are clean",
+        "cn": "你这双鞋/球鞋太正了！('kicks'意为球鞋，'clean'意为高级帅气)"
+      },
+      {
+        "en": "Where'd you pick them up",
+        "cn": "在哪儿淘到/入手的？"
+      }
+    ],
+    "connectedSpeech_cn": "'Where did you' 在口语里高度弱读同化为 /wɛərdʒə pɪk ðəm ʌp/。"
+  },
+  {
+    "id": "p33",
+    "category": "Job Interviews",
+    "title": "Adapting to Sudden Project Priority Shifts",
+    "level": "Advanced",
+    "scenario": "An interviewer asks: 'Tell me about a time when project priorities shifted suddenly and you had to adapt quickly.'",
+    "textbook": "\"My manager changed the task last minute. I was confused, but I just worked overtime to finish the new task on time.\"",
+    "textbookCritique": "Focuses on confusion and brute-force overtime instead of agile re-scoping, stakeholder alignment, and composure under pressure.",
+    "natural": "When our product roadmap pivoted mid-sprint last quarter, I immediately regrouped with design to re-scope our deliverables so we could pivot without losing momentum.",
+    "chunks": [
+      "pivoted mid-sprint",
+      "re-scope our deliverables",
+      "without losing momentum"
+    ],
+    "connectedSpeech": "In 'pivoted mid-sprint', the /t/ in 'pivoted' is a soft flap /d/, and 'without losing' connects rhythmically without stopping.",
+    "listenText": "When our product roadmap pivoted mid-sprint last quarter, I immediately regrouped with design to re-scope our deliverables so we could pivot without losing momentum.",
+    "title_cn": "应对突发项目优先级变动与业务转向",
+    "category_cn": "英文求职与行为面试",
+    "scenario_cn": "面试官提问：'请分享一次项目优先级突然发生巨大变化，你必须迅速调整适应的经历。'",
+    "textbookCritique_cn": "将焦点放在'困惑'和'被迫加班'上，显得被动且缺乏战略优先级把控与敏捷协作能力。",
+    "natural_cn": "上季度当我们的产品路线图在冲刺期中途转向时，我立刻与设计团队重新对齐、重新界定交付范围，确保我们在敏捷转向的同时不丢失团队推进势头。",
+    "chunks_cn": [
+      {
+        "en": "pivoted mid-sprint",
+        "cn": "在迭代冲刺中途发生转向"
+      },
+      {
+        "en": "re-scope our deliverables",
+        "cn": "重新界定交付物范围"
+      },
+      {
+        "en": "without losing momentum",
+        "cn": "不丢失推进势头与效率"
+      }
+    ],
+    "connectedSpeech_cn": "'pivoted mid-sprint' 中间的 /t/ 弱化为闪音，'without losing' 连贯发音不停顿。"
+  },
+  {
+    "id": "p34",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "Describing Your Neighborhood and Community Evolutions (IELTS Part 1)",
+    "level": "Intermediate",
+    "scenario": "The IELTS examiner asks: 'Do you like the area where you live, and what are some recent changes there?'",
+    "textbook": "\"I like my neighborhood because it is quiet. Recently they opened a new grocery store and some cafes nearby.\"",
+    "textbookCritique": "Grammatically sound but monotonous; lacks the sensory vocabulary, collocations, and idiomatic flow expected for Band 8+.",
+    "natural": "I love it—it's got a really laid-back neighborhood vibe, and lately several independent coffee shops have popped up within walking distance.",
+    "chunks": [
+      "laid-back neighborhood vibe",
+      "popped up",
+      "within walking distance"
+    ],
+    "connectedSpeech": "'popped up' links tightly into /pɑːptʌp/, and 'within walking distance' glides effortlessly into /wɪˈðɪn ˈwɔːkɪŋ ˈdɪstəns/.",
+    "listenText": "I love it—it's got a really laid-back neighborhood vibe, and lately several independent coffee shops have popped up within walking distance.",
+    "title_cn": "描述所住社区氛围与近期变化 (雅思Part 1)",
+    "category_cn": "雅思托福口语备考",
+    "scenario_cn": "雅思考官在第一部分提问：'你喜欢你住的社区吗？最近那里有什么新变化？'",
+    "textbookCritique_cn": "句式单一，用词较为基础平淡；缺乏地道的高阶地道短语搭配，难以拿下 8+ 的词汇得分。",
+    "natural_cn": "我很喜欢——这里的社区氛围非常松弛惬意，而且最近步行范围内冒出了好几家很有格调的独立咖啡馆。",
+    "chunks_cn": [
+      {
+        "en": "laid-back neighborhood vibe",
+        "cn": "松弛惬意的社区氛围"
+      },
+      {
+        "en": "popped up",
+        "cn": "纷纷冒出/相继开业"
+      },
+      {
+        "en": "within walking distance",
+        "cn": "步行即达的范围内"
+      }
+    ],
+    "connectedSpeech_cn": "'popped up' 紧密连读为 /pɑːptʌp/，'walking distance' 语流平滑。"
+  },
+  {
+    "id": "p35",
+    "category": "Workplace & Meetings",
+    "title": "Breaking the Awkward Silence on Video Calls Before Meeting Starts",
+    "level": "Foundation",
+    "scenario": "You enter a Zoom or Google Meet room with a few early attendees waiting for the host to begin.",
+    "textbook": "\"Hello everyone. Why is nobody talking? Who are we waiting for today?\"",
+    "textbookCritique": "Sounds confrontational or anxious. Native professionals use casual, low-pressure conversational warmups instead.",
+    "natural": "Morning folks! How's everyone's Monday shaping up so far? Looks like we're just waiting on a couple more people before we kick things off.",
+    "chunks": [
+      "shaping up so far",
+      "waiting on a couple more",
+      "kick things off"
+    ],
+    "connectedSpeech": "'How's everyone's' smoothly contracts to /haʊz ˈɛvriwʌnz/, and 'kick things off' links into /kɪk θɪŋz ɔːf/.",
+    "listenText": "Morning folks! How's everyone's Monday shaping up so far? Looks like we're just waiting on a couple more people before we kick things off.",
+    "title_cn": "线上会议开场前的自然破冰闲聊",
+    "category_cn": "职场与会议沟通",
+    "scenario_cn": "早早进入了 Zoom 或 Teams 会议室，几个人干坐着等待主持人上线，想自然化解尴尬沉默。",
+    "textbookCritique_cn": "过于生硬唐突，甚至显得像在问责大家为何不说话，破坏会议轻松氛围。",
+    "natural_cn": "大家早上好呀！周一过得还顺心吗？看起来我们还在等几位同事，稍后就可以正式开始了。",
+    "chunks_cn": [
+      {
+        "en": "shaping up so far",
+        "cn": "目前为止进展/状态如何"
+      },
+      {
+        "en": "waiting on a couple more",
+        "cn": "还在等另外一两位同事"
+      },
+      {
+        "en": "kick things off",
+        "cn": "正式开始/拉开序幕"
+      }
+    ],
+    "connectedSpeech_cn": "'How's everyone's' 自然缩读连贯，'kick things off' 尾辅音和介词顺畅连读。"
+  },
+  {
+    "id": "p36",
+    "category": "Job Interviews",
+    "title": "Resolving a Coworker Disagreement Constructively",
+    "level": "Advanced",
+    "scenario": "An interviewer asks: 'Tell me about a time you had a disagreement with a coworker or manager and how you resolved it.'",
+    "textbook": "\"My coworker and I had a fight about the software design. I told our manager and then we voted on which idea was better.\"",
+    "textbookCritique": "Sounds like schoolyard escalation. Strong candidates demonstrate proactive tradeoff evaluation and egoless collaboration.",
+    "natural": "When my teammate and I had different views on the database architecture last sprint, I suggested setting up a 15-minute whiteboard session to lay out the tradeoffs. We ended up blending our approaches and shipped the feature right on schedule.",
+    "chunks": [
+      "different views on",
+      "lay out the tradeoffs",
+      "blended our approaches"
+    ],
+    "connectedSpeech": "'different views on' maintains light linking /dɪfrənt vjuːz ɒn/, and 'blended our' links into /ˈblɛndɪdər/.",
+    "listenText": "When my teammate and I had different views on the database architecture last sprint, I suggested setting up a 15-minute whiteboard session to lay out the tradeoffs. We ended up blending our approaches and shipped the feature right on schedule.",
+    "title_cn": "在面试中得体讲述与同事的分歧与建设性化解",
+    "category_cn": "英文求职与行为面试",
+    "scenario_cn": "行为面试常见难题：'请讲述一次你与同事或上级发生意见不一致时，你是如何沟通解决的。'",
+    "textbookCritique_cn": "听上去像小学生找老师告状，完全暴露了缺乏独立探究权衡与跨职能包容合作的短板。",
+    "natural_cn": "上个冲刺期我和队友在数据库架构设计上有不同见解，我主动提议用15分钟白板快速梳理各自的技术权衡。最终我们融合了双方方案的优势，按时顺利完成了上线。",
+    "chunks_cn": [
+      {
+        "en": "different views on",
+        "cn": "在...上持有不同见解"
+      },
+      {
+        "en": "lay out the tradeoffs",
+        "cn": "梳理呈现利弊权衡"
+      },
+      {
+        "en": "blended our approaches",
+        "cn": "融合了各自的技术路径"
+      }
+    ],
+    "connectedSpeech_cn": "'different views on' 语流连贯，'blended our' 产生自然辅元连读。"
+  },
+  {
+    "id": "p37",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "A Difficult Decision That Turned Out Well (IELTS Part 2 Cue Card)",
+    "level": "Advanced",
+    "scenario": "IELTS Part 2 cue card: 'Describe a difficult decision you had to make that had a positive outcome.'",
+    "textbook": "\"A difficult decision was leaving my old job. It was hard to choose, but I got a new job with higher salary and good colleagues.\"",
+    "textbookCritique": "Flat sentence structure and repetitive basic vocabulary. Misses the psychological depth and nuanced discourse markers of Band 8.5+.",
+    "natural": "A really tough call I had to make was leaving the security of my first job to pivot into product management. Weighing stability against long-term growth was agonizing at first, but stepping out of my comfort zone paid off immensely.",
+    "chunks": [
+      "a tough call",
+      "weighing stability against",
+      "paid off immensely"
+    ],
+    "connectedSpeech": "'tough call I had to make' flows without hesitations: /tʌf kɔːl aɪ hæd tə meɪk/, and 'paid off' connects to /ˈpeɪdɔːf/.",
+    "listenText": "A really tough call I had to make was leaving the security of my first job to pivot into product management. Weighing stability against long-term growth was agonizing at first, but stepping out of my comfort zone paid off immensely.",
+    "title_cn": "叙述一次艰难但结果极佳的关键决策 (雅思Part 2)",
+    "category_cn": "雅思托福口语备考",
+    "scenario_cn": "雅思Part 2 独白卡片：'描述一次你做过的艰难决定，以及它最终带来的积极结果。'",
+    "textbookCritique_cn": "词汇贫乏单薄，缺乏反思性语篇连接词与高级成语短语，分数卡在 Band 5.5-6.0。",
+    "natural_cn": "我曾做过一个非常艰难的抉择，那就是离开第一家公司的舒适安全感转向产品管理。起初权衡稳定与长期成长令我极其纠结，但勇敢走出舒适区最终给了我巨大的回报。",
+    "chunks_cn": [
+      {
+        "en": "a tough call",
+        "cn": "极其艰难的抉择"
+      },
+      {
+        "en": "weighing stability against",
+        "cn": "在稳定性与...之间权衡"
+      },
+      {
+        "en": "paid off immensely",
+        "cn": "带来了巨大的回报"
+      }
+    ],
+    "connectedSpeech_cn": "'tough call I had' 连贯发音，'paid off' 连读为 /peɪdɔːf/。"
+  },
+  {
+    "id": "p38",
+    "category": "Workplace & Meetings",
+    "title": "Politely Following Up on Slack or Email Without Guilt",
+    "level": "Intermediate",
+    "scenario": "You need review feedback on a draft proposal from a busy stakeholder who hasn't replied for 48 hours.",
+    "textbook": "\"You did not answer my email yesterday. Please tell me your update now because we need it for our client.\"",
+    "textbookCritique": "Blunt and passive-aggressive; makes the recipient feel defensive rather than eager to assist.",
+    "natural": "Hey Marcus—just wanted to circle back on this in case it fell off your radar! No rush at all, but let me know once you have a quick minute to glance over the draft.",
+    "chunks": [
+      "circle back on this",
+      "fell off your radar",
+      "glance over the draft"
+    ],
+    "connectedSpeech": "'circle back on this' functions as one fluid idiomatic phrase: /ˈsɜːrkəl bæk ɒn ðɪs/.",
+    "listenText": "Hey Marcus—just wanted to circle back on this in case it fell off your radar! No rush at all, but let me know once you have a quick minute to glance over the draft.",
+    "title_cn": "在 Slack 或邮件中优雅得体催促跟进进展",
+    "category_cn": "职场与会议沟通",
+    "scenario_cn": "需要同事或客户审核草案，对方已经两天未回复，需要友好催促推进且绝不显得无礼。",
+    "textbookCritique_cn": "带有强烈的指责感与咄咄逼人的语气，容易引发对方心理防御与抵触情绪。",
+    "natural_cn": "嗨 Marcus，跟进提醒一下这个方案，担心它从你的待办清单里漏掉了！完全不着急，你抽空瞥一眼草案随时告诉我反馈就行。",
+    "chunks_cn": [
+      {
+        "en": "circle back on this",
+        "cn": "跟进回顾这个事项"
+      },
+      {
+        "en": "fell off your radar",
+        "cn": "从雷达/视线中漏掉了"
+      },
+      {
+        "en": "glance over the draft",
+        "cn": "迅速浏览过目一下草案"
+      }
+    ],
+    "connectedSpeech_cn": "'circle back on this' 整体作为习惯用语一口气连读完成。"
+  },
+  {
+    "id": "p39",
+    "category": "Job Interviews",
+    "title": "Salary Negotiation & Polite Counter-Offer",
+    "level": "Advanced",
+    "scenario": "You received an official job offer, but the base salary is slightly below your expectations or market rate, and you want to negotiate politely without seeming ungrateful.",
+    "textbook": "\"Your offer of 5,000 is too low for me. I need 5,000 to accept.\"",
+    "textbookCritique": "Too blunt and adversarial; sounds like an ultimatum rather than an invitation to collaborate on compensation.",
+    "natural": "I'm thrilled about the offer and really excited about the team! Based on the scope of the role and my market research, I was hoping we could explore something closer to 5K—is there any flexibility there?",
+    "chunks": [
+      "thrilled about the offer",
+      "explore something closer to",
+      "is there any flexibility there"
+    ],
+    "connectedSpeech": "'is there any flexibility there' links smoothly with rising-falling curiosity: /ɪz ðeər ˈɛni ˌflɛksəˈbɪlɪti ðeər/.",
+    "listenText": "I'm thrilled about the offer and really excited about the team! Based on the scope of the role and my market research, I was hoping we could explore something closer to 5K—is there any flexibility there?",
+    "title_cn": "斩获 Offer 后的高情商薪资谈判与还价",
+    "category_cn": "求职面试英语",
+    "scenario_cn": "收到公司的正式录用通知，但底薪略低于你的预期或市场行情，希望礼貌谈判争取更高薪资且绝不破坏合作关系。",
+    "textbookCritique_cn": "语气生硬且充满对立感，听起来像是最后通牒而非寻求共识，容易给雇主留下贪心且不易沟通的不良印象。",
+    "natural_cn": "收到录用通知我非常激动，也真心期待能加入团队！结合这个岗位的职责范围以及我做的市场调研，我希望能争取到接近 9.5 万美元左右——不知薪资这块是否有空间可以沟通协商？",
+    "chunks_cn": [
+      {
+        "en": "thrilled about the offer",
+        "cn": "对录用非常激动/欣喜"
+      },
+      {
+        "en": "explore something closer to",
+        "cn": "探讨/争取接近...的数额"
+      },
+      {
+        "en": "is there any flexibility there",
+        "cn": "这方面是否有沟通协商的弹性空间"
+      }
+    ],
+    "connectedSpeech_cn": "'is there any flexibility there' 句尾语调轻柔微扬，自然传递出协商与探询的温和态度。"
+  },
+  {
+    "id": "p40",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "IELTS Part 1: Describing Your Morning Habits & Daily Routine",
+    "level": "Intermediate",
+    "scenario": "The examiner asks: 'What is your typical morning routine, and do you like to wake up early?'",
+    "textbook": "\"Every morning I wake up at 7:00 AM, eat breakfast, brush my teeth, and go to work.\"",
+    "textbookCritique": "Sounds like a robotic elementary school checklist; lacks natural idioms, variety, and personality.",
+    "natural": "I'm definitely a creature of habit in the mornings—I always kick off the day with a pour-over coffee and twenty minutes of reading before diving into work.",
+    "chunks": [
+      "creature of habit",
+      "kick off the day with",
+      "diving into work"
+    ],
+    "connectedSpeech": "'kick off the day' links smoothly as /kɪk ɒf ðə deɪ/ where 'kick off' flows into 'the day' without hesitation.",
+    "listenText": "I'm definitely a creature of habit in the mornings—I always kick off the day with a pour-over coffee and twenty minutes of reading before diving into work.",
+    "title_cn": "雅思口语 Part 1：生动描述清晨习惯与作息日常",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "考官提问：'你的早晨日常是怎样的？你平时喜欢早起吗？'",
+    "textbookCritique_cn": "流水账式清单罗列，语法结构单一枯燥，完全无法体现考官看重的高分词汇与地道表达习惯。",
+    "natural_cn": "我在早晨绝对是个很有生活节奏、习惯成自然的人——我总是会先冲一杯手冲咖啡、读二十分钟书来开启一整天，然后再全身心投入工作。",
+    "chunks_cn": [
+      {
+        "en": "creature of habit",
+        "cn": "生活极有规律/按部就班的人"
+      },
+      {
+        "en": "kick off the day with",
+        "cn": "以...开启一整天"
+      },
+      {
+        "en": "diving into work",
+        "cn": "全身心投入工作"
+      }
+    ],
+    "connectedSpeech_cn": "'kick off the day' 自然连读为 /kɪk ɒf ðə deɪ/，节奏轻快流畅。"
+  },
+  {
+    "id": "p41",
+    "category": "Workplace & Meetings",
+    "title": "Politely Declining Extra Tasks When at Full Capacity",
+    "level": "Advanced",
+    "scenario": "A project lead or colleague asks you to take on an urgent ad-hoc deliverable, but you already have too much on your plate.",
+    "textbook": "\"I cannot do this task because I already have too much work from my boss.\"",
+    "textbookCritique": "Passes the blame to your boss and sounds unwilling to be a team player.",
+    "natural": "I'd love to help out, but my plate is completely full with the Q4 release right now. If this is higher priority, let's connect with Sarah to see what we can de-prioritize.",
+    "chunks": [
+      "my plate is completely full",
+      "if this is higher priority",
+      "see what we can de-prioritize"
+    ],
+    "connectedSpeech": "'I'd love to help out' links as /aɪd lʌv tə hɛlp aʊt/ with a soft 't' flapping into 'out'.",
+    "listenText": "I'd love to help out, but my plate is completely full with the Q4 release right now. If this is higher priority, let's connect with Sarah to see what we can de-prioritize.",
+    "title_cn": "职场中在工作量超载时得体拒绝额外派活",
+    "category_cn": "职场与会议沟通",
+    "scenario_cn": "项目负责人或跨部门同事突然要你接手一个紧急突发任务，但你目前的排期已经完全超载。",
+    "textbookCritique_cn": "直接生硬甩锅给老板或主管，显得缺乏团队协作精神与优先级管理意识。",
+    "natural_cn": "我很乐意搭把手，但眼下因为 Q4 版本的上线工作，我的排期已经完全排满了。如果这件事优先级更高，咱们可以拉着 Sarah 对一下，看能把哪些事项往后延期腾挪。",
+    "chunks_cn": [
+      {
+        "en": "my plate is completely full",
+        "cn": "手头任务已经完全排满/负荷过重"
+      },
+      {
+        "en": "if this is higher priority",
+        "cn": "如果这件事优先级更高"
+      },
+      {
+        "en": "see what we can de-prioritize",
+        "cn": "看能把哪些任务降级/延后腾挪"
+      }
+    ],
+    "connectedSpeech_cn": "'I'd love to help out' 连读自然，表达善意的同时坚守工作量边界。"
+  },
+  {
+    "id": "p42",
+    "category": "Job Interviews",
+    "title": "Behavioral Interview: Discussing a Workplace Mistake & Accountability",
+    "level": "Fluent & Advanced",
+    "scenario": "The interviewer asks: 'Tell me about a time you made a mistake at work and how you handled it.'",
+    "textbook": "\"I made a big mistake last year because I pushed wrong code to production. My boss was very angry, but I apologized and fixed it quickly.\"",
+    "textbookCritique": "Blunt, defensive, and frames the issue around emotional reaction rather than professional ownership and preventive action.",
+    "natural": "Earlier last year, I pushed a minor configuration change without running the full staging test, which triggered a brief 10-minute service interruption. I immediately owned the mistake in our team channel, rolled back the release, and set up an automated pre-deployment check so it couldn't happen again.",
+    "chunks": [
+      "owned the mistake",
+      "service interruption",
+      "pre-deployment check"
+    ],
+    "connectedSpeech": "'owned the mistake' links seamlessly as /oʊnd ðə mɪˈsteɪk/, and 'pre-deployment check' maintains a steady rhythm conveying accountability.",
+    "listenText": "Earlier last year, I pushed a minor configuration change without running the full staging test, which triggered a brief 10-minute service interruption. I immediately owned the mistake in our team channel, rolled back the release, and set up an automated pre-deployment check so it couldn't happen again.",
+    "title_cn": "求职面试：高情商坦陈过错与复盘改进",
+    "category_cn": "求职面试英语",
+    "scenario_cn": "面试官提问：'请谈谈你在工作中犯过的一个错误，以及你是如何应对和处理的。'",
+    "textbookCritique_cn": "直白甚至有些自我贬低，且把焦点放在老板生气上，缺乏专业人士应有的主动担责、止损策略和防再发闭环机制。",
+    "natural_cn": "去年上半年，我在未跑完全量预发布测试的情况下合并了一项小配置改动，导致线上服务出现了短暂的 10 分钟中断。我第一时间在团队群里主动认领问题、迅速执行版本回滚，随后牵头补全了自动化发布前校验，从流程上彻底杜绝了同类问题。",
+    "chunks_cn": [
+      {
+        "en": "owned the mistake",
+        "cn": "主动坦诚认领过失/不推诿"
+      },
+      {
+        "en": "service interruption",
+        "cn": "线上服务中断/故障"
+      },
+      {
+        "en": "pre-deployment check",
+        "cn": "发布前自动化拦截校验"
+      }
+    ],
+    "connectedSpeech_cn": "'owned the mistake' 连读自然流畅，语气沉稳诚恳，向面试官传递出极高的责任感与危机应对成熟度。"
+  },
+  {
+    "id": "p43",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "IELTS Part 2: Describing a Challenging Goal You Achieved",
+    "level": "Fluent & Advanced",
+    "scenario": "The examiner asks: 'Describe a challenging goal you set for yourself and achieved.'",
+    "textbook": "\"My goal was to pass the English test. I studied hard every evening for three months and finally I got 7.0 band score.\"",
+    "textbookCritique": "Overly simple sentences lacking narrative arc, idiomatic richness, and reflection on overcoming obstacles.",
+    "natural": "A really rewarding milestone I tackled recently was training for my first half-marathon while juggling a demanding work schedule. Staying consistent when motivation dipped was brutal, but crossing that finish line made every early-morning run completely worthwhile.",
+    "chunks": [
+      "rewarding milestone",
+      "juggling a demanding schedule",
+      "crossing that finish line"
+    ],
+    "connectedSpeech": "'juggling a demanding' flows as /ˈdʒʌɡəlɪŋ ə dɪˈmændɪŋ/ with a light schwa, while 'crossing that finish line' stresses 'finish line' as a cohesive compound.",
+    "listenText": "A really rewarding milestone I tackled recently was training for my first half-marathon while juggling a demanding work schedule. Staying consistent when motivation dipped was brutal, but crossing that finish line made every early-morning run completely worthwhile.",
+    "title_cn": "雅思口语 Part 2：描述自己设定并实现的具有挑战性的目标",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "考官给出 Cue Card：'描述一个你给自己设定的极具挑战性且最终达成的目标。'",
+    "textbookCritique_cn": "句式和词汇过于平铺直叙，缺少雅思高分所需的细节描摹、情感弧度与高级搭配。",
+    "natural_cn": "我最近完成的一项极具成就感的里程碑，是在应对高强度工作排期的同时备战我的首场半程马拉松。在干劲低落时保持自律极度艰难，但当真正冲过终点线的那一刻，之前所有的早起晨跑都变得无比值得。",
+    "chunks_cn": [
+      {
+        "en": "rewarding milestone",
+        "cn": "极具成就感/回报感的里程碑目标"
+      },
+      {
+        "en": "juggling a demanding schedule",
+        "cn": "兼顾/周旋于高强度的紧凑日程"
+      },
+      {
+        "en": "crossing that finish line",
+        "cn": "冲过终点线/圆满完成攻坚"
+      }
+    ],
+    "connectedSpeech_cn": "'rewarding milestone' 与 'crossing that finish line' 重音鲜明、语调起伏生动，极易拿下 Lexical Resource 与 Fluency 的 8+ 分数。"
+  },
+  {
+    "id": "p44",
+    "category": "Workplace & Meetings",
+    "title": "Receiving Constructive Criticism & Tough Feedback Professionally",
+    "level": "Natural Intermediate",
+    "scenario": "Your manager or team lead offers constructive criticism or points out a blind spot in your recent project proposal.",
+    "textbook": "\"I am sorry you do not like my work. I will do what you say next time.\"",
+    "textbookCritique": "Sounds defeated and apologetic instead of proactive, collaborative, and growth-oriented.",
+    "natural": "I really appreciate you being candid with me! That's a super helpful blind spot I hadn't caught—let me make those tweaks right away and keep you posted.",
+    "chunks": [
+      "appreciate you being candid",
+      "helpful blind spot",
+      "keep you posted"
+    ],
+    "connectedSpeech": "'appreciate you being candid' flows as /əˈpriːʃieɪt juː ˈbiːɪŋ ˈkændɪd/, showing genuine openness rather than defensive tension.",
+    "listenText": "I really appreciate you being candid with me! That's a super helpful blind spot I hadn't caught—let me make those tweaks right away and keep you posted.",
+    "title_cn": "职场中高情商接纳建设性批评与犀利反馈",
+    "category_cn": "职场与会议沟通",
+    "scenario_cn": "主管或同事就你的方案或交付物提出了比较尖锐的修改意见或批评，你希望得体接纳并展现极高的成长心智。",
+    "textbookCritique_cn": "听起来消极、委屈且防御心重，给人一种被动挨训的不成熟印象。",
+    "natural_cn": "非常感谢你这么坦诚地跟我指出这点！这确实是一个我之前没察觉到的盲区，反馈太有价值了——我马上对这几处进行微调，有进展随时同步你！",
+    "chunks_cn": [
+      {
+        "en": "appreciate you being candid",
+        "cn": "感谢你直言不讳/坦诚相告"
+      },
+      {
+        "en": "helpful blind spot",
+        "cn": "非常有价值的思维盲区"
+      },
+      {
+        "en": "keep you posted",
+        "cn": "随时跟你同步进展"
+      }
+    ],
+    "connectedSpeech_cn": "'keep you posted' 自然连读为 /kiːp juː ˈpoʊstɪd/，句尾干净利落，给人靠谱干练的职场印象。"
+  },
+  {
+    "category": "Everyday & Small Talk",
+    "title": "Reacting to an Unexpected Compliment Gracefully",
+    "level": "Natural Intermediate",
+    "scenario": "Someone gives you an unexpected compliment about your outfit, a piece of your work, or a skill you possess.",
+    "textbook": "\"Thank you very much. I am happy you like it.\"",
+    "textbookCritique": "This sounds overly formal and a bit self-centered, missing the chance to genuinely connect or show humility.",
+    "natural": "Oh, really? That's so kind of you to say! I actually just threw this on, so it's nice to hear it paid off. Thanks!",
+    "chunks": [
+      "so kind of you to say",
+      "just threw this on",
+      "nice to hear it paid off"
+    ],
+    "connectedSpeech": "'kind of you' naturally reduces to /kaɪnd əv juː/ or even /kaɪn djə/, blurring the 'of' sound for smoother flow.",
+    "listenText": "Oh, really? That's so kind of you to say! I actually just threw this on, so it's nice to hear it paid off. Thanks!",
+    "title_cn": "高情商回应意料之外的赞美",
+    "category_cn": "日常与闲聊",
+    "scenario_cn": "有人突然夸赞你的穿着、你的作品或你的某个技能。",
+    "textbookCritique_cn": "听起来过于正式和以自我为中心，错失了真诚互动或展现谦逊的机会。",
+    "natural_cn": "啊，真的吗？你这么说真是太好了！我其实就是随便套了件，能听到它有效果很开心。谢谢你！",
+    "chunks_cn": [
+      {
+        "en": "so kind of you to say",
+        "cn": "你这么说真是太好了"
+      },
+      {
+        "en": "just threw this on",
+        "cn": "就是随便套了件/随便弄的"
+      },
+      {
+        "en": "nice to hear it paid off",
+        "cn": "听到没白费工夫很开心"
+      }
+    ],
+    "connectedSpeech_cn": "'kind of you' 自然地缩读为 /kaɪnd əv juː/ 甚至 /kaɪn djə/，听起来更自然流畅。",
+    "id": "p45"
+  },
+  {
+    "category": "Job Interviews",
+    "title": "Following Up After a Job Interview with Enthusiasm",
+    "level": "Fluent & Advanced",
+    "scenario": "You've just finished a job interview and want to send a thank-you note that reiterates your strong interest in the role.",
+    "textbook": "\"Thank you for the interview. I am interested in the position and await your reply.\"",
+    "textbookCritique": "This is too generic and formal, failing to reiterate specific interest or make a memorable impression.",
+    "natural": "It was a real pleasure speaking with you today! I truly enjoyed learning more about the team's culture and the exciting challenges of the role. I'm even more enthusiastic about the opportunity after our conversation, and I'm eager for the next steps.",
+    "chunks": [
+      "real pleasure speaking with you",
+      "truly enjoyed learning more",
+      "even more enthusiastic about",
+      "eager for the next steps"
+    ],
+    "connectedSpeech": "'pleasure speaking with' often blends, with 'speaking with' flowing as /spɪkɪŋ wɪð/, making it sound more natural and less clipped.",
+    "listenText": "It was a real pleasure speaking with you today! I truly enjoyed learning more about the team's culture and the exciting challenges of the role. I'm even more enthusiastic about the opportunity after our conversation, and I'm eager for the next steps.",
+    "title_cn": "面试后热情洋溢地发送感谢信",
+    "category_cn": "求职面试",
+    "scenario_cn": "你刚结束一场面试，想发一封感谢信，再次强调你对这个职位的强烈兴趣。",
+    "textbookCritique_cn": "这封信过于通用和正式，未能突出你的具体兴趣，也无法留下深刻印象。",
+    "natural_cn": "今天能和您交谈非常愉快！我很高兴能深入了解团队文化和这个职位激动人心的挑战。与您交谈后，我对这个机会更加充满热情，并期待下一步进展。",
+    "chunks_cn": [
+      {
+        "en": "real pleasure speaking with you",
+        "cn": "很高兴能和您交谈"
+      },
+      {
+        "en": "truly enjoyed learning more",
+        "cn": "很高兴能深入了解"
+      },
+      {
+        "en": "even more enthusiastic about",
+        "cn": "对…更加充满热情"
+      },
+      {
+        "en": "eager for the next steps",
+        "cn": "期待下一步"
+      }
+    ],
+    "connectedSpeech_cn": "'pleasure speaking with' 通常会连读，其中 'speaking with' 听起来像 /spɪkɪŋ wɪð/，让表达更自然流畅，不生硬。",
+    "id": "p46"
+  },
+  {
+    "category": "Travel & Social Life",
+    "title": "Suggesting a Casual Get-Together with Friends",
+    "level": "Intermediate",
+    "scenario": "You want to casually suggest getting together with friends without making a firm plan or commitment yet, gauging interest first.",
+    "textbook": "\"Do you have free time on the weekend? I want to meet you.\"",
+    "textbookCritique": "This is too direct and puts pressure on the other person to commit, lacking the casual, flexible tone typical among friends.",
+    "natural": "Hey everyone, I was thinking it'd be fun to catch up sometime next week or over the weekend. No firm plans yet, just throwing it out there to see if anyone's free and up for it!",
+    "chunks": [
+      "thinking it'd be fun",
+      "catch up sometime next week",
+      "throwing it out there",
+      "see if anyone's free"
+    ],
+    "connectedSpeech": "'it'd be fun' often reduces to /ɪtəd bi fʌn/, with the 'it'd' sounding like 'ih-tud', making the suggestion softer and less formal.",
+    "listenText": "Hey everyone, I was thinking it'd be fun to catch up sometime next week or over the weekend. No firm plans yet, just throwing it out there to see if anyone's free and up for it!",
+    "title_cn": "随意地邀约朋友小聚",
+    "category_cn": "旅行与社交",
+    "scenario_cn": "你想随意地向朋友们提出聚会建议，不急于定下具体计划，先看看大家的意向。",
+    "textbookCritique_cn": "这种表达过于直接，容易给对方造成压力，缺乏朋友间应有的随意和弹性。",
+    "natural_cn": "嘿，各位！我在想下周或周末找个时间一起聚聚会挺好玩。现在还没定具体计划，只是随便提一下，看看大家有没有空并且乐意来！",
+    "chunks_cn": [
+      {
+        "en": "thinking it'd be fun",
+        "cn": "觉得一起聚聚会挺好玩"
+      },
+      {
+        "en": "catch up sometime next week",
+        "cn": "下周或周末找时间聚聚"
+      },
+      {
+        "en": "throwing it out there",
+        "cn": "只是随便提一下/抛砖引玉"
+      },
+      {
+        "en": "see if anyone's free",
+        "cn": "看看大家有没有空"
+      }
+    ],
+    "connectedSpeech_cn": "'it'd be fun' 经常缩读成 /ɪtəd bi fʌn/，其中 'it'd' 听起来像 'ih-tud'，使建议听起来更柔和、不那么正式。",
+    "id": "p47"
+  },
+  {
+    "category": "Workplace & Meetings",
+    "title": "Politely Asking for Clarification on a Slightly Missed Point",
+    "level": "Natural Intermediate",
+    "scenario": "You're in a meeting and didn't quite catch a detail or a specific instruction from a colleague. You need them to repeat or rephrase it.",
+    "textbook": "\"Can you repeat what you just said? I did not understand.\"",
+    "textbookCritique": "This is too blunt and sounds like an accusation of poor speaking, rather than acknowledging your own momentary lapse in understanding.",
+    "natural": "Sorry, I think I might have missed that last bit. Could you just quickly go over what you said about the timeline again? I want to make sure I'm on the same page.",
+    "chunks": [
+      "might have missed that last bit",
+      "quickly go over what you said",
+      "want to make sure",
+      "on the same page"
+    ],
+    "connectedSpeech": "'Might have' often reduces to /maɪt əv/ or even /maɪtə/ in fast speech, making 'might have missed' sound like 'might-uh-missed'.",
+    "listenText": "Sorry, I think I might have missed that last bit. Could you just quickly go over what you said about the timeline again? I want to make sure I'm on the same page.",
+    "title_cn": "礼貌地询问没听清的部分",
+    "category_cn": "职场与会议",
+    "scenario_cn": "你在会议中没有完全听清同事说的某个细节或具体指示，需要他们重复或重新解释一下。",
+    "textbookCritique_cn": "这种说法过于生硬，听起来像是在指责对方没说清楚，而不是承认自己一时的理解疏漏。",
+    "natural_cn": "抱歉，我好像没听清刚才那一部分。您能再快速讲一下关于时间线的部分吗？我想确保我们理解一致。",
+    "chunks_cn": [
+      {
+        "en": "might have missed that last bit",
+        "cn": "好像没听清刚才那一部分"
+      },
+      {
+        "en": "quickly go over what you said",
+        "cn": "快速讲一下您说的内容"
+      },
+      {
+        "en": "want to make sure",
+        "cn": "想确保"
+      },
+      {
+        "en": "on the same page",
+        "cn": "理解一致"
+      }
+    ],
+    "connectedSpeech_cn": "'Might have' 在快速语流中常缩读为 /maɪt əv/ 甚至 /maɪtə/，使得 'might have missed' 听起来像 'might-uh-missed'。",
+    "id": "p48"
+  },
+  {
+    "category": "Everyday & Small Talk",
+    "title": "Reacting with Mild Sympathy to a Minor Inconvenience",
+    "level": "Intermediate",
+    "scenario": "A friend or colleague mentions a minor setback, like their train being delayed or spilling coffee. You want to express mild sympathy without overreacting.",
+    "textbook": "\"Oh, I feel bad for you about that situation.\"",
+    "textbookCritique": "This sounds overly dramatic and can be awkward for minor issues, implying a greater tragedy than what occurred.",
+    "natural": "Oh, that's a bummer! Hopefully, it didn't mess up your whole day too much. Sometimes those little things just happen, you know?",
+    "chunks": [
+      "that's a bummer",
+      "mess up your whole day",
+      "little things just happen",
+      "you know?"
+    ],
+    "connectedSpeech": "'That's a' often blends into /ðætsə/, making 'that's a bummer' sound like a single, smooth expression of mild disappointment.",
+    "listenText": "Oh, that's a bummer! Hopefully, it didn't mess up your whole day too much. Sometimes those little things just happen, you know?",
+    "title_cn": "对小麻烦表达轻微的同情",
+    "category_cn": "日常与闲聊",
+    "scenario_cn": "朋友或同事提到一些小的不顺心，比如火车晚点或咖啡洒了。你想表达轻微的同情，但又不想反应过度。",
+    "textbookCritique_cn": "这种说法听起来过于夸张，对于小问题来说显得很奇怪，给人一种小题大做的感觉。",
+    "natural_cn": "哦，真不走运！希望没有把你一整天都搞砸。有时候这些小事就是会发生，是吧？",
+    "chunks_cn": [
+      {
+        "en": "that's a bummer",
+        "cn": "真不走运/真扫兴"
+      },
+      {
+        "en": "mess up your whole day",
+        "cn": "把你一整天都搞砸"
+      },
+      {
+        "en": "little things just happen",
+        "cn": "小事就是会发生"
+      },
+      {
+        "en": "you know?",
+        "cn": "是吧？/你知道的"
+      }
+    ],
+    "connectedSpeech_cn": "'That's a' 常常连读成 /ðætsə/，让 'that's a bummer' 听起来像一个流畅表达轻微失望的短语。",
+    "id": "p49"
+  },
+  {
+    "category": "IELTS & TOEFL Speaking",
+    "title": "Discussing Future Career Aspirations with Professional Nuance",
+    "level": "Advanced",
+    "scenario": "In a speaking test or professional networking event, you're asked about your long-term career goals and what you hope to achieve.",
+    "textbook": "\"My future career goal is to be a manager and get promoted.\"",
+    "textbookCritique": "This sounds overly simplistic and self-focused, lacking the depth and strategic thinking expected in professional discussions.",
+    "natural": "Looking ahead, I'm really focused on developing my expertise in data analytics, with the aim of eventually taking on more strategic roles where I can contribute to high-level decision-making. I'd love to lead a team one day, but my primary driver is making a tangible impact.",
+    "chunks": [
+      "Looking ahead",
+      "developing my expertise in",
+      "taking on more strategic roles",
+      "making a tangible impact"
+    ],
+    "connectedSpeech": "'Aim of eventually' can blend together, with the /v/ from 'of' linking to 'eventually' /eɪm əv ɪˈvɛntʃuəli/, creating a smoother flow.",
+    "listenText": "Looking ahead, I'm really focused on developing my expertise in data analytics, with the aim of eventually taking on more strategic roles where I can contribute to high-level decision-making. I'd love to lead a team one day, but my primary driver is making a tangible impact.",
+    "title_cn": "有技巧地谈论未来职业抱负",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "在口语考试或专业交流活动中，你被问及长期的职业目标以及你希望实现什么。",
+    "textbookCritique_cn": "这种说法过于简单和以自我为中心，缺乏专业讨论中应有的深度和战略性思考。",
+    "natural_cn": "展望未来，我非常专注于提升我在数据分析领域的专业知识，目标是最终能承担更多战略性角色，从而为高层决策贡献力量。我希望有一天能领导一个团队，但我的主要动力是产生实实在在的影响。",
+    "chunks_cn": [
+      {
+        "en": "Looking ahead",
+        "cn": "展望未来"
+      },
+      {
+        "en": "developing my expertise in",
+        "cn": "提升我在…的专业知识"
+      },
+      {
+        "en": "taking on more strategic roles",
+        "cn": "承担更多战略性角色"
+      },
+      {
+        "en": "making a tangible impact",
+        "cn": "产生实实在在的影响"
+      }
+    ],
+    "connectedSpeech_cn": "'Aim of eventually' 可以连读，'of' 的 /v/ 音与 'eventually' 连接 /eɪm əv ɪˈvɛntʃuəli/，使表达更流畅。",
+    "id": "p50"
+  }
+]

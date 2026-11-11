@@ -1,0 +1,74 @@
+# SpeakReady cloud daily pipeline.
+#
+# Every day at 07:52 Beijing time this workflow:
+#   1. generates 3 new graded prompts via the Gemini API
+#      (the runner is in the US/EU, so the API is NOT geo-blocked),
+#   2. synthesizes mp3 audio for them with edge-tts,
+#   3. pushes an HTML digest + the mp3s to Telegram,
+#   4. commits everything (prompts.json, audio, llms.txt, index.html,
+#      newsletter draft, digest) back to this repo.
+#
+# The repo is the source of truth. The Mac pulls updates with
+# scripts/sync_to_mac.sh whenever it is awake -- it no longer needs
+# to be awake at 07:52.
+
+name: SpeakReady Daily
+
+on:
+  schedule:
+    # 07:52 Asia/Shanghai == 23:52 UTC (previous day).
+    # GitHub may delay scheduled runs by several minutes; that is fine.
+    - cron: '52 23 * * *'
+  workflow_dispatch: {}   # manual "Run workflow" button for testing
+
+permissions:
+  contents: write   # the job commits results back to the repo
+
+# Never run two daily jobs at once; queue instead of overlapping.
+concurrency:
+  group: speakready-daily
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install edge-tts
+        run: pip install edge-tts
+
+      - name: Generate 3 new prompts
+        id: generate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/generate_daily.py
+
+      - name: Generate audio for new prompts
+        if: steps.generate.outputs.new_ids != ''
+        run: python scripts/generate_neural_audio.py --ids ${{ steps.generate.outputs.new_ids }}
+
+      - name: Push digest + audio to Telegram
+        if: steps.generate.outputs.new_ids != ''
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/telegram_push.py --ids ${{ steps.generate.outputs.new_ids }}
+
+      - name: Commit and push results
+        if: steps.generate.outputs.new_ids != ''
+        run: |
+          git config user.name "speakready-bot"
+          git config user.email "speakready-bot@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add -A
+          git diff --cached --quiet && echo "nothing to commit" || \
+            git commit -m "daily: ${{ steps.generate.outputs.new_ids }} ($(date +%F))"
+          git push
