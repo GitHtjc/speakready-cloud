@@ -180,3 +180,171 @@ SpeakReady bridges this gap with:
 - Natural / Fluent Upgrade: Looking ahead, I'm really focused on developing my expertise in data analytics, with the aim of eventually taking on more strategic roles where I can contribute to high-level decision-making. I'd love to lead a team one day, but my primary driver is making a tangible impact.
 - Native Tip: 'Aim of eventually' can blend together, with the /v/ from 'of' linking to 'eventually' /eɪm əv ɪˈvɛntʃuəli/, creating a smoother flow.
 - Chunks: Looking ahead, developing my expertise in, taking on more strategic roles, making a tangible impact
+
+
+## 2026-11-12 (auto)
+```json
+[
+  {
+    "id": "p51",
+    "category": "Everyday Small Talk",
+    "title": "Chatting About Online Hobbies and Virtual Connections",
+    "level": "Intermediate",
+    "scenario": "You're at a casual gathering, either online or in person, and someone asks what you've been doing for fun lately, especially related to online activities.",
+    "textbook": "\"I like to play games online with my friends. It is fun.\"",
+    "textbookCritique": "While direct, this lacks detail and enthusiasm. It doesn't invite further conversation or elaborate on the 'why' behind the activity.",
+    "natural": "I've actually been getting into a lot of online board game nights recently – it's a fantastic way to stay connected with friends who live far away, and we've discovered some really cool new games that way.",
+    "chunks": [
+      "getting into",
+      "online board game nights",
+      "fantastic way to stay connected with",
+      "live far away",
+      "discovered some really cool new games"
+    ],
+    "connectedSpeech": "'Getting into' often blends as /ɡɛtɪnˈɪntuː/, with the 'g' and 't' sounds linking smoothly. 'Way to stay' can also link, blurring the 'y' and 't' sounds slightly.",
+    "listenText": "I've actually been getting into a lot of online board game nights recently – it's a fantastic way to stay connected with friends who live far away, and we've discovered some really cool new games that way.",
+    "title_cn": "闲聊在线爱好与虚拟联系",
+    "category_cn": "日常闲聊",
+    "scenario_cn": "你在一个随意的聚会中，无论是线上还是线下，有人问你最近有什么有趣的活动，特别是与线上活动相关的。",
+    "textbookCritique_cn": "虽然直接，但这缺乏细节和热情。它没有邀请进一步的对话，也没有详细说明活动背后的“原因”。",
+    "natural_cn": "我最近其实迷上了很多在线桌游之夜——这是和远方朋友保持联系的绝佳方式，我们也因此发现了一些非常酷的新游戏。",
+    "chunks_cn": [
+      {
+        "en": "getting into",
+        "cn": "迷上/开始喜欢"
+      },
+      {
+        "en": "online board game nights",
+        "cn": "在线桌游之夜"
+      },
+      {
+        "en": "fantastic way to stay connected with",
+        "cn": "与…保持联系的绝佳方式"
+      },
+      {
+        "en": "live far away",
+        "cn": "住得很远"
+      },
+      {
+        "en": "discovered some really cool new games",
+        "cn": "发现了一些非常酷的新游戏"
+      }
+    ],
+    "connectedSpeech_cn": "'Getting into' 经常连读成 /ɡɛtɪnˈɪntuː/，'g' 和 't' 音平滑连接。'Way to stay' 也可以连读，轻微模糊 'y' 和 't' 的声音。"
+  },
+  {
+    "id": "p52",
+    "category": "Remote Job Interview",
+    "title": "Demonstrating Adaptability in a Dynamic Work Environment",
+    "level": "Advanced",
+    "scenario": "During a remote job interview, the interviewer asks how you handle change or unexpected challenges, particularly in a fast-evolving industry or remote setup.",
+    "textbook": "\"I am very adaptable to new things and can change quickly.\"",
+    "textbookCritique": "This is too generic and lacks specific examples or depth. It doesn't convince the interviewer of actual ability or experience.",
+    "natural": "I pride myself on being highly adaptable, particularly in dynamic remote settings. For instance, when our team shifted to a new project management tool last quarter, I proactively learned its functionalities and even helped onboard several colleagues, ensuring a seamless transition for everyone.",
+    "chunks": [
+      "pride myself on being",
+      "highly adaptable",
+      "dynamic remote settings",
+      "shifted to a new project management tool",
+      "proactively learned its functionalities",
+      "helped onboard several colleagues",
+      "ensuring a seamless transition"
+    ],
+    "connectedSpeech": "'Shifted to a new' can sound like 'shift-tuh-wuh-new' /ʃɪftɪd tuː ə njuː/, with the 'd' and 'to' linking and 'to' often reducing to 'tuh'.",
+    "listenText": "I pride myself on being highly adaptable, particularly in dynamic remote settings. For instance, when our team shifted to a new project management tool last quarter, I proactively learned its functionalities and even helped onboard several colleagues, ensuring a seamless transition for everyone.",
+    "title_cn": "在动态工作环境中展现适应能力",
+    "category_cn": "远程求职面试",
+    "scenario_cn": "在一次远程求职面试中，面试官询问你如何应对变化或意想不到的挑战，特别是在快速发展的行业或远程环境中。",
+    "textbookCritique_cn": "这过于笼统，缺乏具体的例子或深度。它不能让面试官信服你真正的能力或经验。",
+    "natural_cn": "我以自己高度的适应能力为傲，尤其是在动态的远程环境中。例如，上个季度当我们团队转向新的项目管理工具时，我主动学习了它的功能，甚至帮助几位同事熟悉操作，确保了所有人的平稳过渡。",
+    "chunks_cn": [
+      {
+        "en": "pride myself on being",
+        "cn": "我以自己…为傲"
+      },
+      {
+        "en": "highly adaptable",
+        "cn": "高度适应能力强"
+      },
+      {
+        "en": "dynamic remote settings",
+        "cn": "动态的远程环境"
+      },
+      {
+        "en": "shifted to a new project management tool",
+        "cn": "转向了新的项目管理工具"
+      },
+      {
+        "en": "proactively learned its functionalities",
+        "cn": "主动学习了它的功能"
+      },
+      {
+        "en": "helped onboard several colleagues",
+        "cn": "帮助几位同事熟悉操作"
+      },
+      {
+        "en": "ensuring a seamless transition",
+        "cn": "确保了平稳过渡"
+      }
+    ],
+    "connectedSpeech_cn": "'Shifted to a new' 可以听起来像 'shift-tuh-wuh-new' /ʃɪftɪd tuː ə njuː/，其中 'd' 和 'to' 连接，'to' 经常简化为 'tuh'。"
+  },
+  {
+    "id": "p53",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "Analyzing the Societal Impact of Emerging AI Technologies",
+    "level": "Advanced",
+    "scenario": "In a speaking test, you're asked to discuss the positive and negative influences of advanced technology, such as Artificial Intelligence, on modern society or education.",
+    "textbook": "\"AI is good because it helps us learn and do things faster, but it can also be bad if we rely on it too much or it makes mistakes.\"",
+    "textbookCritique": "This response is overly simplistic and lacks the critical depth and sophisticated vocabulary expected at an advanced level. It doesn't offer nuanced perspectives.",
+    "natural": "While AI undoubtedly offers incredible potential for personalized learning and automating mundane tasks, we must also critically examine its ethical implications, particularly regarding data privacy and the risk of over-reliance on algorithms impacting critical thinking skills.",
+    "chunks": [
+      "undoubtedly offers incredible potential",
+      "personalized learning",
+      "automating mundane tasks",
+      "critically examine its ethical implications",
+      "data privacy",
+      "risk of over-reliance on algorithms",
+      "impacting critical thinking skills"
+    ],
+    "connectedSpeech": "'Risk of over-reliance' often blends, with the 'k' sound from 'risk' linking to the 'ov' sound from 'of', and 'of' then linking to 'over' /rɪsk əv oʊvərɪˈlaɪəns/, creating a flowing sound.",
+    "listenText": "While AI undoubtedly offers incredible potential for personalized learning and automating mundane tasks, we must also critically examine its ethical implications, particularly regarding data privacy and the risk of over-reliance on algorithms impacting critical thinking skills.",
+    "title_cn": "分析新兴人工智能技术的社会影响",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "在口语考试中，你被要求讨论先进技术（如人工智能）对现代社会或教育的积极和消极影响。",
+    "textbookCritique_cn": "这个回答过于简单，缺乏高级别所需的批判性深度和复杂的词汇。它没有提供细致入微的观点。",
+    "natural_cn": "尽管人工智能无疑为个性化学习和自动化重复性任务提供了巨大的潜力，但我们也必须批判性地审视其伦理影响，尤其是在数据隐私方面，以及过度依赖算法可能影响批判性思维能力的风险。",
+    "chunks_cn": [
+      {
+        "en": "undoubtedly offers incredible potential",
+        "cn": "无疑提供了巨大的潜力"
+      },
+      {
+        "en": "personalized learning",
+        "cn": "个性化学习"
+      },
+      {
+        "en": "automating mundane tasks",
+        "cn": "自动化重复性任务"
+      },
+      {
+        "en": "critically examine its ethical implications",
+        "cn": "批判性地审视其伦理影响"
+      },
+      {
+        "en": "data privacy",
+        "cn": "数据隐私"
+      },
+      {
+        "en": "risk of over-reliance on algorithms",
+        "cn": "过度依赖算法的风险"
+      },
+      {
+        "en": "impacting critical thinking skills",
+        "cn": "影响批判性思维能力"
+      }
+    ],
+    "connectedSpeech_cn": "'Risk of over-reliance' 经常连读，'risk' 的 'k' 音与 'of' 的 'ov' 音连接，然后 'of' 再与 'over' 连接 /rɪsk əv oʊvərɪˈlaɪəns/，形成流畅的音流。"
+  }
+]
+```
