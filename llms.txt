@@ -348,3 +348,176 @@ SpeakReady bridges this gap with:
   }
 ]
 ```
+
+
+## 2026-11-13 (auto)
+```json
+[
+  {
+    "id": "p54",
+    "category": "Remote Job Interview",
+    "title": "Discussing Your Experience with Remote Collaboration Tools",
+    "level": "Intermediate-Advanced",
+    "scenario": "In a remote job interview, you're asked about your proficiency and experience using digital tools for team collaboration.",
+    "textbook": "\"I use Zoom and Slack for work. They are good for talking and sharing files with my team.\"",
+    "textbookCritique": "This response is too basic. It lists tools but doesn't demonstrate a deeper understanding of *how* these tools facilitate effective remote collaboration or offer specific examples of their use in a professional context. It lacks the detail and professional vocabulary expected in an interview.",
+    "natural": "I'm quite adept at leveraging a variety of remote collaboration platforms, including Zoom for video conferencing, Slack for real-time messaging, and Trello for project management. For instance, in my last role, I frequently utilized Trello to coordinate tasks across different time zones, ensuring everyone was always on the same page and bottlenecks were swiftly addressed.",
+    "chunks": [
+      "adept at leveraging",
+      "variety of remote collaboration platforms",
+      "real-time messaging",
+      "project management",
+      "frequently utilized Trello",
+      "coordinate tasks across different time zones",
+      "always on the same page",
+      "bottlenecks were swiftly addressed"
+    ],
+    "connectedSpeech": "'Adept at' often features a 't' sound at the end of 'adept' that links with the 'a' sound of 'at', becoming /əˈdɛpt æt/. Similarly, 'across different' can blend, with the 's' from 'across' linking to the 'd' from 'different' /əˈkrɔs ˈdɪfərənt/.",
+    "listenText": "I'm quite adept at leveraging a variety of remote collaboration platforms, including Zoom for video conferencing, Slack for real-time messaging, and Trello for project management. For instance, in my last role, I frequently utilized Trello to coordinate tasks across different time zones, ensuring everyone was always on the same page and bottlenecks were swiftly addressed.",
+    "title_cn": "讨论您远程协作工具的使用经验",
+    "category_cn": "远程求职面试",
+    "scenario_cn": "在远程求职面试中，您被问及使用数字工具进行团队协作的熟练程度和经验。",
+    "textbookCritique_cn": "这个回答过于基础。它列举了工具，但没有展示对这些工具如何促进有效远程协作的更深层次理解，也没有提供它们在专业环境中使用的具体例子。它缺乏面试中所需的细节和专业词汇。",
+    "natural_cn": "我非常擅长利用各种远程协作平台，包括用于视频会议的Zoom、用于实时消息传递的Slack以及用于项目管理的Trello。例如，在我上一份工作中，我经常使用Trello协调不同时区的任务，确保每个人都始终保持一致，并迅速解决了瓶颈问题。",
+    "chunks_cn": [
+      {
+        "en": "adept at leveraging",
+        "cn": "擅长利用"
+      },
+      {
+        "en": "variety of remote collaboration platforms",
+        "cn": "各种远程协作平台"
+      },
+      {
+        "en": "real-time messaging",
+        "cn": "实时消息传递"
+      },
+      {
+        "en": "project management",
+        "cn": "项目管理"
+      },
+      {
+        "en": "frequently utilized Trello",
+        "cn": "经常使用Trello"
+      },
+      {
+        "en": "coordinate tasks across different time zones",
+        "cn": "协调不同时区的任务"
+      },
+      {
+        "en": "always on the same page",
+        "cn": "始终保持一致"
+      },
+      {
+        "en": "bottlenecks were swiftly addressed",
+        "cn": "瓶颈问题迅速得到解决"
+      }
+    ],
+    "connectedSpeech_cn": "'Adept at' 中 'adept' 结尾的 't' 音经常与 'at' 的 'a' 音连接，变为 /əˈdɛpt æt/。类似地，'across different' 可以连读，'across' 的 's' 与 'different' 的 'd' 连接 /əˈkrɔs ˈdɪfərənt/。"
+  },
+  {
+    "id": "p55",
+    "category": "Everyday Small Talk",
+    "title": "Sharing Thoughts on Local Community Initiatives",
+    "level": "Intermediate",
+    "scenario": "You're chatting with a neighbor or acquaintance, and the conversation turns to recent local community projects or events.",
+    "textbook": "\"The new park is good. I like to walk there. It is nice for kids.\"",
+    "textbookCritique": "This response is grammatically correct but lacks elaboration and fails to engage in a more meaningful conversation. It doesn't offer any personal perspective beyond basic observation or specific reasons for its 'goodness'.",
+    "natural": "Oh, I'm really impressed with how the community has rallied around upgrading the old town square. It's fantastic to see so many local businesses getting involved, and I think it'll really boost foot traffic for them, not to mention creating a much more vibrant public space for everyone.",
+    "chunks": [
+      "impressed with how the community has rallied around",
+      "upgrading the old town square",
+      "fantastic to see so many local businesses getting involved",
+      "boost foot traffic",
+      "vibrant public space for everyone"
+    ],
+    "connectedSpeech": "'Rallied around' often blends, with the 'd' from 'rallied' linking to the 'a' from 'around' /rælid əˈraʊnd/. Also, 'getting involved' can have the 'g' from 'getting' linking to 'involved' /gɛtɪŋ ɪnˈvɒlvd/, sometimes with a glottal stop on the 't'.",
+    "listenText": "Oh, I'm really impressed with how the community has rallied around upgrading the old town square. It's fantastic to see so many local businesses getting involved, and I think it'll really boost foot traffic for them, not to mention creating a much more vibrant public space for everyone.",
+    "title_cn": "分享对当地社区倡议的看法",
+    "category_cn": "日常闲聊",
+    "scenario_cn": "您正在和邻居或熟人聊天，话题转向了最近的当地社区项目或活动。",
+    "textbookCritique_cn": "这个回答语法正确，但缺乏阐述，未能进行更深入的对话。它没有提供超出基本观察的个人观点，也没有说明它“好”的具体原因。",
+    "natural_cn": "哦，社区围绕翻新旧城广场所做的努力让我印象深刻。看到这么多当地企业参与进来真是太棒了，我想这会真正增加他们的客流量，更不用说为所有人创造了一个更充满活力的公共空间。",
+    "chunks_cn": [
+      {
+        "en": "impressed with how the community has rallied around",
+        "cn": "社区围绕…所做的努力让我印象深刻"
+      },
+      {
+        "en": "upgrading the old town square",
+        "cn": "翻新旧城广场"
+      },
+      {
+        "en": "fantastic to see so many local businesses getting involved",
+        "cn": "看到这么多当地企业参与进来真是太棒了"
+      },
+      {
+        "en": "boost foot traffic",
+        "cn": "增加客流量"
+      },
+      {
+        "en": "vibrant public space for everyone",
+        "cn": "为所有人创造一个更充满活力的公共空间"
+      }
+    ],
+    "connectedSpeech_cn": "'Rallied around' 经常连读，'rallied' 的 'd' 音与 'around' 的 'a' 音连接，变为 /rælid əˈraʊnd/。此外，'getting involved' 中 'getting' 的 'g' 音与 'involved' 连接 /gɛtɪŋ ɪnˈvɒlvd/，有时 't' 音有声门塞音。"
+  },
+  {
+    "id": "p56",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "Discussing the Role of Sustainable Practices in Urban Development",
+    "level": "Advanced",
+    "scenario": "In an academic speaking test, you are asked to discuss the importance and challenges of integrating sustainable practices into the planning and development of modern cities.",
+    "textbook": "\"Cities should be green. We need more trees and less pollution. This helps the environment.\"",
+    "textbookCritique": "This is a very basic, unelaborated statement. It uses simple vocabulary and doesn't demonstrate critical thinking, academic language, or a nuanced understanding of 'sustainable practices' or 'urban development' expected at an advanced level. It merely states obvious benefits.",
+    "natural": "Integrating sustainable practices into urban development is absolutely crucial for the longevity and liveability of our cities. We're talking about everything from green infrastructure and efficient public transport systems to promoting circular economy principles and fostering local food production. The main challenge often lies in balancing economic growth with ecological preservation, particularly in rapidly expanding metropolises.",
+    "chunks": [
+      "absolutely crucial for the longevity and liveability",
+      "green infrastructure",
+      "efficient public transport systems",
+      "promoting circular economy principles",
+      "fostering local food production",
+      "balancing economic growth with ecological preservation",
+      "rapidly expanding metropolises"
+    ],
+    "connectedSpeech": "'Crucial for the longevity' often sees 'for' reducing to /fər/, linking to 'the' /ðə/ and then to 'longevity' /kruːʃəl fər ðə lɒnˈdʒɛvɪti/. Similarly, 'balancing economic' can link the final 'g' sound to the 'e' of 'economic' /bælənsɪŋ ɪkəˈnɒmɪk/.",
+    "listenText": "Integrating sustainable practices into urban development is absolutely crucial for the longevity and liveability of our cities. We're talking about everything from green infrastructure and efficient public transport systems to promoting circular economy principles and fostering local food production. The main challenge often lies in balancing economic growth with ecological preservation, particularly in rapidly expanding metropolises.",
+    "title_cn": "讨论可持续实践在城市发展中的作用",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "在学术口语考试中，您被要求讨论将可持续实践融入现代城市规划和发展的重要性与挑战。",
+    "textbookCritique_cn": "这是一个非常基础、未经阐述的陈述。它使用简单的词汇，未能展示高级别所需的批判性思维、学术语言或对“可持续实践”或“城市发展”的细致理解。它仅仅陈述了显而易见的好处。",
+    "natural_cn": "将可持续实践融入城市发展对于我们城市的长期生存和宜居性至关重要。我们所谈论的涵盖了从绿色基础设施和高效公共交通系统，到推广循环经济原则和促进本地粮食生产的方方面面。主要挑战通常在于平衡经济增长与生态保护，尤其是在快速扩张的大都市中。",
+    "chunks_cn": [
+      {
+        "en": "absolutely crucial for the longevity and liveability",
+        "cn": "对于长期生存和宜居性至关重要"
+      },
+      {
+        "en": "green infrastructure",
+        "cn": "绿色基础设施"
+      },
+      {
+        "en": "efficient public transport systems",
+        "cn": "高效公共交通系统"
+      },
+      {
+        "en": "promoting circular economy principles",
+        "cn": "推广循环经济原则"
+      },
+      {
+        "en": "fostering local food production",
+        "cn": "促进本地粮食生产"
+      },
+      {
+        "en": "balancing economic growth with ecological preservation",
+        "cn": "平衡经济增长与生态保护"
+      },
+      {
+        "en": "rapidly expanding metropolises",
+        "cn": "快速扩张的大都市"
+      }
+    ],
+    "connectedSpeech_cn": "'Crucial for the longevity' 中 'for' 常常弱读为 /fər/，与 'the' /ðə/ 连接，然后与 'longevity' /lɒnˈdʒɛvɪti/ 连接，形成 /kruːʃəl fər ðə lɒnˈdʒɛvɪti/。同样，'balancing economic' 可以将 'balancing' 结尾的 'g' 音与 'economic' 的 'e' 连接 /bælənsɪŋ ɪkəˈnɒmɪk/。"
+  }
+]
+```
