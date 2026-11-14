@@ -2300,5 +2300,186 @@
       }
     ],
     "connectedSpeech_cn": "'Crucial for the longevity' 中 'for' 常常弱读为 /fər/，与 'the' /ðə/ 连接，然后与 'longevity' /lɒnˈdʒɛvɪti/ 连接，形成 /kruːʃəl fər ðə lɒnˈdʒɛvɪti/。同样，'balancing economic' 可以将 'balancing' 结尾的 'g' 音与 'economic' 的 'e' 连接 /bælənsɪŋ ɪkəˈnɒmɪk/。"
+  },
+  {
+    "id": "p57",
+    "category": "Everyday Small Talk",
+    "title": "Discussing a Popular New TV Series/Movie",
+    "level": "Intermediate",
+    "scenario": "You're at a casual gathering, and someone asks if you've seen the latest popular TV series or movie that everyone is talking about. You want to share your opinion and ask theirs.",
+    "textbook": "I saw the new show. It is good. What do you think?",
+    "textbookCritique": "This is grammatically correct but very blunt and lacks natural conversational flow. It doesn't invite much follow-up beyond a simple yes/no. It misses opportunities for more engaging vocabulary.",
+    "natural": "Oh, you mean 'The Cosmic Wanderer'? Absolutely, I just finished binge-watching it last weekend! I thought the plot twists were genuinely mind-blowing, especially towards the end. What was your favorite part, if you've seen it?",
+    "chunks": [
+      "binge-watching it last weekend",
+      "genuinely mind-blowing",
+      "plot twists",
+      "favorite part",
+      "if you've seen it"
+    ],
+    "connectedSpeech": "'Binge-watching it' often links the 'g' of 'binge-watching' to the 'i' of 'it' /bɪndʒwɒtʃɪŋɪt/. Also, 'what was your' often reduces 'was' to /wəz/ and links 'your' to /jər/ /wɒtwəzjər/.",
+    "listenText": "Oh, you mean 'The Cosmic Wanderer'? Absolutely, I just finished binge-watching it last weekend! I thought the plot twists were genuinely mind-blowing, especially towards the end. What was your favorite part, if you've seen it?",
+    "title_cn": "讨论一部热门新剧/电影",
+    "category_cn": "日常闲聊",
+    "scenario_cn": "在一个轻松的聚会上，有人问你是否看了大家都在谈论的最新热门电视剧或电影。你想分享你的看法并询问对方的意见。",
+    "textbookCritique_cn": "这句话语法正确但非常生硬，缺乏自然的对话流畅性。它没有引出除了简单的是/否之外的更多追问。它错失了使用更多引人入胜词汇的机会。",
+    "natural_cn": "“哦，你说的是《宇宙漫游者》吗？当然啦，我上周末刚把它刷完了！我觉得剧情反转简直是令人脑洞大开，尤其是在结尾部分。如果你也看了，你最喜欢哪一段呢？”",
+    "chunks_cn": [
+      {
+        "en": "binge-watching it last weekend",
+        "cn": "上周末刚把它刷完了"
+      },
+      {
+        "en": "genuinely mind-blowing",
+        "cn": "简直是令人脑洞大开"
+      },
+      {
+        "en": "plot twists",
+        "cn": "剧情反转"
+      },
+      {
+        "en": "favorite part",
+        "cn": "最喜欢哪一段"
+      },
+      {
+        "en": "if you've seen it",
+        "cn": "如果你也看了"
+      }
+    ],
+    "connectedSpeech_cn": "'Binge-watching it' 通常会将 'binge-watching' 中的 'g' 音与 'it' 中的 'i' 连接起来 /bɪndʒwɒtʃɪŋɪt/。此外，'what was your' 中的 'was' 常常弱读为 /wəz/，并将 'your' 与 /jər/ 连接 /wɒtwəzjər/。"
+  },
+  {
+    "id": "p58",
+    "category": "Workplace Communication",
+    "title": "Navigating Hybrid Work Challenges",
+    "level": "Advanced",
+    "scenario": "In a team meeting, your manager asks for input on how to improve collaboration and productivity within your hybrid work model. You need to articulate both the challenges and potential solutions.",
+    "textbook": "Hybrid work is hard. People don't know when to meet. We need to fix this.",
+    "textbookCritique": "This statement is too simplistic and accusatory, lacking specifics or constructive solutions. It doesn't use professional language appropriate for a workplace discussion at an advanced level and offers no actionable insights.",
+    "natural": "From my perspective, one of the primary hurdles in our current hybrid setup is ensuring equitable access to information and fostering a consistent sense of team cohesion, particularly for those working remotely. Perhaps implementing a dedicated 'virtual water cooler' channel or establishing clearer guidelines for synchronous vs. asynchronous communication could mitigate some of these issues.",
+    "chunks": [
+      "primary hurdles",
+      "equitable access to information",
+      "fostering a consistent sense of team cohesion",
+      "particularly for those working remotely",
+      "implementing a dedicated 'virtual water cooler' channel",
+      "establishing clearer guidelines",
+      "synchronous vs. asynchronous communication",
+      "could mitigate some of these issues"
+    ],
+    "connectedSpeech": "'Sense of team' often blends, with 'of' reducing to /əv/ and linking to 'team' /sɛnsəvtiːm/. 'Could mitigate some' sees the 'd' in 'could' often reduced or softened before 'mitigate', and 'some' reducing to /səm/ /kʊd mɪtɪɡeɪt səm/.",
+    "listenText": "From my perspective, one of the primary hurdles in our current hybrid setup is ensuring equitable access to information and fostering a consistent sense of team cohesion, particularly for those working remotely. Perhaps implementing a dedicated 'virtual water cooler' channel or establishing clearer guidelines for synchronous vs. asynchronous communication could mitigate some of these issues.",
+    "title_cn": "应对混合工作模式的挑战",
+    "category_cn": "职场沟通",
+    "scenario_cn": "在一次团队会议中，您的经理征求关于如何改进混合工作模式下的协作和生产力的意见。您需要阐明挑战和潜在解决方案。",
+    "textbookCritique_cn": "这个陈述过于简单和指责，缺乏具体细节或建设性解决方案。它没有使用适合高级别职场讨论的专业语言，也没有提供可操作的见解。",
+    "natural_cn": "“在我看来，我们当前混合工作模式的主要障碍之一是确保信息获取的公平性，并培养一致的团队凝聚力，尤其是对于远程工作的同事。或许可以考虑设立一个专门的‘虚拟茶水间’频道，或者为同步与异步沟通建立更明确的指导方针，这可能会缓解其中一些问题。”",
+    "chunks_cn": [
+      {
+        "en": "primary hurdles",
+        "cn": "主要障碍"
+      },
+      {
+        "en": "equitable access to information",
+        "cn": "信息获取的公平性"
+      },
+      {
+        "en": "fostering a consistent sense of team cohesion",
+        "cn": "培养一致的团队凝聚力"
+      },
+      {
+        "en": "particularly for those working remotely",
+        "cn": "尤其是对于远程工作的同事"
+      },
+      {
+        "en": "implementing a dedicated 'virtual water cooler' channel",
+        "cn": "设立一个专门的‘虚拟茶水间’频道"
+      },
+      {
+        "en": "establishing clearer guidelines",
+        "cn": "建立更明确的指导方针"
+      },
+      {
+        "en": "synchronous vs. asynchronous communication",
+        "cn": "同步与异步沟通"
+      },
+      {
+        "en": "could mitigate some of these issues",
+        "cn": "可能会缓解其中一些问题"
+      }
+    ],
+    "connectedSpeech_cn": "'Sense of team' 中的 'of' 常常弱读为 /əv/ 并与 'team' 连接 /sɛnsəvtiːm/。'Could mitigate some' 中的 'could' 结尾的 'd' 在 'mitigate' 前常被弱化或软化，而 'some' 弱读为 /səm/ /kʊd mɪtɪɡeɪt səm/。"
+  },
+  {
+    "id": "p59",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "The Impact of Artificial Intelligence on Future Employment",
+    "level": "Advanced",
+    "scenario": "In an academic speaking test (e.g., IELTS Part 3 or TOEFL Independent Task), you are asked to discuss the potential positive and negative impacts of artificial intelligence on the job market and future employment opportunities.",
+    "textbook": "AI will change jobs. Some jobs will go, some new jobs will come. We must prepare for this.",
+    "textbookCritique": "This is a very simplistic and generic response. It lacks depth, academic vocabulary, and fails to elaborate on *how* AI will change jobs, *which* jobs might be affected, or *how* to prepare effectively. It doesn't demonstrate critical analysis.",
+    "natural": "Artificial intelligence is undoubtedly poised to profoundly reshape the global employment landscape. On the one hand, it's expected to automate repetitive tasks, potentially leading to job displacement in certain sectors. However, it's equally likely to spawn entirely new industries and roles, demanding a workforce with advanced digital literacy and critical thinking skills. The key will be proactive reskilling initiatives and robust educational reforms to bridge this evolving skills gap.",
+    "chunks": [
+      "undoubtedly poised to profoundly reshape",
+      "global employment landscape",
+      "automate repetitive tasks",
+      "job displacement in certain sectors",
+      "spawn entirely new industries and roles",
+      "demanding a workforce with advanced digital literacy",
+      "critical thinking skills",
+      "proactive reskilling initiatives",
+      "robust educational reforms",
+      "bridge this evolving skills gap"
+    ],
+    "connectedSpeech": "'Poised to profoundly' often has the 'd' of 'poised' linking to 'to' /pɔɪzd tə prəˈfaʊndli/. 'Expected to automate' often reduces 'to' to /tə/ /ɪkˈspɛktɪd tə ˈɔːtəmeɪt/. 'Skills gap' can have a slight pause or crisp pronunciation between the 's' and 'g' /skɪlz ɡæp/.",
+    "listenText": "Artificial intelligence is undoubtedly poised to profoundly reshape the global employment landscape. On the one hand, it's expected to automate repetitive tasks, potentially leading to job displacement in certain sectors. However, it's equally likely to spawn entirely new industries and roles, demanding a workforce with advanced digital literacy and critical thinking skills. The key will be proactive reskilling initiatives and robust educational reforms to bridge this evolving skills gap.",
+    "title_cn": "人工智能对未来就业的影响",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "在一次学术口语考试中（例如雅思第三部分或托福独立任务），您被要求讨论人工智能对就业市场和未来就业机会的潜在积极和消极影响。",
+    "textbookCritique_cn": "这是一个非常简单和笼统的回答。它缺乏深度、学术词汇，并且未能详细阐述人工智能将如何改变工作、哪些工作可能受到影响，以及如何有效地进行准备。它没有展示批判性分析。",
+    "natural_cn": "“人工智能无疑将深刻地重塑全球就业格局。一方面，它有望实现重复性任务的自动化，可能导致某些行业的岗位流失。然而，它同样有可能催生全新的行业和角色，需要具备高级数字素养和批判性思维技能的劳动力。关键在于积极的再培训计划和强有力的教育改革，以弥合这种不断变化的技能鸿沟。”",
+    "chunks_cn": [
+      {
+        "en": "undoubtedly poised to profoundly reshape",
+        "cn": "无疑将深刻地重塑"
+      },
+      {
+        "en": "global employment landscape",
+        "cn": "全球就业格局"
+      },
+      {
+        "en": "automate repetitive tasks",
+        "cn": "实现重复性任务的自动化"
+      },
+      {
+        "en": "job displacement in certain sectors",
+        "cn": "某些行业的岗位流失"
+      },
+      {
+        "en": "spawn entirely new industries and roles",
+        "cn": "催生全新的行业和角色"
+      },
+      {
+        "en": "demanding a workforce with advanced digital literacy",
+        "cn": "需要具备高级数字素养的劳动力"
+      },
+      {
+        "en": "critical thinking skills",
+        "cn": "批判性思维技能"
+      },
+      {
+        "en": "proactive reskilling initiatives",
+        "cn": "积极的再培训计划"
+      },
+      {
+        "en": "robust educational reforms",
+        "cn": "强有力的教育改革"
+      },
+      {
+        "en": "bridge this evolving skills gap",
+        "cn": "弥合这种不断变化的技能鸿沟"
+      }
+    ],
+    "connectedSpeech_cn": "'Poised to profoundly' 中的 'poised' 结尾的 'd' 常常与 'to' 连接 /pɔɪzd tə prəˈfaʊndli/。'Expected to automate' 中的 'to' 常常弱读为 /tə/ /ɪkˈspɛktɪd tə ˈɔːtəmeɪt/。'Skills gap' 在 's' 和 'g' 之间可能会有轻微停顿或清晰的发音 /skɪlz ɡæp/。"
   }
 ]
