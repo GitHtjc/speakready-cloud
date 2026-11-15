@@ -2481,5 +2481,266 @@
       }
     ],
     "connectedSpeech_cn": "'Poised to profoundly' 中的 'poised' 结尾的 'd' 常常与 'to' 连接 /pɔɪzd tə prəˈfaʊndli/。'Expected to automate' 中的 'to' 常常弱读为 /tə/ /ɪkˈspɛktɪd tə ˈɔːtəmeɪt/。'Skills gap' 在 's' 和 'g' 之间可能会有轻微停顿或清晰的发音 /skɪlz ɡæp/。"
+  },
+  {
+    "id": "p60",
+    "category": "Workplace Communication",
+    "title": "Navigating Challenges in Hybrid Work Models",
+    "level": "Advanced",
+    "scenario": "You are in a team meeting discussing how to improve communication and collaboration in your company's hybrid work setup. You need to articulate common challenges and propose effective solutions.",
+    "textbook": "Hybrid work has problems. We need to talk more. Use video calls.",
+    "textbookCritique": "This response is too basic. It identifies problems vaguely and offers very general solutions without elaborating on *why* these solutions are effective or *how* to implement them. It lacks professional vocabulary and specific examples.",
+    "natural": "Navigating the complexities of a hybrid work model certainly presents its unique set of challenges, particularly around maintaining team cohesion and ensuring equitable access to information. One significant hurdle is preventing a two-tier system where remote employees might feel disengaged. To counteract this, fostering intentional communication channels, like dedicated virtual coffee breaks or leveraging collaborative platforms effectively, becomes paramount. We also need to standardize meeting protocols to ensure everyone, regardless of location, can contribute meaningfully.",
+    "chunks": [
+      "Navigating the complexities",
+      "hybrid work model",
+      "unique set of challenges",
+      "maintaining team cohesion",
+      "equitable access to information",
+      "significant hurdle",
+      "preventing a two-tier system",
+      "feel disengaged",
+      "counteract this",
+      "fostering intentional communication channels",
+      "dedicated virtual coffee breaks",
+      "leveraging collaborative platforms effectively",
+      "becomes paramount",
+      "standardize meeting protocols",
+      "contribute meaningfully"
+    ],
+    "connectedSpeech": "'Unique set of' often flows together /juːˈniːk sɛt əv/. 'Preventing a' can have the 'g' sound link to 'a' /prɪˈvɛntɪŋ ə/. 'Becomes paramount' is often pronounced with a clear 's' to 'p' transition /bɪˈkʌmz ˈpærəmaʊnt/.",
+    "listenText": "Navigating the complexities of a hybrid work model certainly presents its unique set of challenges, particularly around maintaining team cohesion and ensuring equitable access to information. One significant hurdle is preventing a two-tier system where remote employees might feel disengaged. To counteract this, fostering intentional communication channels, like dedicated virtual coffee breaks or leveraging collaborative platforms effectively, becomes paramount. We also need to standardize meeting protocols to ensure everyone, regardless of location, can contribute meaningfully.",
+    "title_cn": "应对混合工作模式中的挑战",
+    "category_cn": "职场沟通",
+    "scenario_cn": "您正在参加一个团队会议，讨论如何改进公司混合工作设置中的沟通与协作。您需要阐明常见的挑战并提出有效的解决方案。",
+    "textbookCritique_cn": "这个回答过于简单。它模糊地指出问题，并提供非常笼统的解决方案，没有详细说明这些解决方案为何有效或如何实施。它缺乏专业的词汇和具体的例子。",
+    "natural_cn": "驾驭混合工作模式的复杂性无疑带来了其独特的一系列挑战，尤其是在保持团队凝聚力和确保信息获取公平性方面。一个重要的障碍是防止出现远程员工可能感到脱节的两级系统。为了克服这一点，培养有意的沟通渠道，例如专门的虚拟咖啡休息时间或有效利用协作平台，变得至关重要。我们还需要标准化会议协议，以确保每个人，无论身处何地，都能有意义地做出贡献。",
+    "chunks_cn": [
+      {
+        "en": "Navigating the complexities",
+        "cn": "驾驭复杂性"
+      },
+      {
+        "en": "hybrid work model",
+        "cn": "混合工作模式"
+      },
+      {
+        "en": "unique set of challenges",
+        "cn": "独特的一系列挑战"
+      },
+      {
+        "en": "maintaining team cohesion",
+        "cn": "保持团队凝聚力"
+      },
+      {
+        "en": "equitable access to information",
+        "cn": "信息获取公平性"
+      },
+      {
+        "en": "significant hurdle",
+        "cn": "重要的障碍"
+      },
+      {
+        "en": "preventing a two-tier system",
+        "cn": "防止出现两级系统"
+      },
+      {
+        "en": "feel disengaged",
+        "cn": "感到脱节"
+      },
+      {
+        "en": "counteract this",
+        "cn": "克服这一点"
+      },
+      {
+        "en": "fostering intentional communication channels",
+        "cn": "培养有意的沟通渠道"
+      },
+      {
+        "en": "dedicated virtual coffee breaks",
+        "cn": "专门的虚拟咖啡休息时间"
+      },
+      {
+        "en": "leveraging collaborative platforms effectively",
+        "cn": "有效利用协作平台"
+      },
+      {
+        "en": "becomes paramount",
+        "cn": "变得至关重要"
+      },
+      {
+        "en": "standardize meeting protocols",
+        "cn": "标准化会议协议"
+      },
+      {
+        "en": "contribute meaningfully",
+        "cn": "有意义地做出贡献"
+      }
+    ],
+    "connectedSpeech_cn": "'Unique set of' 通常连读 /juːˈniːk sɛt əv/。'Preventing a' 中的 'g' 音可以与 'a' 连接 /prɪˈvɛntɪŋ ə/。'Becomes paramount' 通常在 's' 和 'p' 之间有清晰的过渡 /bɪˈkʌmz ˈpærəmaʊnt/。"
+  },
+  {
+    "id": "p61",
+    "category": "Everyday Small Talk",
+    "title": "Chatting About Trending Entertainment & Social Media",
+    "level": "Intermediate",
+    "scenario": "You're at a casual gathering or a coffee break with a new acquaintance. They ask if you've seen any good movies or heard about popular online trends lately.",
+    "textbook": "Yes, I watched a movie. It was good. People use social media a lot.",
+    "textbookCritique": "This response is extremely brief and uninviting for further conversation. It lacks specific details, personal opinion, and enthusiasm. It doesn't use any natural small talk connectors or expressions.",
+    "natural": "Oh, definitely! I just finished 'The Last Shadow' on StreamFlix, and it was surprisingly gripping – totally unexpected plot twists. Have you had a chance to check it out? Also, speaking of trends, I've noticed everyone's really into those short-form AI art videos lately. They're pretty mesmerizing, actually. It's wild how fast new things pop up online, isn't it?",
+    "chunks": [
+      "surprisingly gripping",
+      "totally unexpected plot twists",
+      "had a chance to check it out",
+      "speaking of trends",
+      "really into",
+      "short-form AI art videos",
+      "pretty mesmerizing",
+      "wild how fast new things pop up online"
+    ],
+    "connectedSpeech": "'Just finished' often has the 't' blend with 'f' /dʒʌs ˈfɪnɪʃt/. 'Had a chance to' often reduces 'had a' to /hædə/ and 'to' to /tə/ /hædə tʃæns tə/. 'Pop up' has a clear linking /pɒp ʌp/.",
+    "listenText": "Oh, definitely! I just finished 'The Last Shadow' on StreamFlix, and it was surprisingly gripping – totally unexpected plot twists. Have you had a chance to check it out? Also, speaking of trends, I've noticed everyone's really into those short-form AI art videos lately. They're pretty mesmerizing, actually. It's wild how fast new things pop up online, isn't it?",
+    "title_cn": "聊聊热门娱乐和社交媒体",
+    "category_cn": "日常闲聊",
+    "scenario_cn": "您在一次休闲聚会或咖啡休息时遇到一位新认识的人。他们问您最近有没有看什么好看的电影或听说什么热门的在线趋势。",
+    "textbookCritique_cn": "这个回答非常简短，不利于进一步的对话。它缺乏具体的细节、个人观点和热情。它没有使用任何自然的闲聊连接词或表达。",
+    "natural_cn": "哦，当然！我刚在StreamFlix上看完了《最后的阴影》，出乎意料地引人入胜——剧情反转完全没想到。你有机会看一看吗？另外，说到趋势，我注意到大家最近都非常喜欢那些短格式的AI艺术视频。它们实际上相当迷人。网上新事物出现的速度真是太快了，不是吗？",
+    "chunks_cn": [
+      {
+        "en": "surprisingly gripping",
+        "cn": "出乎意料地引人入胜"
+      },
+      {
+        "en": "totally unexpected plot twists",
+        "cn": "完全没想到的剧情反转"
+      },
+      {
+        "en": "had a chance to check it out",
+        "cn": "有机会看一看"
+      },
+      {
+        "en": "speaking of trends",
+        "cn": "说到趋势"
+      },
+      {
+        "en": "really into",
+        "cn": "非常喜欢"
+      },
+      {
+        "en": "short-form AI art videos",
+        "cn": "短格式的AI艺术视频"
+      },
+      {
+        "en": "pretty mesmerizing",
+        "cn": "相当迷人"
+      },
+      {
+        "en": "wild how fast new things pop up online",
+        "cn": "网上新事物出现的速度真是太快了"
+      }
+    ],
+    "connectedSpeech_cn": "'Just finished' 中的 't' 通常与 'f' 混合发音 /dʒʌs ˈfɪnɪʃt/。'Had a chance to' 中的 'had a' 通常弱读为 /hædə/，'to' 弱读为 /tə/ /hædə tʃæns tə/。'Pop up' 有清晰的连读 /pɒp ʌp/。"
+  },
+  {
+    "id": "p62",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "The Evolving Role of Technology in Modern Education",
+    "level": "Advanced",
+    "scenario": "In an academic speaking test (e.g., IELTS Part 3), you are asked to discuss how technology has transformed education and what its potential future impacts might be, considering both benefits and drawbacks.",
+    "textbook": "Technology helps students learn. They use computers. It makes education better but sometimes distracting.",
+    "textbookCritique": "This answer is superficial. It touches on points but lacks elaboration, academic vocabulary, and a balanced discussion of complex issues. It doesn't offer examples or demonstrate critical thinking about the nuances of technology's role.",
+    "natural": "Technology has undeniably revolutionized the educational landscape, shifting from traditional chalkboards to interactive smartboards and extensive online resources. Its primary benefit lies in democratizing access to information and fostering personalized learning experiences, allowing students to learn at their own pace and explore subjects in greater depth. However, we must also acknowledge potential drawbacks, such as the digital divide, where not all students have equal access, and the risk of over-reliance leading to decreased critical thinking skills if not managed properly. The future will likely see even more immersive and AI-driven tools, necessitating a focus on digital literacy and ethical considerations.",
+    "chunks": [
+      "undeniably revolutionized the educational landscape",
+      "shifting from traditional chalkboards to interactive smartboards",
+      "extensive online resources",
+      "democratizing access to information",
+      "fostering personalized learning experiences",
+      "learn at their own pace",
+      "explore subjects in greater depth",
+      "potential drawbacks",
+      "digital divide",
+      "equal access",
+      "risk of over-reliance",
+      "decreased critical thinking skills",
+      "managed properly",
+      "immersive and AI-driven tools",
+      "necessitating a focus on digital literacy",
+      "ethical considerations"
+    ],
+    "connectedSpeech": "'Revolutionized the' often blends /rɛvəˈluːʃənaɪzd ðə/. 'Access to information' often links the 's' of 'access' to 'to' and 'to' to 'information' /ækˌsɛs tə ɪnfərˈmeɪʃən/. 'Risk of over-reliance' links 'k' of 'risk' to 'of' and 'f' to 'over' /rɪsk əv ˈoʊvərɪˈlaɪəns/.",
+    "listenText": "Technology has undeniably revolutionized the educational landscape, shifting from traditional chalkboards to interactive smartboards and extensive online resources. Its primary benefit lies in democratizing access to information and fostering personalized learning experiences, allowing students to learn at their own pace and explore subjects in greater depth. However, we must also acknowledge potential drawbacks, such as the digital divide, where not all students have equal access, and the risk of over-reliance leading to decreased critical thinking skills if not managed properly. The future will likely see even more immersive and AI-driven tools, necessitating a focus on digital literacy and ethical considerations.",
+    "title_cn": "科技在现代教育中不断演变的角色",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "在一次学术口语考试中（例如雅思第三部分），您被要求讨论科技如何改变了教育，以及它未来可能产生的潜在影响，同时考虑优点和缺点。",
+    "textbookCritique_cn": "这个回答过于肤浅。它触及了要点，但缺乏详细阐述、学术词汇以及对复杂问题的平衡讨论。它没有提供例子，也没有展示对科技作用细微之处的批判性思维。",
+    "natural_cn": "科技无疑已经彻底改变了教育格局，从传统的黑板转向互动式智能白板和广泛的在线资源。其主要优势在于使信息获取民主化，并培养个性化的学习体验，让学生能够按照自己的节奏学习并更深入地探索学科。然而，我们也必须承认潜在的缺点，例如数字鸿沟，并非所有学生都能获得平等的资源，以及如果管理不当，过度依赖可能导致批判性思维能力下降的风险。未来可能会出现更多沉浸式和人工智能驱动的工具，因此需要关注数字素养和伦理考量。",
+    "chunks_cn": [
+      {
+        "en": "undeniably revolutionized the educational landscape",
+        "cn": "无疑已经彻底改变了教育格局"
+      },
+      {
+        "en": "shifting from traditional chalkboards to interactive smartboards",
+        "cn": "从传统的黑板转向互动式智能白板"
+      },
+      {
+        "en": "extensive online resources",
+        "cn": "广泛的在线资源"
+      },
+      {
+        "en": "democratizing access to information",
+        "cn": "使信息获取民主化"
+      },
+      {
+        "en": "fostering personalized learning experiences",
+        "cn": "培养个性化的学习体验"
+      },
+      {
+        "en": "learn at their own pace",
+        "cn": "按照自己的节奏学习"
+      },
+      {
+        "en": "explore subjects in greater depth",
+        "cn": "更深入地探索学科"
+      },
+      {
+        "en": "potential drawbacks",
+        "cn": "潜在的缺点"
+      },
+      {
+        "en": "digital divide",
+        "cn": "数字鸿沟"
+      },
+      {
+        "en": "equal access",
+        "cn": "平等的资源"
+      },
+      {
+        "en": "risk of over-reliance",
+        "cn": "过度依赖的风险"
+      },
+      {
+        "en": "decreased critical thinking skills",
+        "cn": "批判性思维能力下降"
+      },
+      {
+        "en": "managed properly",
+        "cn": "管理得当"
+      },
+      {
+        "en": "immersive and AI-driven tools",
+        "cn": "沉浸式和人工智能驱动的工具"
+      },
+      {
+        "en": "necessitating a focus on digital literacy",
+        "cn": "需要关注数字素养"
+      },
+      {
+        "en": "ethical considerations",
+        "cn": "伦理考量"
+      }
+    ],
+    "connectedSpeech_cn": "'Revolutionized the' 通常连读 /rɛvəˈluːʃənaɪzd ðə/。'Access to information' 中的 'access' 的 's' 通常与 'to' 连接，'to' 与 'information' 连接 /ækˌsɛs tə ɪnfərˈmeɪʃən/。'Risk of over-reliance' 中的 'risk' 的 'k' 与 'of' 连接，'of' 的 'f' 与 'over' 连接 /rɪsk əv ˈoʊvərɪˈlaɪəns/。"
   }
 ]
