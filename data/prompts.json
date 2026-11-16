@@ -2742,5 +2742,261 @@
       }
     ],
     "connectedSpeech_cn": "'Revolutionized the' 通常连读 /rɛvəˈluːʃənaɪzd ðə/。'Access to information' 中的 'access' 的 's' 通常与 'to' 连接，'to' 与 'information' 连接 /ækˌsɛs tə ɪnfərˈmeɪʃən/。'Risk of over-reliance' 中的 'risk' 的 'k' 与 'of' 连接，'of' 的 'f' 与 'over' 连接 /rɪsk əv ˈoʊvərɪˈlaɪəns/。"
+  },
+  {
+    "id": "p63",
+    "category": "Remote Job Interview",
+    "title": "Demonstrating Adaptability in Virtual Work Environments",
+    "level": "Advanced",
+    "scenario": "During a remote job interview, the interviewer asks how you've successfully navigated and contributed to virtual teams, specifically regarding communication and collaboration tools.",
+    "textbook": "I use Zoom and Slack. I am good at teamwork. I send emails and join meetings online.",
+    "textbookCritique": "This response is too basic. It lists tools but doesn't explain *how* they were used effectively, nor does it demonstrate an understanding of the nuances of virtual collaboration or problem-solving. It lacks specifics and strategic thinking, failing to impress an interviewer seeking advanced skills.",
+    "natural": "Having worked remotely for some time, I've become particularly adept at leveraging various digital collaboration tools to maintain high levels of team synergy and productivity. For instance, I frequently utilize asynchronous communication channels like Slack for quick updates and documentation, ensuring everyone stays informed regardless of time zones. For more complex discussions, I find video conferencing essential for fostering real-time engagement and reading non-verbal cues. I also actively contribute to shared documents on platforms like Google Workspace, prioritizing clear, concise updates and timely feedback. My approach emphasizes proactive communication, setting clear expectations, and being adaptable to different team members' preferred communication styles.",
+    "chunks": [
+      "particularly adept at leveraging various digital collaboration tools",
+      "maintain high levels of team synergy and productivity",
+      "asynchronous communication channels",
+      "ensuring everyone stays informed regardless of time zones",
+      "video conferencing essential for fostering real-time engagement",
+      "reading non-verbal cues",
+      "actively contribute to shared documents",
+      "prioritizing clear, concise updates and timely feedback",
+      "proactive communication",
+      "setting clear expectations",
+      "adaptable to different team members' preferred communication styles"
+    ],
+    "connectedSpeech": "'Adept at leveraging' often links the final 't' to 'at' and 'at' to 'leveraging' /əˈdɛpt ət ˈlɛvərɪdʒɪŋ/. 'High levels of' connects /haɪ ˈlɛvəlz əv/. 'Ensuring everyone' links the 'g' to 'everyone' /ɪnˈʃʊrɪŋ ˈɛvriwʌn/. 'Preferred communication styles' links 'd' to 'communication' /prɪˈfɜːrd kəˌmjuːnɪˈkeɪʃən ˈstaɪlz/.",
+    "listenText": "Having worked remotely for some time, I've become particularly adept at leveraging various digital collaboration tools to maintain high levels of team synergy and productivity. For instance, I frequently utilize asynchronous communication channels like Slack for quick updates and documentation, ensuring everyone stays informed regardless of time zones. For more complex discussions, I find video conferencing essential for fostering real-time engagement and reading non-verbal cues. I also actively contribute to shared documents on platforms like Google Workspace, prioritizing clear, concise updates and timely feedback. My approach emphasizes proactive communication, setting clear expectations, and being adaptable to different team members' preferred communication styles.",
+    "title_cn": "展示在虚拟工作环境中的适应能力",
+    "category_cn": "远程职位面试",
+    "scenario_cn": "在一次远程工作面试中，面试官询问您如何成功驾驭并为虚拟团队做出贡献，特别是关于沟通和协作工具方面。",
+    "textbookCritique_cn": "这个回答过于基础。它列举了工具，但没有解释如何有效地使用它们，也没有展示对虚拟协作或解决问题细微之处的理解。它缺乏具体性和战略性思维，无法给寻求高级技能的面试官留下深刻印象。",
+    "natural_cn": "在远程工作了一段时间后，我变得特别擅长利用各种数字化协作工具来维持团队的高度协同和生产力。例如，我经常使用像Slack这样的异步通信渠道进行快速更新和文档记录，确保每个人无论时区如何都能及时了解情况。对于更复杂的讨论，我发现视频会议对于促进实时互动和解读非语言线索至关重要。我也积极在Google Workspace等平台上为共享文档做出贡献，优先提供清晰、简洁的更新和及时的反馈。我的方法强调主动沟通、设定清晰的期望，并适应不同团队成员偏好的沟通方式。",
+    "chunks_cn": [
+      {
+        "en": "particularly adept at leveraging various digital collaboration tools",
+        "cn": "特别擅长利用各种数字化协作工具"
+      },
+      {
+        "en": "maintain high levels of team synergy and productivity",
+        "cn": "维持团队的高度协同和生产力"
+      },
+      {
+        "en": "asynchronous communication channels",
+        "cn": "异步通信渠道"
+      },
+      {
+        "en": "ensuring everyone stays informed regardless of time zones",
+        "cn": "确保每个人无论时区如何都能及时了解情况"
+      },
+      {
+        "en": "video conferencing essential for fostering real-time engagement",
+        "cn": "视频会议对于促进实时互动至关重要"
+      },
+      {
+        "en": "reading non-verbal cues",
+        "cn": "解读非语言线索"
+      },
+      {
+        "en": "actively contribute to shared documents",
+        "cn": "积极为共享文档做出贡献"
+      },
+      {
+        "en": "prioritizing clear, concise updates and timely feedback",
+        "cn": "优先提供清晰、简洁的更新和及时的反馈"
+      },
+      {
+        "en": "proactive communication",
+        "cn": "主动沟通"
+      },
+      {
+        "en": "setting clear expectations",
+        "cn": "设定清晰的期望"
+      },
+      {
+        "en": "adaptable to different team members' preferred communication styles",
+        "cn": "适应不同团队成员偏好的沟通方式"
+      }
+    ],
+    "connectedSpeech_cn": "'Adept at leveraging' 通常将 'adept' 结尾的 't' 与 'at' 连读，'at' 与 'leveraging' 连读 /əˈdɛpt ət ˈlɛvərɪdʒɪŋ/。'High levels of' 连读 /haɪ ˈlɛvəlz əv/。'Ensuring everyone' 将 'g' 与 'everyone' 连读 /ɪnˈʃʊrɪŋ ˈɛvriwʌn/。'Preferred communication styles' 将 'd' 与 'communication' 连读 /prɪˈfɜːrd kəˌmjuːnɪˈkeɪʃən ˈstaɪlz/。"
+  },
+  {
+    "id": "p64",
+    "category": "Workplace Communication",
+    "title": "Articulating Professional Boundaries in the Hybrid Workplace",
+    "level": "Intermediate",
+    "scenario": "Your manager has asked you to contribute to a new company guideline on maintaining healthy professional boundaries, especially with the blend of in-office and remote work. You need to explain how to politely but firmly communicate availability and work-life balance expectations.",
+    "textbook": "I will tell colleagues my working hours. I will not answer emails at night. It is important to rest.",
+    "textbookCritique": "While direct, this response lacks the nuance and professionalism required for a workplace guideline. It doesn't offer diplomatic phrasing, consider different scenarios, or explain *why* these boundaries are important for overall productivity and well-being. It's too blunt for a formal communication.",
+    "natural": "Establishing clear professional boundaries is crucial for maintaining productivity and well-being in a hybrid environment. For instance, I'd suggest communicating your core working hours transparently, perhaps in your email signature or team chat status, to manage expectations about immediate responses. If you need to step away or won't be checking emails after hours, a simple, 'I'll get back to you first thing tomorrow morning' or 'I'm focusing on deep work now, will respond after 3 PM' can be very effective. It's about being proactive and polite, rather than reactive and apologetic. This also means respectfully declining meetings outside core hours when possible, explaining that you need to prioritize tasks or ensure personal time for rejuvenation. The goal is to avoid burnout while ensuring responsiveness within reasonable limits.",
+    "chunks": [
+      "Establishing clear professional boundaries",
+      "crucial for maintaining productivity and well-being",
+      "hybrid environment",
+      "communicating your core working hours transparently",
+      "manage expectations about immediate responses",
+      "I'll get back to you first thing tomorrow morning",
+      "I'm focusing on deep work now",
+      "proactive and polite",
+      "respectfully declining meetings outside core hours",
+      "prioritize tasks or ensure personal time for rejuvenation",
+      "avoid burnout",
+      "ensuring responsiveness within reasonable limits"
+    ],
+    "connectedSpeech": "'Crucial for maintaining' blends 'l' of 'crucial' with 'for' and 'for' with 'maintaining' /'kruːʃəl fər meɪnˈteɪnɪŋ/. 'Manage expectations' links 'ge' of 'manage' with 'expectations' /'mænɪdʒ ɪkˌspɛkˈteɪʃənz/. 'About immediate' links 't' to 'immediate' /əˌbaʊt ɪˈmiːdiət/. 'Avoid burnout' links 'd' to 'burnout' /əˈvɔɪd ˈbɜːrnaʊt/.",
+    "listenText": "Establishing clear professional boundaries is crucial for maintaining productivity and well-being in a hybrid environment. For instance, I'd suggest communicating your core working hours transparently, perhaps in your email signature or team chat status, to manage expectations about immediate responses. If you need to step away or won't be checking emails after hours, a simple, 'I'll get back to you first thing tomorrow morning' or 'I'm focusing on deep work now, will respond after 3 PM' can be very effective. It's about being proactive and polite, rather than reactive and apologetic. This also means respectfully declining meetings outside core hours when possible, explaining that you need to prioritize tasks or ensure personal time for rejuvenation. The goal is to avoid burnout while ensuring responsiveness within reasonable limits.",
+    "title_cn": "在混合工作场所中明确职业界限",
+    "category_cn": "职场沟通",
+    "scenario_cn": "您的经理要求您为新的公司指南贡献内容，该指南涉及如何在办公室和远程工作的混合模式中维护健康的职业界限。您需要解释如何礼貌但坚定地传达可用性和工作与生活平衡的期望。",
+    "textbookCritique_cn": "虽然直接，但这个回答缺乏职场指南所需的细微差别和专业性。它没有提供委婉的措辞，也没有考虑不同的情景，更没有解释为什么这些界限对于整体生产力和幸福感很重要。对于正式沟通来说，它过于生硬。",
+    "natural_cn": "在混合环境中建立清晰的职业界限对于维护生产力和幸福感至关重要。例如，我建议透明地传达您的核心工作时间，或许可以在您的电子邮件签名或团队聊天状态中表明，以管理对即时回复的期望。如果您需要暂时离开或下班后不会查收电子邮件，一个简单的说法，如“我明天一早会回复您”或“我现在正专注于深度工作，下午3点后会回复”，会非常有效。这关乎主动和礼貌，而不是被动和道歉。这也意味着在可能的情况下，礼貌地拒绝核心工作时间以外的会议，解释您需要优先处理任务或确保个人时间进行休整。目标是在确保合理范围内响应的同时避免过度劳累。",
+    "chunks_cn": [
+      {
+        "en": "Establishing clear professional boundaries",
+        "cn": "建立清晰的职业界限"
+      },
+      {
+        "en": "crucial for maintaining productivity and well-being",
+        "cn": "对于维护生产力和幸福感至关重要"
+      },
+      {
+        "en": "hybrid environment",
+        "cn": "混合环境"
+      },
+      {
+        "en": "communicating your core working hours transparently",
+        "cn": "透明地传达您的核心工作时间"
+      },
+      {
+        "en": "manage expectations about immediate responses",
+        "cn": "管理对即时回复的期望"
+      },
+      {
+        "en": "I'll get back to you first thing tomorrow morning",
+        "cn": "我明天一早会回复您"
+      },
+      {
+        "en": "I'm focusing on deep work now",
+        "cn": "我现在正专注于深度工作"
+      },
+      {
+        "en": "proactive and polite",
+        "cn": "主动和礼貌"
+      },
+      {
+        "en": "respectfully declining meetings outside core hours",
+        "cn": "礼貌地拒绝核心工作时间以外的会议"
+      },
+      {
+        "en": "prioritize tasks or ensure personal time for rejuvenation",
+        "cn": "优先处理任务或确保个人时间进行休整"
+      },
+      {
+        "en": "avoid burnout",
+        "cn": "避免过度劳累"
+      },
+      {
+        "en": "ensuring responsiveness within reasonable limits",
+        "cn": "确保在合理范围内响应"
+      }
+    ],
+    "connectedSpeech_cn": "'Crucial for maintaining' 通常将 'crucial' 的 'l' 与 'for' 连接，'for' 与 'maintaining' 连接 /'kruːʃəl fər meɪnˈteɪnɪŋ/。'Manage expectations' 将 'manage' 的 'ge' 与 'expectations' 连接 /'mænɪdʒ ɪkˌspɛkˈteɪʃənz/。'About immediate' 将 't' 与 'immediate' 连接 /əˌbaʊt ɪˈmiːdiət/。'Avoid burnout' 将 'd' 与 'burnout' 连接 /əˈvɔɪd ˈbɜːrnaʊt/。"
+  },
+  {
+    "id": "p65",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "The Ethical Implications of AI in Decision-Making",
+    "level": "Advanced",
+    "scenario": "In an academic speaking test (e.g., IELTS Part 3 or TOEFL Independent Task), you are asked to discuss the ethical considerations surrounding the increasing use of Artificial Intelligence in areas like hiring, lending, or healthcare diagnostics.",
+    "textbook": "AI is used more. It helps to make decisions. But sometimes it is not fair. We need to be careful with it.",
+    "textbookCritique": "This answer is extremely simplistic and superficial. it lacks specific examples, academic vocabulary, critical analysis of the 'why' and 'how' of ethical issues, and a balanced discussion of complexity. It demonstrates minimal understanding of the topic's depth required for an advanced academic test.",
+    "natural": "The pervasive integration of Artificial Intelligence into critical decision-making processes, from hiring algorithms to medical diagnostics, presents a complex array of ethical dilemmas. A primary concern revolves around bias; if the training data reflects societal prejudices, AI systems can inadvertently perpetuate or even amplify discrimination in areas like loan approvals or criminal justice. Transparency is another major issue: understanding 'why' an AI made a particular decision, especially in black-box models, is crucial for accountability and trust. Furthermore, questions of responsibility arise when AI makes errors, impacting human lives. Addressing these requires robust regulatory frameworks, diverse and representative datasets, and a focus on explainable AI, ensuring human oversight remains paramount.",
+    "chunks": [
+      "pervasive integration of Artificial Intelligence",
+      "critical decision-making processes",
+      "complex array of ethical dilemmas",
+      "primary concern revolves around bias",
+      "training data reflects societal prejudices",
+      "inadvertently perpetuate or even amplify discrimination",
+      "transparency is another major issue",
+      "black-box models",
+      "crucial for accountability and trust",
+      "questions of responsibility arise",
+      "impacting human lives",
+      "robust regulatory frameworks",
+      "diverse and representative datasets",
+      "focus on explainable AI",
+      "human oversight remains paramount"
+    ],
+    "connectedSpeech": "'Pervasive integration of' often blends /pərˈveɪsɪv ˌɪntɪˈɡreɪʃən əv/. 'Array of ethical' links 'y' to 'of' and 'f' to 'ethical' /əˈreɪ əv ˈɛθɪkəl/. 'Training data reflects' links 'g' to 'data' and 's' to 'reflects' /'treɪnɪŋ ˈdeɪtə rɪˈflɛkts/. 'Human oversight remains' links 'n' to 'oversight' and 's' to 'remains' /'hjuːmən ˈoʊvərˌsaɪt rɪˈmeɪnz/.",
+    "listenText": "The pervasive integration of Artificial Intelligence into critical decision-making processes, from hiring algorithms to medical diagnostics, presents a complex array of ethical dilemmas. A primary concern revolves around bias; if the training data reflects societal prejudices, AI systems can inadvertently perpetuate or even amplify discrimination in areas like loan approvals or criminal justice. Transparency is another major issue: understanding 'why' an AI made a particular decision, especially in black-box models, is crucial for accountability and trust. Furthermore, questions of responsibility arise when AI makes errors, impacting human lives. Addressing these requires robust regulatory frameworks, diverse and representative datasets, and a focus on explainable AI, ensuring human oversight remains paramount.",
+    "title_cn": "人工智能在决策中的伦理影响",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "在一次学术口语考试中（例如雅思第三部分或托福独立任务），您被要求讨论人工智能在招聘、贷款或医疗诊断等领域日益增长的使用所带来的伦理考量。",
+    "textbookCritique_cn": "这个回答极其简单和肤浅。它缺乏具体的例子、学术词汇、对伦理问题“为什么”和“如何”的批判性分析，以及对复杂性的平衡讨论。它表明对高级学术考试所需的该主题深度理解不足。",
+    "natural_cn": "人工智能日益渗透到招聘算法、医疗诊断等关键决策过程中，带来了一系列复杂的伦理困境。一个主要关注点围绕着偏见；如果训练数据反映了社会偏见，人工智能系统可能会在贷款审批或刑事司法等领域无意中延续甚至加剧歧视。透明度是另一个主要问题：理解人工智能做出特定决策的“原因”，尤其是在黑箱模型中，对于问责制和信任至关重要。此外，当人工智能出现错误并影响人类生活时，也会出现责任问题。解决这些问题需要健全的监管框架、多样化和具有代表性的数据集，并关注可解释的人工智能，确保人类监督仍然是至关重要的。",
+    "chunks_cn": [
+      {
+        "en": "pervasive integration of Artificial Intelligence",
+        "cn": "人工智能的普遍整合"
+      },
+      {
+        "en": "critical decision-making processes",
+        "cn": "关键决策过程"
+      },
+      {
+        "en": "complex array of ethical dilemmas",
+        "cn": "一系列复杂的伦理困境"
+      },
+      {
+        "en": "primary concern revolves around bias",
+        "cn": "主要关注点围绕着偏见"
+      },
+      {
+        "en": "training data reflects societal prejudices",
+        "cn": "训练数据反映了社会偏见"
+      },
+      {
+        "en": "inadvertently perpetuate or even amplify discrimination",
+        "cn": "无意中延续甚至加剧歧视"
+      },
+      {
+        "en": "transparency is another major issue",
+        "cn": "透明度是另一个主要问题"
+      },
+      {
+        "en": "black-box models",
+        "cn": "黑箱模型"
+      },
+      {
+        "en": "crucial for accountability and trust",
+        "cn": "对于问责制和信任至关重要"
+      },
+      {
+        "en": "questions of responsibility arise",
+        "cn": "责任问题出现"
+      },
+      {
+        "en": "impacting human lives",
+        "cn": "影响人类生活"
+      },
+      {
+        "en": "robust regulatory frameworks",
+        "cn": "健全的监管框架"
+      },
+      {
+        "en": "diverse and representative datasets",
+        "cn": "多样化和具有代表性的数据集"
+      },
+      {
+        "en": "focus on explainable AI",
+        "cn": "关注可解释的人工智能"
+      },
+      {
+        "en": "human oversight remains paramount",
+        "cn": "人类监督仍然是至关重要的"
+      }
+    ],
+    "connectedSpeech_cn": "'Pervasive integration of' 通常连读 /pərˈveɪsɪv ˌɪntɪˈɡreɪʃən əv/。'Array of ethical' 将 'array' 的 'y' 与 'of' 连接，'of' 的 'f' 与 'ethical' 连接 /əˈreɪ əv ˈɛθɪkəl/。'Training data reflects' 将 'training' 的 'g' 与 'data' 连接，'data' 的 'a' 与 'reflects' 连接 /'treɪnɪŋ ˈdeɪtə rɪˈflɛkts/。'Human oversight remains' 将 'human' 的 'n' 与 'oversight' 连接，'oversight' 的 't' 与 'remains' 连接 /'hjuːmən ˈoʊvərˌsaɪt rɪˈmeɪnz/。"
   }
 ]
