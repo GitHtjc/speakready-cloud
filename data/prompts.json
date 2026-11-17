@@ -2998,5 +2998,226 @@
       }
     ],
     "connectedSpeech_cn": "'Pervasive integration of' 通常连读 /pərˈveɪsɪv ˌɪntɪˈɡreɪʃən əv/。'Array of ethical' 将 'array' 的 'y' 与 'of' 连接，'of' 的 'f' 与 'ethical' 连接 /əˈreɪ əv ˈɛθɪkəl/。'Training data reflects' 将 'training' 的 'g' 与 'data' 连接，'data' 的 'a' 与 'reflects' 连接 /'treɪnɪŋ ˈdeɪtə rɪˈflɛkts/。'Human oversight remains' 将 'human' 的 'n' 与 'oversight' 连接，'oversight' 的 't' 与 'remains' 连接 /'hjuːmən ˈoʊvərˌsaɪt rɪˈmeɪnz/。"
+  },
+  {
+    "id": "p66",
+    "category": "Everyday Small Talk",
+    "title": "Sharing Your Latest Adventures",
+    "level": "Intermediate",
+    "scenario": "You're catching up with a friend over coffee, and they ask you about your recent vacation or weekend trip.",
+    "textbook": "I went to the beach. It was nice. I swam. I ate good food.",
+    "textbookCritique": "This response is too short and lacks detail. It doesn't invite further conversation or provide enough descriptive language to make the experience vivid. It uses very basic sentence structures.",
+    "natural": "Oh, it was fantastic! I just got back from a week-long trip to [City/Country]. We spent most of our time exploring the old town, trying all sorts of local delicacies, and hiking along the coast. The scenery was absolutely breathtaking, and the food, especially the [Specific Dish], was out of this world. What about you? Have you been anywhere interesting lately?",
+    "chunks": [
+      "week-long trip",
+      "exploring the old town",
+      "local delicacies",
+      "hiking along the coast",
+      "scenery was absolutely breathtaking",
+      "food was out of this world",
+      "been anywhere interesting lately"
+    ],
+    "connectedSpeech": "'Week-long trip' often blends /wiːkˌlɔŋ ˈtrɪp/. 'Exploring the old' links 'g' to 'the' and 'the' to 'old' /ɪkˈsplɔːrɪŋ ðə ˈoʊld/. 'Out of this' links 't' to 'of' and 'f' to 'this' /aʊt əv ðɪs/. 'Interesting lately' links 'g' to 'lately' /'ɪntrəstɪŋ ˈleɪtli/.",
+    "listenText": "Oh, it was fantastic! I just got back from a week-long trip to [City/Country]. We spent most of our time exploring the old town, trying all sorts of local delicacies, and hiking along the coast. The scenery was absolutely breathtaking, and the food, especially the [Specific Dish], was out of this world. What about you? Have you been anywhere interesting lately?",
+    "title_cn": "分享你的最新冒险经历",
+    "category_cn": "日常闲聊",
+    "scenario_cn": "你正在和朋友喝咖啡叙旧，他们问你最近的假期或周末旅行。",
+    "textbookCritique_cn": "这个回答太短，缺乏细节。它没有引出进一步的对话，也没有提供足够的描述性语言来让经历生动起来。它使用了非常基本的句式结构。",
+    "natural_cn": "哦，太棒了！我刚从[城市/国家]度过一周的旅行回来。我们大部分时间都在探索老城区，尝试各种当地美食，并沿着海岸徒步旅行。那里的风景绝对令人叹为观止，食物，尤其是[具体菜肴]，简直是人间美味。你呢？最近有没有去过什么有趣的地方？",
+    "chunks_cn": [
+      {
+        "en": "week-long trip",
+        "cn": "为期一周的旅行"
+      },
+      {
+        "en": "exploring the old town",
+        "cn": "探索老城区"
+      },
+      {
+        "en": "local delicacies",
+        "cn": "当地美食"
+      },
+      {
+        "en": "hiking along the coast",
+        "cn": "沿着海岸徒步"
+      },
+      {
+        "en": "scenery was absolutely breathtaking",
+        "cn": "风景绝对令人叹为观止"
+      },
+      {
+        "en": "food was out of this world",
+        "cn": "食物是人间美味"
+      },
+      {
+        "en": "been anywhere interesting lately",
+        "cn": "最近有没有去过什么有趣的地方"
+      }
+    ],
+    "connectedSpeech_cn": "'Week-long trip' 通常连读 /wiːkˌlɔŋ ˈtrɪp/。'Exploring the old' 将 'g' 与 'the' 连接，'the' 与 'old' 连接 /ɪkˈsplɔːrɪŋ ðə ˈoʊld/。'Out of this' 将 't' 与 'of' 连接，'f' 与 'this' 连接 /aʊt əv ðɪs/。'Interesting lately' 将 'g' 与 'lately' 连接 /'ɪntrəstɪŋ ˈleɪtli/。"
+  },
+  {
+    "id": "p67",
+    "category": "Workplace Communication",
+    "title": "Constructive Feedback in a Virtual Environment",
+    "level": "Advanced",
+    "scenario": "You need to give constructive feedback to a team member on their presentation during a virtual project meeting.",
+    "textbook": "Your presentation was okay. But I think it needs some changes. Maybe less text.",
+    "textbookCritique": "This feedback is vague, unspecific, and potentially demotivating. It doesn't offer actionable insights or frame the critique in a supportive, professional manner suitable for a collaborative work environment.",
+    "natural": "[Team Member's Name], I appreciate you sharing your progress on the [Project Name] presentation. Overall, the content was really solid. One area I thought we could refine for our next iteration is perhaps breaking down some of the denser slides into more digestible visuals or bullet points. It might help keep the audience engaged, especially in a virtual setting where attention spans can sometimes waver. What are your thoughts on that approach?",
+    "chunks": [
+      "appreciate you sharing your progress",
+      "content was really solid",
+      "refine for our next iteration",
+      "denser slides into more digestible visuals",
+      "keep the audience engaged",
+      "virtual setting",
+      "attention spans can sometimes waver",
+      "What are your thoughts on that approach?"
+    ],
+    "connectedSpeech": "'Appreciate you sharing' links 't' to 'you' and 'g' to 'sharing' /əˈpriːʃieɪt ju ˈʃɛərɪŋ/. 'Refine for our' links 'n' to 'for' and 'r' to 'our' /rɪˈfaɪn fər ˈaʊər/. 'Next iteration' links 't' to 'iteration' /nɛkst ɪtəˈreɪʃən/. 'Attention spans can' links 'n' to 'spans' and 's' to 'can' /əˈtɛnʃən spænz kæn/.",
+    "listenText": "[Team Member's Name], I appreciate you sharing your progress on the [Project Name] presentation. Overall, the content was really solid. One area I thought we could refine for our next iteration is perhaps breaking down some of the denser slides into more digestible visuals or bullet points. It might help keep the audience engaged, especially in a virtual setting where attention spans can sometimes waver. What are your thoughts on that approach?",
+    "title_cn": "在虚拟环境中提供建设性反馈",
+    "category_cn": "职场沟通",
+    "scenario_cn": "你需要在一场虚拟项目会议中，就某位团队成员的演示文稿给出建设性反馈。",
+    "textbookCritique_cn": "这个反馈模糊、不具体，并且可能打击积极性。它没有提供可操作的见解，也没有以支持性、专业的方式进行批评，不适合协作的工作环境。",
+    "natural_cn": "[团队成员姓名]，我很欣赏你分享的关于[项目名称]演示文稿的进展。总的来说，内容非常扎实。我个人认为我们可以在下一次迭代中改进的一个方面，或许是将一些内容更密集的幻灯片分解成更容易理解的视觉效果或要点。这可能有助于保持观众的参与度，尤其是在虚拟环境中，注意力持续时间有时会波动。你对这种方法有什么看法？",
+    "chunks_cn": [
+      {
+        "en": "appreciate you sharing your progress",
+        "cn": "感谢您分享您的进展"
+      },
+      {
+        "en": "content was really solid",
+        "cn": "内容非常扎实"
+      },
+      {
+        "en": "refine for our next iteration",
+        "cn": "为下一次迭代进行改进"
+      },
+      {
+        "en": "denser slides into more digestible visuals",
+        "cn": "将内容更密集的幻灯片分解成更容易理解的视觉效果"
+      },
+      {
+        "en": "keep the audience engaged",
+        "cn": "保持观众的参与度"
+      },
+      {
+        "en": "virtual setting",
+        "cn": "虚拟环境"
+      },
+      {
+        "en": "attention spans can sometimes waver",
+        "cn": "注意力持续时间有时会波动"
+      },
+      {
+        "en": "What are your thoughts on that approach?",
+        "cn": "你对这种方法有什么看法？"
+      }
+    ],
+    "connectedSpeech_cn": "'Appreciate you sharing' 将 't' 与 'you' 连接，'g' 与 'sharing' 连接 /əˈpriːʃieɪt ju ˈʃɛərɪŋ/。'Refine for our' 将 'n' 与 'for' 连接，'r' 与 'our' 连接 /rɪˈfaɪn fər ˈaʊər/。'Next iteration' 将 't' 与 'iteration' 连接 /nɛkst ɪtəˈreɪʃən/。'Attention spans can' 将 'n' 与 'spans' 连接，'s' 与 'can' 连接 /əˈtɛnʃən spænz kæn/。"
+  },
+  {
+    "id": "p68",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "The Socio-Economic Impact of the Gig Economy",
+    "level": "Advanced",
+    "scenario": "In an academic speaking test (e.g., IELTS Part 3 or TOEFL Independent Task), you are asked to discuss the positive and negative socio-economic impacts of the burgeoning gig economy.",
+    "textbook": "Gig economy is when people work small jobs. It gives flexible work. But it also has no benefits. It is good and bad.",
+    "textbookCritique": "This response is overly simplistic and lacks the depth, academic vocabulary, and balanced argumentation required for an advanced academic test. It fails to explore the nuances of 'good and bad' or provide specific examples.",
+    "natural": "The burgeoning gig economy, characterized by short-term contracts or freelance work, has undeniably reshaped the modern labor landscape. On the one hand, it offers unparalleled flexibility and autonomy for workers, allowing individuals to supplement their income or pursue diverse projects. For businesses, it provides access to a vast talent pool and reduces overheads. However, the flip side presents significant challenges: a lack of traditional employee benefits like health insurance and retirement plans, job insecurity, and potential exploitation due to uneven bargaining power. Moreover, it often blurs the lines of employment status, posing regulatory hurdles for governments attempting to ensure fair labor practices.",
+    "chunks": [
+      "burgeoning gig economy",
+      "short-term contracts or freelance work",
+      "reshaped the modern labor landscape",
+      "unparalleled flexibility and autonomy",
+      "supplement their income",
+      "pursue diverse projects",
+      "vast talent pool",
+      "reduces overheads",
+      "flip side presents significant challenges",
+      "lack of traditional employee benefits",
+      "job insecurity",
+      "potential exploitation",
+      "uneven bargaining power",
+      "blurs the lines of employment status",
+      "posing regulatory hurdles",
+      "ensure fair labor practices"
+    ],
+    "connectedSpeech": "'Burgeoning gig economy' links 'g' to 'gig' /bɜːrdʒɪŋ ɡɪɡ ɪˈkɑːnəmi/. 'Modern labor landscape' links 'rn' to 'labor' /'mɑːdərn ˈleɪbər ˈlændskeɪp/. 'Offers unparalleled' links 's' to 'unparalleled' /'ɑːfərz ʌnˈpærəˌlɛld/. 'Lack of traditional' links 'k' to 'of' and 'f' to 'traditional' /læk əv trəˈdɪʃənəl/. 'Posing regulatory hurdles' links 'g' to 'regulatory' /'poʊzɪŋ ˈrɛɡjələˌtɔːri ˈhɜːrdlz/.",
+    "listenText": "The burgeoning gig economy, characterized by short-term contracts or freelance work, has undeniably reshaped the modern labor landscape. On the one hand, it offers unparalleled flexibility and autonomy for workers, allowing individuals to supplement their income or pursue diverse projects. For businesses, it provides access to a vast talent pool and reduces overheads. However, the flip side presents significant challenges: a lack of traditional employee benefits like health insurance and retirement plans, job insecurity, and potential exploitation due to uneven bargaining power. Moreover, it often blurs the lines of employment status, posing regulatory hurdles for governments attempting to ensure fair labor practices.",
+    "title_cn": "零工经济的社会经济影响",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "在一次学术口语考试中（例如雅思第三部分或托福独立任务），您被要求讨论蓬勃发展的零工经济所带来的积极和消极的社会经济影响。",
+    "textbookCritique_cn": "这个回答过于简单，缺乏高级学术考试所需的深度、学术词汇和平衡论证。它未能探讨“好与坏”的细微差别，也未能提供具体例子。",
+    "natural_cn": "蓬勃发展的零工经济，以短期合同或自由职业为特征，无疑重塑了现代劳动格局。一方面，它为工人提供了无与伦比的灵活性和自主性，使个人能够补充收入或从事多样化的项目。对于企业而言，它提供了获取庞大人才库的途径并降低了运营成本。然而，另一方面也带来了重大挑战：缺乏传统的员工福利，如医疗保险和退休金计划，工作不稳定，以及由于议价能力不均而导致的潜在剥削。此外，它常常模糊了就业身份的界限，给政府试图确保公平劳动实践带来了监管障碍。",
+    "chunks_cn": [
+      {
+        "en": "burgeoning gig economy",
+        "cn": "蓬勃发展的零工经济"
+      },
+      {
+        "en": "short-term contracts or freelance work",
+        "cn": "短期合同或自由职业"
+      },
+      {
+        "en": "reshaped the modern labor landscape",
+        "cn": "重塑了现代劳动格局"
+      },
+      {
+        "en": "unparalleled flexibility and autonomy",
+        "cn": "无与伦比的灵活性和自主性"
+      },
+      {
+        "en": "supplement their income",
+        "cn": "补充收入"
+      },
+      {
+        "en": "pursue diverse projects",
+        "cn": "从事多样化项目"
+      },
+      {
+        "en": "vast talent pool",
+        "cn": "庞大的人才库"
+      },
+      {
+        "en": "reduces overheads",
+        "cn": "降低运营成本"
+      },
+      {
+        "en": "flip side presents significant challenges",
+        "cn": "另一方面带来了重大挑战"
+      },
+      {
+        "en": "lack of traditional employee benefits",
+        "cn": "缺乏传统的员工福利"
+      },
+      {
+        "en": "job insecurity",
+        "cn": "工作不稳定"
+      },
+      {
+        "en": "potential exploitation",
+        "cn": "潜在的剥削"
+      },
+      {
+        "en": "uneven bargaining power",
+        "cn": "议价能力不均"
+      },
+      {
+        "en": "blurs the lines of employment status",
+        "cn": "模糊了就业身份的界限"
+      },
+      {
+        "en": "posing regulatory hurdles",
+        "cn": "带来了监管障碍"
+      },
+      {
+        "en": "ensure fair labor practices",
+        "cn": "确保公平劳动实践"
+      }
+    ],
+    "connectedSpeech_cn": "'Burgeoning gig economy' 将 'g' 与 'gig' 连接 /bɜːrdʒɪŋ ɡɪɡ ɪˈkɑːnəmi/。'Modern labor landscape' 将 'rn' 与 'labor' 连接 /'mɑːdərn ˈleɪbər ˈlændskeɪp/。'Offers unparalleled' 将 's' 与 'unparalleled' 连接 /'ɑːfərz ʌnˈpærəˌlɛld/。'Lack of traditional' 将 'k' 与 'of' 连接，'f' 与 'traditional' 连接 /læk əv trəˈdɪʃənəl/。'Posing regulatory hurdles' 将 'g' 与 'regulatory' 连接 /'poʊzɪŋ ˈrɛɡjələˌtɔːri ˈhɜːrdlz/。"
   }
 ]
