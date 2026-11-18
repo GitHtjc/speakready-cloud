@@ -1468,3 +1468,376 @@ SpeakReady bridges this gap with:
   }
 ]
 ```
+
+
+## 2026-11-18 (auto)
+```json
+[
+  {
+    "id": "p69",
+    "category": "Workplace Communication & Remote Job Interview",
+    "title": "Navigating Hybrid Work Models",
+    "level": "Advanced",
+    "scenario": "During a remote job interview, you are asked about your experience and strategies for thriving in a hybrid work environment, balancing in-office collaboration with remote productivity.",
+    "textbook": "Hybrid work is good. Some days office, some days home. It makes me flexible. I use my computer and talk to people online.",
+    "textbookCritique": "This response is very basic and lacks the professional vocabulary, structured thinking, and specific strategies expected in an advanced job interview. It doesn't elaborate on how one 'thrives' or 'balances' these environments, nor does it address collaboration or productivity in depth.",
+    "natural": "Navigating hybrid work models effectively hinges on a combination of self-discipline, proactive communication, and leveraging appropriate technology. My strategy involves clearly segmenting my week, dedicating specific days for focused remote work and others for in-office collaboration and team building. I prioritize asynchronous communication tools for routine updates and utilize video conferencing for real-time discussions, ensuring everyone feels included regardless of their location. Moreover, I've developed a robust home office setup to maintain productivity and set clear boundaries to prevent burnout, while actively seeking opportunities for informal in-person interactions to foster team cohesion.",
+    "chunks": [
+      "navigating hybrid work models effectively",
+      "hinges on a combination of",
+      "self-discipline",
+      "proactive communication",
+      "leveraging appropriate technology",
+      "clearly segmenting my week",
+      "dedicated specific days",
+      "focused remote work",
+      "in-office collaboration",
+      "team building",
+      "prioritize asynchronous communication tools",
+      "routine updates",
+      "utilize video conferencing",
+      "real-time discussions",
+      "ensuring everyone feels included",
+      "robust home office setup",
+      "maintain productivity",
+      "set clear boundaries",
+      "prevent burnout",
+      "actively seeking opportunities",
+      "informal in-person interactions",
+      "foster team cohesion"
+    ],
+    "connectedSpeech": "'Navigating hybrid' links 'g' to 'hybrid' /'nævɪɡeɪtɪŋ ˈhaɪbrɪd/. 'Models effectively' links 's' to 'effectively' /'mɑːdlz ɪˈfɛktɪvli/. 'Hinges on a' links 's' to 'on' and 'n' to 'a' /'hɪndʒɪz ɒn ə/. 'Dedicated specific' links 'd' to 'specific' /'dɛdɪkeɪtɪd spəˈsɪfɪk/. 'Actively seeking' links 'v' to 'seeking' /'æktɪvli ˈsiːkɪŋ/.",
+    "listenText": "Navigating hybrid work models effectively hinges on a combination of self-discipline, proactive communication, and leveraging appropriate technology. My strategy involves clearly segmenting my week, dedicating specific days for focused remote work and others for in-office collaboration and team building. I prioritize asynchronous communication tools for routine updates and utilize video conferencing for real-time discussions, ensuring everyone feels included regardless of their location. Moreover, I've developed a robust home office setup to maintain productivity and set clear boundaries to prevent burnout, while actively seeking opportunities for informal in-person interactions to foster team cohesion.",
+    "title_cn": "驾驭混合工作模式",
+    "category_cn": "职场沟通与远程面试",
+    "scenario_cn": "在一次远程工作面试中，您被问及在混合工作环境中茁壮成长的经验和策略，即如何平衡办公室协作与远程工作效率。",
+    "textbookCritique_cn": "这个回答非常基础，缺乏高级求职面试所需的专业词汇、结构化思维和具体策略。它没有深入阐述如何“茁壮成长”或“平衡”这些环境，也没有深入讨论协作或生产力。",
+    "natural_cn": "有效驾驭混合工作模式，关键在于结合自律、积极沟通和利用适当技术。我的策略是明确划分我的工作周，将特定日子用于专注的远程工作，而其他日子则用于办公室协作和团队建设。我优先使用异步沟通工具进行日常更新，并利用视频会议进行实时讨论，确保无论身在何处，每个人都感到被纳入。此外，我建立了一个完善的家庭办公室设置以保持生产力，并设定清晰的界限以防止倦怠，同时积极寻找非正式的面对面互动机会以促进团队凝聚力。",
+    "chunks_cn": [
+      {
+        "en": "navigating hybrid work models effectively",
+        "cn": "有效驾驭混合工作模式"
+      },
+      {
+        "en": "hinges on a combination of",
+        "cn": "取决于结合了"
+      },
+      {
+        "en": "self-discipline",
+        "cn": "自律"
+      },
+      {
+        "en": "proactive communication",
+        "cn": "积极沟通"
+      },
+      {
+        "en": "leveraging appropriate technology",
+        "cn": "利用适当技术"
+      },
+      {
+        "en": "clearly segmenting my week",
+        "cn": "明确划分我的工作周"
+      },
+      {
+        "en": "dedicated specific days",
+        "cn": "将特定日子用于"
+      },
+      {
+        "en": "focused remote work",
+        "cn": "专注的远程工作"
+      },
+      {
+        "en": "in-office collaboration",
+        "cn": "办公室协作"
+      },
+      {
+        "en": "team building",
+        "cn": "团队建设"
+      },
+      {
+        "en": "prioritize asynchronous communication tools",
+        "cn": "优先使用异步沟通工具"
+      },
+      {
+        "en": "routine updates",
+        "cn": "日常更新"
+      },
+      {
+        "en": "utilize video conferencing",
+        "cn": "利用视频会议"
+      },
+      {
+        "en": "real-time discussions",
+        "cn": "实时讨论"
+      },
+      {
+        "en": "ensuring everyone feels included",
+        "cn": "确保每个人都感到被纳入"
+      },
+      {
+        "en": "robust home office setup",
+        "cn": "完善的家庭办公室设置"
+      },
+      {
+        "en": "maintain productivity",
+        "cn": "保持生产力"
+      },
+      {
+        "en": "set clear boundaries",
+        "cn": "设定清晰的界限"
+      },
+      {
+        "en": "prevent burnout",
+        "cn": "防止倦怠"
+      },
+      {
+        "en": "actively seeking opportunities",
+        "cn": "积极寻找机会"
+      },
+      {
+        "en": "informal in-person interactions",
+        "cn": "非正式的面对面互动"
+      },
+      {
+        "en": "foster team cohesion",
+        "cn": "促进团队凝聚力"
+      }
+    ],
+    "connectedSpeech_cn": "'Navigating hybrid' 将 'g' 与 'hybrid' 连接 /'nævɪɡeɪtɪŋ ˈhaɪbrɪd/。'Models effectively' 将 's' 与 'effectively' 连接 /'mɑːdlz ɪˈfɛktɪvli/。'Hinges on a' 将 's' 与 'on' 和 'n' 与 'a' 连接 /'hɪndʒɪz ɒn ə/。'Dedicated specific' 将 'd' 与 'specific' 连接 /'dɛdɪkeɪtɪd spəˈsɪfɪk/。'Actively seeking' 将 'v' 与 'seeking' 连接 /'æktɪvli ˈsiːkɪŋ/。"
+  },
+  {
+    "id": "p70",
+    "category": "Everyday Small Talk & IELTS Speaking",
+    "title": "The Benefits of a Digital Detox",
+    "level": "Intermediate",
+    "scenario": "You are chatting with a friend about screen time and modern life, and they ask if you ever try to 'unplug' from technology. Or, in an IELTS Part 2/3, discuss taking a break from digital devices.",
+    "textbook": "Yes, I sometimes turn off my phone. It is good for my eyes and my head. I do not look at social media.",
+    "textbookCritique": "This response is overly simplistic. It identifies a few basic benefits but fails to elaborate on the methods or a broader range of positive impacts. It lacks the natural fluency and detail for a conversational exchange or a satisfactory IELTS answer.",
+    "natural": "Absolutely, I'm a big advocate for digital detoxes, especially with the constant connectivity we experience these days. I find myself feeling overwhelmed sometimes, so taking a deliberate break from screens helps me recharge mentally. It really improves my focus, and I've noticed I get better sleep quality when I avoid my phone for an hour or two before bed. Sometimes I'll set specific times in the evening as 'no-phone zones,' or even spend a whole weekend consciously limiting my screen time to just essential tasks. It's a great way to reconnect with nature, read a physical book, or just be more present with friends and family.",
+    "chunks": [
+      "big advocate for digital detoxes",
+      "constant connectivity",
+      "feeling overwhelmed",
+      "deliberate break from screens",
+      "recharge mentally",
+      "improves my focus",
+      "better sleep quality",
+      "avoid my phone",
+      "set specific times",
+      "no-phone zones",
+      "consciously limiting my screen time",
+      "essential tasks",
+      "reconnect with nature",
+      "read a physical book",
+      "be more present"
+    ],
+    "connectedSpeech": "'Big advocate' links 'g' to 'advocate' /bɪɡ ˈædvəkət/. 'Constant connectivity' links 't' to 'connectivity' /'kɑːnstənt kəˌnɛktɪˈvɪti/. 'Helps me' links 'ps' to 'me' /hɛlps miː/. 'Get better' links 't' to 'better' /ɡɛt ˈbɛtər/. 'Hour or two' links 'r' to 'or' and 'r' to 'two' /'aʊər ɔːr tuː/.",
+    "listenText": "Absolutely, I'm a big advocate for digital detoxes, especially with the constant connectivity we experience these days. I find myself feeling overwhelmed sometimes, so taking a deliberate break from screens helps me recharge mentally. It really improves my focus, and I've noticed I get better sleep quality when I avoid my phone for an hour or two before bed. Sometimes I'll set specific times in the evening as 'no-phone zones,' or even spend a whole weekend consciously limiting my screen time to just essential tasks. It's a great way to reconnect with nature, read a physical book, or just be more present with friends and family.",
+    "title_cn": "数字排毒的好处",
+    "category_cn": "日常闲聊与雅思口语",
+    "scenario_cn": "您正在和朋友聊起屏幕使用时间和现代生活，他们问您是否尝试过“断开”与科技的联系。或者，在雅思第二/三部分中，讨论暂时远离数字设备。",
+    "textbookCritique_cn": "这个回答过于简单。它只列举了几个基本好处，但未能详细阐述方法或更广泛的积极影响。它缺乏自然流利度和细节，不适合日常对话交流或作为令人满意的雅思答案。",
+    "natural_cn": "当然，我非常推崇数字排毒，尤其是在我们当下这种无时无刻的连接状态下。我有时会感到不堪重负，所以有意识地远离屏幕能帮助我精神上充电。它确实能提高我的专注力，而且我注意到睡前一两个小时不用手机，我的睡眠质量会更好。有时我会在晚上设定特定时间为“无手机区”，甚至整个周末都有意识地将我的屏幕时间限制在必要的任务上。这是重新亲近大自然、读一本纸质书，或者只是更专注于与朋友和家人相处的绝佳方式。",
+    "chunks_cn": [
+      {
+        "en": "big advocate for digital detoxes",
+        "cn": "数字排毒的积极倡导者"
+      },
+      {
+        "en": "constant connectivity",
+        "cn": "持续连接"
+      },
+      {
+        "en": "feeling overwhelmed",
+        "cn": "感到不堪重负"
+      },
+      {
+        "en": "deliberate break from screens",
+        "cn": "有意识地远离屏幕"
+      },
+      {
+        "en": "recharge mentally",
+        "cn": "精神上充电"
+      },
+      {
+        "en": "improves my focus",
+        "cn": "提高我的专注力"
+      },
+      {
+        "en": "better sleep quality",
+        "cn": "更好的睡眠质量"
+      },
+      {
+        "en": "avoid my phone",
+        "cn": "避免使用手机"
+      },
+      {
+        "en": "set specific times",
+        "cn": "设定特定时间"
+      },
+      {
+        "en": "no-phone zones",
+        "cn": "无手机区"
+      },
+      {
+        "en": "consciously limiting my screen time",
+        "cn": "有意识地限制我的屏幕时间"
+      },
+      {
+        "en": "essential tasks",
+        "cn": "必要的任务"
+      },
+      {
+        "en": "reconnect with nature",
+        "cn": "重新亲近大自然"
+      },
+      {
+        "en": "read a physical book",
+        "cn": "读一本纸质书"
+      },
+      {
+        "en": "be more present",
+        "cn": "更加专注于当下"
+      }
+    ],
+    "connectedSpeech_cn": "'Big advocate' 将 'g' 与 'advocate' 连接 /bɪɡ ˈædvəkət/。'Constant connectivity' 将 't' 与 'connectivity' 连接 /'kɑːnstənt kəˌnɛktɪˈvɪti/。'Helps me' 将 'ps' 与 'me' 连接 /hɛlps miː/。'Get better' 将 't' 与 'better' 连接 /ɡɛt ˈbɛtər/。'Hour or two' 将 'r' 与 'or' 和 'r' 与 'two' 连接 /'aʊər ɔːr tuː/。"
+  },
+  {
+    "id": "p71",
+    "category": "IELTS & TOEFL Speaking",
+    "title": "Embracing Sustainable Daily Habits",
+    "level": "Advanced",
+    "scenario": "In an academic speaking test (e.g., IELTS Part 3 or TOEFL Independent Task), you are asked to elaborate on the importance of individual actions in promoting sustainable living and discuss practical habits people can adopt.",
+    "textbook": "Sustainable living is very important for the Earth. We should recycle plastic and paper. Also, save water and energy. This helps the environment.",
+    "textbookCritique": "This response is rudimentary and lacks the depth, academic vocabulary, and structured argumentation necessary for an advanced academic test. It merely lists obvious actions without explaining their significance or exploring a wider range of sustainable habits.",
+    "natural": "Embracing sustainable daily habits is absolutely crucial for addressing global environmental challenges, even at an individual level. Our cumulative actions, however small, contribute significantly to reducing our ecological footprint. Practical habits can range from conscious consumerism—opting for products with minimal packaging and supporting local, ethical businesses—to rigorously minimizing waste generation through recycling, composting organic waste, and utilizing reusable alternatives like bags and bottles. Furthermore, energy conservation at home, such as unplugging electronics and using energy-efficient appliances, along with prioritizing public transportation or cycling, plays a vital role. These choices not only lessen our impact but also foster a greater awareness of environmental stewardship within communities.",
+    "chunks": [
+      "embracing sustainable daily habits",
+      "absolutely crucial",
+      "addressing global environmental challenges",
+      "individual level",
+      "cumulative actions",
+      "contribute significantly",
+      "reducing our ecological footprint",
+      "practical habits",
+      "conscious consumerism",
+      "opting for products",
+      "minimal packaging",
+      "supporting local, ethical businesses",
+      "rigorously minimizing waste generation",
+      "composting organic waste",
+      "utilizing reusable alternatives",
+      "energy conservation at home",
+      "unplugging electronics",
+      "energy-efficient appliances",
+      "prioritizing public transportation or cycling",
+      "plays a vital role",
+      "lessen our impact",
+      "foster a greater awareness",
+      "environmental stewardship within communities"
+    ],
+    "connectedSpeech": "'Crucial for addressing' links 'l' to 'for' and 'r' to 'addressing' /'kruːʃəl fər əˈdrɛsɪŋ/. 'Individual level' links 'l' to 'level' /'ɪndɪˈvɪdʒuəl ˈlɛvəl/. 'Range from' links 'g' to 'from' /reɪndʒ frəm/. 'Recycling composting' links 'g' to 'composting' /riːˈsaɪklɪŋ ˈkɑːmpoʊstɪŋ/. 'Greater awareness' links 'r' to 'awareness' /'ɡreɪtər əˈwɛərnəs/.",
+    "listenText": "Embracing sustainable daily habits is absolutely crucial for addressing global environmental challenges, even at an individual level. Our cumulative actions, however small, contribute significantly to reducing our ecological footprint. Practical habits can range from conscious consumerism—opting for products with minimal packaging and supporting local, ethical businesses—to rigorously minimizing waste generation through recycling, composting organic waste, and utilizing reusable alternatives like bags and bottles. Furthermore, energy conservation at home, such as unplugging electronics and using energy-efficient appliances, along with prioritizing public transportation or cycling, plays a vital role. These choices not only lessen our impact but also foster a greater awareness of environmental stewardship within communities.",
+    "title_cn": "践行可持续的日常习惯",
+    "category_cn": "雅思与托福口语",
+    "scenario_cn": "在一次学术口语考试中（例如雅思第三部分或托福独立任务），您被要求详细阐述个人行为在促进可持续生活方面的重要性，并讨论人们可以采纳的实用习惯。",
+    "textbookCritique_cn": "这个回答过于基础，缺乏高级学术考试所需的深度、学术词汇和结构化论证。它仅仅列举了显而易见的行动，而没有解释其意义或探讨更广泛的可持续习惯。",
+    "natural_cn": "践行可持续的日常习惯对于应对全球环境挑战至关重要，即使是在个人层面。我们日积月累的行为，无论多么微小，都对减少我们的生态足迹起着显著作用。实用的习惯可以涵盖从有意识的消费——选择包装最少的产品并支持本地、有道德的商家——到通过回收、有机废弃物堆肥以及使用可重复利用的替代品（如袋子和瓶子）严格减少废弃物产生。此外，家中的节能措施，例如拔掉电子设备插头和使用节能电器，以及优先选择公共交通或骑自行车，都扮演着至关重要的角色。这些选择不仅减轻了我们的影响，还在社区内培养了更强的环境管理意识。",
+    "chunks_cn": [
+      {
+        "en": "embracing sustainable daily habits",
+        "cn": "践行可持续的日常习惯"
+      },
+      {
+        "en": "absolutely crucial",
+        "cn": "绝对关键"
+      },
+      {
+        "en": "addressing global environmental challenges",
+        "cn": "应对全球环境挑战"
+      },
+      {
+        "en": "individual level",
+        "cn": "个人层面"
+      },
+      {
+        "en": "cumulative actions",
+        "cn": "累积行动"
+      },
+      {
+        "en": "contribute significantly",
+        "cn": "显著贡献"
+      },
+      {
+        "en": "reducing our ecological footprint",
+        "cn": "减少我们的生态足迹"
+      },
+      {
+        "en": "practical habits",
+        "cn": "实用习惯"
+      },
+      {
+        "en": "conscious consumerism",
+        "cn": "有意识的消费"
+      },
+      {
+        "en": "opting for products",
+        "cn": "选择产品"
+      },
+      {
+        "en": "minimal packaging",
+        "cn": "最少包装"
+      },
+      {
+        "en": "supporting local, ethical businesses",
+        "cn": "支持本地、有道德的商家"
+      },
+      {
+        "en": "rigorously minimizing waste generation",
+        "cn": "严格减少废弃物产生"
+      },
+      {
+        "en": "composting organic waste",
+        "cn": "有机废弃物堆肥"
+      },
+      {
+        "en": "utilizing reusable alternatives",
+        "cn": "使用可重复利用的替代品"
+      },
+      {
+        "en": "energy conservation at home",
+        "cn": "家中的节能措施"
+      },
+      {
+        "en": "unplugging electronics",
+        "cn": "拔掉电子设备插头"
+      },
+      {
+        "en": "energy-efficient appliances",
+        "cn": "节能电器"
+      },
+      {
+        "en": "prioritizing public transportation or cycling",
+        "cn": "优先选择公共交通或骑自行车"
+      },
+      {
+        "en": "plays a vital role",
+        "cn": "扮演着至关重要的角色"
+      },
+      {
+        "en": "lessen our impact",
+        "cn": "减轻我们的影响"
+      },
+      {
+        "en": "foster a greater awareness",
+        "cn": "培养更强的意识"
+      },
+      {
+        "en": "environmental stewardship within communities",
+        "cn": "社区内的环境管理意识"
+      }
+    ],
+    "connectedSpeech_cn": "'Crucial for addressing' 将 'l' 与 'for' 和 'r' 与 'addressing' 连接 /'kruːʃəl fər əˈdrɛsɪŋ/。'Individual level' 将 'l' 与 'level' 连接 /'ɪndɪˈvɪdʒuəl ˈlɛvəl/。'Range from' 将 'g' 与 'from' 连接 /reɪndʒ frəm/。'Recycling composting' 将 'g' 与 'composting' 连接 /riːˈsaɪklɪŋ ˈkɑːmpoʊstɪŋ/。'Greater awareness' 将 'r' 与 'awareness' 连接 /'ɡreɪtər əˈwɛərnəs/。"
+  }
+]
+```
