@@ -2387,3 +2387,246 @@ SpeakReady bridges this gap with:
   }
 ]
 ```
+
+
+## 2026-11-22 (auto)
+```json
+[
+  {
+    "id": "p78",
+    "category": "Remote Job Interview",
+    "title": "Discussing Remote Work Preferences",
+    "level": "Intermediate",
+    "scenario": "During a remote job interview, the interviewer asks, 'What are your preferences regarding remote work versus in-office work, and why?' You need to articulate your preference, highlighting its benefits for your productivity.",
+    "textbook": "I like remote work because I can focus. I can work from home. It is good for me.",
+    "textbookCritique": "This answer is too brief and lacks professional language suitable for an interview. It doesn't elaborate on *why* remote work is beneficial for focus or demonstrate a nuanced understanding of different work environments. It sounds a bit childish.",
+    "natural": "That's a great question. While I appreciate the collaborative energy of an office, I've found that I'm most productive and can really concentrate on complex tasks when working remotely. The flexibility allows me to structure my day in a way that maximizes deep work, and I've developed effective strategies for staying connected and collaborating with teams virtually. I also value the reduced commute time, which I can reinvest into my work or personal development.",
+    "chunks": [
+      "That's a great question",
+      "collaborative energy of an office",
+      "most productive",
+      "really concentrate on complex tasks",
+      "working remotely",
+      "flexibility allows me to structure my day",
+      "maximizes deep work",
+      "developed effective strategies for staying connected",
+      "collaborating with teams virtually",
+      "value the reduced commute time",
+      "reinvest into my work or personal development"
+    ],
+    "connectedSpeech": "'That's a great' links 's' to 'a' /ðæts ə ɡreɪt/. 'Most productive' links 't' to 'productive' /moʊst prəˈdʌktɪv/. 'Can really' often reduces 'can' to /kən/. 'When working' links 'n' to 'working' /wɛn ˈwɜːrkɪŋ/. 'Allows me to' links 's' to 'me' and 'to' often reduces to /tə/. 'Stay connected' links 'y' to 'connected' /steɪ kəˈnɛktɪd/. 'Reduced commute' links 'd' to 'commute' /rɪˈdjuːst kəˈmjuːt/. 'Reinvest into' links 't' to 'into' /riːɪnˈvɛst ˈɪntuː/.",
+    "listenText": "That's a great question. While I appreciate the collaborative energy of an office, I've found that I'm most productive and can really concentrate on complex tasks when working remotely. The flexibility allows me to structure my day in a way that maximizes deep work, and I've developed effective strategies for staying connected and collaborating with teams virtually. I also value the reduced commute time, which I can reinvest into my work or personal development.",
+    "title_cn": "讨论远程工作偏好",
+    "category_cn": "远程求职面试",
+    "scenario_cn": "在一次远程求职面试中，面试官问你：'你对远程工作和办公室工作有什么偏好，为什么？'你需要阐明你的偏好，并强调其对你提高生产力的好处。",
+    "textbookCritique_cn": "这个回答过于简短，缺乏适合面试的专业语言。它没有详细说明远程工作为何有利于专注，也没有展示出对不同工作环境的细致理解。听起来有些幼稚。",
+    "natural_cn": "这是个很好的问题。虽然我很欣赏办公室的协作氛围，但我发现远程工作时我的效率最高，也能真正专注于复杂的任务。灵活性让我能够以最大化深度工作的方式安排我的一天，而且我已制定了有效的策略来与团队保持虚拟连接和协作。我还看重通勤时间减少的好处，这让我可以把时间重新投入到工作或个人发展中。",
+    "chunks_cn": [
+      {
+        "en": "That's a great question",
+        "cn": "这是个很好的问题"
+      },
+      {
+        "en": "collaborative energy of an office",
+        "cn": "办公室的协作氛围"
+      },
+      {
+        "en": "most productive",
+        "cn": "效率最高"
+      },
+      {
+        "en": "really concentrate on complex tasks",
+        "cn": "真正专注于复杂的任务"
+      },
+      {
+        "en": "working remotely",
+        "cn": "远程工作"
+      },
+      {
+        "en": "flexibility allows me to structure my day",
+        "cn": "灵活性让我能够安排我的一天"
+      },
+      {
+        "en": "maximizes deep work",
+        "cn": "最大化深度工作"
+      },
+      {
+        "en": "developed effective strategies for staying connected",
+        "cn": "制定了保持连接的有效策略"
+      },
+      {
+        "en": "collaborating with teams virtually",
+        "cn": "与团队进行虚拟协作"
+      },
+      {
+        "en": "value the reduced commute time",
+        "cn": "看重通勤时间减少的好处"
+      },
+      {
+        "en": "reinvest into my work or personal development",
+        "cn": "重新投入到工作或个人发展中"
+      }
+    ],
+    "connectedSpeech_cn": "'That's a great' 将 's' 与 'a' 连接 /ðæts ə ɡreɪt/。'Most productive' 将 't' 与 'productive' 连接 /moʊst prəˈdʌktɪv/。'Can really' 中的 'can' 常常弱读为 /kən/。'When working' 将 'n' 与 'working' 连接 /wɛn ˈwɜːrkɪŋ/。'Allows me to' 将 's' 与 'me' 连接，'to' 常常弱读为 /tə/。'Stay connected' 将 'y' 与 'connected' 连接 /steɪ kəˈnɛktɪd/。'Reduced commute' 将 'd' 与 'commute' 连接 /rɪˈdjuːst kəˈmjuːt/。'Reinvest into' 将 't' 与 'into' 连接 /riːɪnˈvɛst ˈɪntuː/。"
+  },
+  {
+    "id": "p79",
+    "category": "Workplace Communication",
+    "title": "Requesting Feedback on a Project Update",
+    "level": "Advanced-Intermediate",
+    "scenario": "You've just shared an update on a critical project with your team lead or manager. You want to proactively solicit their feedback to ensure you're on the right track and to improve your work.",
+    "textbook": "I sent you the project update. Do you have feedback?",
+    "textbookCritique": "This is too direct, abrupt, and lacks politeness. It doesn't open the door for a detailed discussion or show an understanding of the manager's busy schedule. It sounds demanding rather than collaborative.",
+    "natural": "Hi [Manager's Name], I hope you had a chance to review the project update I sent over earlier today. I'd really appreciate it if you could share any initial thoughts or feedback you might have, especially concerning [specific aspect, e.g., the proposed timeline/budget estimates]. No rush at all, just wanted to make sure we're aligned. Let me know if there's a better time for a quick chat.",
+    "chunks": [
+      "hope you had a chance to review",
+      "project update I sent over earlier today",
+      "really appreciate it if you could share",
+      "initial thoughts or feedback you might have",
+      "especially concerning",
+      "No rush at all",
+      "wanted to make sure we're aligned",
+      "Let me know if there's a better time for a quick chat"
+    ],
+    "connectedSpeech": "'Hope you had' often reduces 'had' to /həd/ and links /p/ to /jʊ/. 'Review the project' links 'w' to 'the' /rɪˈvjuː ðə/. 'Sent over' links 't' to 'over' /sɛnt ˈoʊvər/. 'Really appreciate it' links 't' to 'it' /rɪəli əˈpriːʃieɪt ɪt/. 'If you could' often reduces 'if' to /ɪf/ and 'could' to /kʊd/. 'Might have' often reduces 'have' to /həv/. 'No rush at all' links 'sh' to 'at' and 't' to 'all' /noʊ rʌʃ ət ɔːl/. 'Better time for a quick chat' links 'r' to 'time' and 'k' to 'chat' /bɛtər taɪm fər ə kwɪk tʃæt/.",
+    "listenText": "Hi [Manager's Name], I hope you had a chance to review the project update I sent over earlier today. I'd really appreciate it if you could share any initial thoughts or feedback you might have, especially concerning [specific aspect, e.g., the proposed timeline/budget estimates]. No rush at all, just wanted to make sure we're aligned. Let me know if there's a better time for a quick chat.",
+    "title_cn": "请求项目更新反馈",
+    "category_cn": "职场沟通",
+    "scenario_cn": "你刚刚与团队负责人或经理分享了一个关键项目的最新进展。你希望主动征求他们的反馈，以确保方向正确并改进你的工作。",
+    "textbookCritique_cn": "这太直接、生硬，缺乏礼貌。它没有为详细讨论打开大门，也没有考虑到经理繁忙的日程。听起来更像是命令而不是协作。",
+    "natural_cn": "嗨，[经理姓名]，希望您有机会审阅我今天早些时候发过去的那个项目更新。如果您能分享任何初步的想法或反馈，我将不胜感激，尤其是关于[具体方面，例如：提议的时间表/预算估算]。不急，只是想确保我们保持一致。如果有更方便的时间可以快速聊一下，请告诉我。",
+    "chunks_cn": [
+      {
+        "en": "hope you had a chance to review",
+        "cn": "希望您有机会审阅"
+      },
+      {
+        "en": "project update I sent over earlier today",
+        "cn": "我今天早些时候发过去的那个项目更新"
+      },
+      {
+        "en": "really appreciate it if you could share",
+        "cn": "如果您能分享...我将不胜感激"
+      },
+      {
+        "en": "initial thoughts or feedback you might have",
+        "cn": "任何初步的想法或反馈"
+      },
+      {
+        "en": "especially concerning",
+        "cn": "尤其是关于"
+      },
+      {
+        "en": "No rush at all",
+        "cn": "不急"
+      },
+      {
+        "en": "wanted to make sure we're aligned",
+        "cn": "只是想确保我们保持一致"
+      },
+      {
+        "en": "Let me know if there's a better time for a quick chat",
+        "cn": "如果有更方便的时间可以快速聊一下，请告诉我"
+      }
+    ],
+    "connectedSpeech_cn": "'Hope you had' 中的 'had' 常常弱读为 /həd/，并将 /p/ 与 /jʊ/ 连接。'Review the project' 将 'w' 与 'the' 连接 /rɪˈvjuː ðə/。'Sent over' 将 't' 与 'over' 连接 /sɛnt ˈoʊvər/。'Really appreciate it' 将 't' 与 'it' 连接 /rɪəli əˈpriːʃieɪt ɪt/。'If you could' 中的 'if' 常常弱读为 /ɪf/，'could' 弱读为 /kʊd/。'Might have' 中的 'have' 常常弱读为 /həv/。'No rush at all' 将 'sh' 与 'at' 连接，并将 't' 与 'all' 连接 /noʊ rʌʃ ət ɔːl/。'Better time for a quick chat' 将 'r' 与 'time' 连接，并将 'k' 与 'chat' 连接 /bɛtər taɪm fər ə kwɪk tʃæt/。"
+  },
+  {
+    "id": "p80",
+    "category": "IELTS Speaking Practice",
+    "title": "Describing a Memorable Community Event",
+    "level": "Advanced",
+    "scenario": "You are asked to describe a memorable community event you attended recently. You should say what the event was, where it took place, who you were with, and explain why it was memorable.",
+    "textbook": "I went to a festival. It was in the park. I was with my friends. It was fun because there was music.",
+    "textbookCritique": "This response is very basic and lacks detail, vocabulary, and cohesive structure required for a good IELTS score. It doesn't develop the ideas or use a range of grammatical structures. It fails to adequately explain *why* it was memorable beyond a simple \"fun.\"",
+    "natural": "Absolutely! Just last month, I had the pleasure of attending a fantastic local food and craft festival held in our town's main square. It was a bustling Saturday afternoon, and I went with a couple of close friends, and we really soaked up the atmosphere. What made it particularly memorable was not just the incredible variety of artisanal foods – from gourmet cheeses to freshly baked pastries – but also the vibrant live music performed by local bands and the genuine sense of community spirit. Everyone was just so friendly and engaged, and it felt like a true celebration of our local culture and talent. It was such a refreshing experience, truly a highlight of my autumn.",
+    "chunks": [
+      "had the pleasure of attending",
+      "fantastic local food and craft festival",
+      "town's main square",
+      "bustling Saturday afternoon",
+      "soaked up the atmosphere",
+      "What made it particularly memorable was not just",
+      "incredible variety of artisanal foods",
+      "gourmet cheeses",
+      "freshly baked pastries",
+      "vibrant live music performed by local bands",
+      "genuine sense of community spirit",
+      "friendly and engaged",
+      "true celebration of our local culture and talent",
+      "refreshing experience",
+      "truly a highlight of my autumn"
+    ],
+    "connectedSpeech": "'Had the pleasure of' links 'd' to 'the' and 'r' to 'of' /hæd ðə ˈplɛʒər əv/. 'Food and craft' links 'd' to 'and' and 't' to 'craft' /fuːd ən krɑːft/. 'Main square' links 'n' to 'square' /meɪn skwɛər/. 'Couple of close friends' links 'l' to 'of' and 'f' to 'close' /kʌpl̩ əv kloʊz frɛndz/. 'Soaked up the atmosphere' links 'd' to 'up' and 'p' to 'the' /soʊkt ʌp ði ˈætməsfɪər/. 'Not just' links 't' to 'just' /nɑːt dʒʌst/. 'Variety of artisanal' links 'y' to 'of' and 'l' to 'artisanal' /vəˈraɪəti əv ɑːrtɪˈzænəl/. 'Sense of community' links 's' to 'of' /sɛns əv kəˈmjuːnɪti/. 'Culture and talent' links 'r' to 'and' and 't' to 'talent' /kʌltʃər ən ˈtælənt/.",
+    "listenText": "Absolutely! Just last month, I had the pleasure of attending a fantastic local food and craft festival held in our town's main square. It was a bustling Saturday afternoon, and I went with a couple of close friends, and we really soaked up the atmosphere. What made it particularly memorable was not just the incredible variety of artisanal foods – from gourmet cheeses to freshly baked pastries – but also the vibrant live music performed by local bands and the genuine sense of community spirit. Everyone was just so friendly and engaged, and it felt like a true celebration of our local culture and talent. It was such a refreshing experience, truly a highlight of my autumn.",
+    "title_cn": "描述一次难忘的社区活动",
+    "category_cn": "雅思口语练习",
+    "scenario_cn": "你被要求描述一次你最近参加的难忘的社区活动。你应该说明活动是什么，在哪里举行，你和谁一起去的，并解释它为什么令人难忘。",
+    "textbookCritique_cn": "这个回答非常基础，缺乏雅思高分所需的细节、词汇和连贯结构。它没有充分展开想法，也没有使用多种语法结构。它未能充分解释为什么活动令人难忘，仅仅停留在简单的“有趣”。",
+    "natural_cn": "当然！就在上个月，我有幸参加了在我们镇主广场举办的一个非常棒的当地美食与手工艺品节。那是个熙熙攘攘的周六下午，我与几个好朋友一同前往，我们真的沉浸在了那里的氛围中。让它特别难忘的不仅仅是种类繁多的手工美食——从美食奶酪到新鲜出炉的糕点——还有当地乐队表演的充满活力的现场音乐，以及真正的社区精神。每个人都非常友好和投入，感觉就像是我们当地文化和才华的真正庆典。那真是一次令人耳目一新的体验，绝对是我秋天的亮点。",
+    "chunks_cn": [
+      {
+        "en": "had the pleasure of attending",
+        "cn": "有幸参加了"
+      },
+      {
+        "en": "fantastic local food and craft festival",
+        "cn": "非常棒的当地美食与手工艺品节"
+      },
+      {
+        "en": "town's main square",
+        "cn": "镇主广场"
+      },
+      {
+        "en": "bustling Saturday afternoon",
+        "cn": "熙熙攘攘的周六下午"
+      },
+      {
+        "en": "soaked up the atmosphere",
+        "cn": "沉浸在了那里的氛围中"
+      },
+      {
+        "en": "What made it particularly memorable was not just",
+        "cn": "让它特别难忘的不仅仅是"
+      },
+      {
+        "en": "incredible variety of artisanal foods",
+        "cn": "种类繁多的手工美食"
+      },
+      {
+        "en": "gourmet cheeses",
+        "cn": "美食奶酪"
+      },
+      {
+        "en": "freshly baked pastries",
+        "cn": "新鲜出炉的糕点"
+      },
+      {
+        "en": "vibrant live music performed by local bands",
+        "cn": "当地乐队表演的充满活力的现场音乐"
+      },
+      {
+        "en": "genuine sense of community spirit",
+        "cn": "真正的社区精神"
+      },
+      {
+        "en": "friendly and engaged",
+        "cn": "友好和投入"
+      },
+      {
+        "en": "true celebration of our local culture and talent",
+        "cn": "我们当地文化和才华的真正庆典"
+      },
+      {
+        "en": "refreshing experience",
+        "cn": "令人耳目一新的体验"
+      },
+      {
+        "en": "truly a highlight of my autumn",
+        "cn": "绝对是我秋天的亮点"
+      }
+    ],
+    "connectedSpeech_cn": "'Had the pleasure of' 将 'd' 与 'the' 连接，并将 'r' 与 'of' 连接 /hæd ðə ˈplɛʒər əv/。'Food and craft' 将 'd' 与 'and' 连接，并将 't' 与 'craft' 连接 /fuːd ən krɑːft/。'Main square' 将 'n' 与 'square' 连接 /meɪn skwɛər/。'Couple of close friends' 将 'l' 与 'of' 连接，并将 'f' 与 'close' 连接 /kʌpl̩ əv kloʊz frɛndz/。'Soaked up the atmosphere' 将 'd' 与 'up' 连接，并将 'p' 与 'the' 连接 /soʊkt ʌp ði ˈætməsfɪər/。'Not just' 将 't' 与 'just' 连接 /nɑːt dʒʌst/。'Variety of artisanal' 将 'y' 与 'of' 连接，并将 'l' 与 'artisanal' 连接 /vəˈraɪəti əv ɑːrtɪˈzænəl/。'Sense of community' 将 's' 与 'of' 连接 /sɛns əv kəˈmjuːnɪti/. 'Culture and talent' 将 'r' 与 'and' 连接，并将 't' 与 'talent' 连接 /kʌltʃər ən ˈtælənt/。"
+  }
+]
+```
