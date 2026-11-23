@@ -2630,3 +2630,276 @@ SpeakReady bridges this gap with:
   }
 ]
 ```
+
+
+## 2026-11-23 (auto)
+```json
+[
+  {
+    "id": "p81",
+    "category": "Workplace Communication",
+    "title": "Providing a Concise Project Update",
+    "level": "Intermediate-Advanced",
+    "scenario": "You are in a remote team meeting and your manager asks for an brief update on Project Alpha. You need to summarize progress, mention any minor hurdles, and state the next steps.",
+    "textbook": "Project Alpha is going well. We did tasks. There were some small problems. We will do more tasks next.",
+    "textbookCritique": "This response is too simplistic and vague. It lacks professional language, specific details, and a clear structure for updates. It doesn't show proactive problem-solving or clear next steps expected in a professional context.",
+    "natural": "Thanks for asking, [Manager's Name]. For Project Alpha, we've made significant progress this past week. We successfully completed the initial phase of user testing, and the feedback has been overwhelmingly positive. There was a slight delay with integrating the new API, primarily due to an unexpected compatibility issue, but we've already found a workaround and are back on track. Our immediate next step is to finalize the design mock-ups by end of day tomorrow and then move into the development sprint as planned. We're still confident in meeting our original deadline.",
+    "chunks": [
+      "made significant progress",
+      "successfully completed the initial phase",
+      "overwhelmingly positive",
+      "slight delay",
+      "primarily due to an unexpected compatibility issue",
+      "found a workaround",
+      "back on track",
+      "immediate next step",
+      "finalize the design mock-ups",
+      "end of day tomorrow",
+      "move into the development sprint",
+      "as planned",
+      "confident in meeting our original deadline"
+    ],
+    "connectedSpeech": "'Thanks for asking' /θæŋks fər ˈæskɪŋ/. 'Made significant progress' links 'd' to 's' /meɪd sɪɡˈnɪfɪkənt ˈprɑːɡrəs/. 'Past week' links 't' to 'w' /pæst wiːk/. 'Initial phase' links 'l' to 'ph' /ɪˈnɪʃəl feɪz/. 'Overwhelmingly positive' links 'y' to 'p' /oʊvərˈwɛlmɪŋli ˈpɑːzətɪv/. 'Slight delay' links 't' to 'd' /slaɪt dɪˈleɪ/. 'Due to an unexpected' links 'o' to 'an' and 'd' to 'unexpected' /duː tu ən ʌnɪkˈspɛktɪd/. 'Back on track' links 'k' to 'on' /bæk ɑːn træk/. 'End of day' links 'd' to 'of' /ɛnd əv deɪ/. 'Sprint as planned' links 't' to 'as' and 's' to 'planned' /sprɪnt æz plænd/.",
+    "listenText": "Thanks for asking, [Manager's Name]. For Project Alpha, we've made significant progress this past week. We successfully completed the initial phase of user testing, and the feedback has been overwhelmingly positive. There was a slight delay with integrating the new API, primarily due to an unexpected compatibility issue, but we've already found a workaround and are back on track. Our immediate next step is to finalize the design mock-ups by end of day tomorrow and then move into the development sprint as planned. We're still confident in meeting our original deadline.",
+    "title_cn": "简洁地汇报项目进展",
+    "category_cn": "职场沟通",
+    "scenario_cn": "你正在参加一个远程团队会议，你的经理要求你汇报“阿尔法项目”的进展。你需要简要总结进展，提及任何小的障碍，并说明下一步计划。",
+    "textbookCritique_cn": "这个回答过于简单和模糊。它缺乏专业的语言、具体的细节以及清晰的汇报结构。它没有展示积极解决问题或明确的下一步计划，这在专业语境中是不足的。",
+    "natural_cn": "谢谢您的提问，[经理姓名]。关于阿尔法项目，我们上周取得了显著进展。我们成功完成了用户测试的初始阶段，反馈非常积极。在集成新API时出现了一些小延迟，主要是由于意外的兼容性问题，但我们已经找到了解决方案并已回到正轨。我们眼前的下一步是在明天工作结束前完成设计模型，然后按计划进入开发冲刺阶段。我们仍然有信心按原定截止日期完成。",
+    "chunks_cn": [
+      {
+        "en": "made significant progress",
+        "cn": "取得了显著进展"
+      },
+      {
+        "en": "successfully completed the initial phase",
+        "cn": "成功完成了初始阶段"
+      },
+      {
+        "en": "overwhelmingly positive",
+        "cn": "非常积极"
+      },
+      {
+        "en": "slight delay",
+        "cn": "小延迟"
+      },
+      {
+        "en": "primarily due to an unexpected compatibility issue",
+        "cn": "主要是由于意外的兼容性问题"
+      },
+      {
+        "en": "found a workaround",
+        "cn": "找到了解决方案"
+      },
+      {
+        "en": "back on track",
+        "cn": "回到正轨"
+      },
+      {
+        "en": "immediate next step",
+        "cn": "眼前的下一步"
+      },
+      {
+        "en": "finalize the design mock-ups",
+        "cn": "完成设计模型"
+      },
+      {
+        "en": "end of day tomorrow",
+        "cn": "明天工作结束前"
+      },
+      {
+        "en": "move into the development sprint",
+        "cn": "进入开发冲刺阶段"
+      },
+      {
+        "en": "as planned",
+        "cn": "按计划"
+      },
+      {
+        "en": "confident in meeting our original deadline",
+        "cn": "有信心按原定截止日期完成"
+      }
+    ],
+    "connectedSpeech_cn": "'Thanks for asking' /θæŋks fər ˈæskɪŋ/ 中的 'ks' 与 'for' 连接，'r' 与 'asking' 连接。'Made significant progress' 中的 'd' 与 's' 连接 /meɪd sɪɡˈnɪfɪkənt ˈprɑːɡrəs/。'Past week' 中的 't' 与 'w' 连接 /pæst wiːk/。'Initial phase' 中的 'l' 与 'ph' 连接 /ɪˈnɪʃəl feɪz/。'Overwhelmingly positive' 中的 'y' 与 'p' 连接 /oʊvərˈwɛlmɪŋli ˈpɑːzətɪv/。'Slight delay' 中的 't' 与 'd' 连接 /slaɪt dɪˈleɪ/。'Due to an unexpected' 中的 'o' 与 'an' 连接，'d' 与 'unexpected' 连接 /duː tu ən ʌnɪkˈspɛktɪd/。'Back on track' 中的 'k' 与 'on' 连接 /bæk ɑːn træk/。'End of day' 中的 'd' 与 'of' 连接 /ɛnd əv deɪ/。'Sprint as planned' 中的 't' 与 'as' 连接，'s' 与 'planned' 连接 /sprɪnt æz plænd/。"
+  },
+  {
+    "id": "p82",
+    "category": "Everyday Small Talk / IELTS Speaking Part 1",
+    "title": "Discussing Your Hobbies and Leisure Time",
+    "level": "Intermediate",
+    "scenario": "A new colleague or acquaintance asks you about what you like to do in your free time. Describe your main hobbies and why you enjoy them. Focus on modern leisure activities, potentially involving technology or digital platforms.",
+    "textbook": "I like to play games. I play games on my phone. It is fun. I also watch videos.",
+    "textbookCritique": "This response is very short and lacks detail, specific vocabulary, and enthusiasm. It doesn't explain *why* these activities are enjoyable or provide enough information for a natural conversation, which is important for IELTS and real-life small talk.",
+    "natural": "That's a great question! Lately, I've really been into digital photography, especially landscape and urban exploration shots. I spend quite a bit of my free time either out with my camera or editing photos on my computer. There's something incredibly satisfying about capturing a fleeting moment or finding a unique perspective on an ordinary scene. Besides that, I'm also a big fan of online board games – it's a fantastic way to connect with friends who live far away and unwind after a busy week. It really helps me clear my head.",
+    "chunks": [
+      "really been into",
+      "digital photography",
+      "landscape and urban exploration shots",
+      "spend quite a bit of my free time",
+      "out with my camera",
+      "editing photos on my computer",
+      "incredibly satisfying about capturing a fleeting moment",
+      "finding a unique perspective on an ordinary scene",
+      "big fan of online board games",
+      "fantastic way to connect with friends who live far away",
+      "unwind after a busy week",
+      "helps me clear my head"
+    ],
+    "connectedSpeech": "'Great question' links 't' to 'q' /ɡreɪt ˈkwɛstʃən/. 'Been into' links 'n' to 'in' /bɪn ˈɪntuː/. 'Quite a bit of' links 't' to 'a' and 't' to 'of' /kwaɪt ə bɪt əv/. 'Out with my camera' links 't' to 'w' /aʊt wɪð maɪ ˈkæmərə/. 'Something incredibly satisfying' links 'g' to 'in' /sʌmθɪŋ ɪnˈkrɛdəbli ˈsætɪsfaɪɪŋ/. 'Capturing a fleeting moment' links 'g' to 'a' /kæptʃərɪŋ ə ˈfliːtɪŋ ˈmoʊmənt/. 'Big fan of' links 'g' to 'f' /bɪɡ fæn əv/. 'Connect with friends' links 't' to 'w' and 'th' to 'fr' /kəˈnɛkt wɪð frɛndz/. 'Unwind after' links 'd' to 'a' /ʌnˈwaɪnd ˈæftər/. 'Helps me clear my head' links 's' to 'm' /hɛlps mi klɪər maɪ hɛd/.",
+    "listenText": "That's a great question! Lately, I've really been into digital photography, especially landscape and urban exploration shots. I spend quite a bit of my free time either out with my camera or editing photos on my computer. There's something incredibly satisfying about capturing a fleeting moment or finding a unique perspective on an ordinary scene. Besides that, I'm also a big fan of online board games – it's a fantastic way to connect with friends who live far away and unwind after a busy week. It really helps me clear my head.",
+    "title_cn": "讨论你的爱好和休闲时间",
+    "category_cn": "日常闲聊 / 雅思口语第一部分",
+    "scenario_cn": "一位新同事或熟人问你空闲时喜欢做什么。描述你的主要爱好以及你喜欢它们的原因。侧重于现代休闲活动，可能涉及技术或数字平台。",
+    "textbookCritique_cn": "这个回答非常简短，缺乏细节、具体词汇和热情。它没有解释为什么这些活动令人愉快，也没有提供足够的信息来进行自然的对话，这对于雅思和现实生活中的闲聊都很重要。",
+    "natural_cn": "这是个很好的问题！最近我真的很喜欢数字摄影，特别是风景和城市探索的照片。我大部分空闲时间不是带着相机出去，就是在电脑上编辑照片。捕捉稍纵即逝的瞬间，或者从寻常场景中找到独特的视角，这真的让我感到无比满足。除此之外，我也是在线棋盘游戏的忠实粉丝——这是与远方朋友联系并在忙碌一周后放松身心的绝佳方式。它真的能帮助我理清思绪。",
+    "chunks_cn": [
+      {
+        "en": "really been into",
+        "cn": "真的很喜欢"
+      },
+      {
+        "en": "digital photography",
+        "cn": "数字摄影"
+      },
+      {
+        "en": "landscape and urban exploration shots",
+        "cn": "风景和城市探索的照片"
+      },
+      {
+        "en": "spend quite a bit of my free time",
+        "cn": "大部分空闲时间"
+      },
+      {
+        "en": "out with my camera",
+        "cn": "带着相机出去"
+      },
+      {
+        "en": "editing photos on my computer",
+        "cn": "在电脑上编辑照片"
+      },
+      {
+        "en": "incredibly satisfying about capturing a fleeting moment",
+        "cn": "捕捉稍纵即逝的瞬间让我感到无比满足"
+      },
+      {
+        "en": "finding a unique perspective on an ordinary scene",
+        "cn": "从寻常场景中找到独特的视角"
+      },
+      {
+        "en": "big fan of online board games",
+        "cn": "在线棋盘游戏的忠实粉丝"
+      },
+      {
+        "en": "fantastic way to connect with friends who live far away",
+        "cn": "与远方朋友联系的绝佳方式"
+      },
+      {
+        "en": "unwind after a busy week",
+        "cn": "在忙碌一周后放松身心"
+      },
+      {
+        "en": "helps me clear my head",
+        "cn": "帮助我理清思绪"
+      }
+    ],
+    "connectedSpeech_cn": "'Great question' /ɡreɪt ˈkwɛstʃən/ 中的 't' 与 'q' 连接。'Been into' 中的 'n' 与 'in' 连接 /bɪn ˈɪntuː/。'Quite a bit of' 中的 't' 与 'a' 连接，'t' 与 'of' 连接 /kwaɪt ə bɪt əv/。'Out with my camera' 中的 't' 与 'w' 连接 /aʊt wɪð maɪ ˈkæmərə/。'Something incredibly satisfying' 中的 'g' 与 'in' 连接 /sʌmθɪŋ ɪnˈkrɛdəbli ˈsætɪsfaɪɪŋ/。'Capturing a fleeting moment' 中的 'g' 与 'a' 连接 /kæptʃərɪŋ ə ˈfliːtɪŋ ˈmoʊmənt/。'Big fan of' 中的 'g' 与 'f' 连接 /bɪɡ fæn əv/。'Connect with friends' 中的 't' 与 'w' 连接，'th' 与 'fr' 连接 /kəˈnɛkt wɪð frɛndz/。'Unwind after' 中的 'd' 与 'a' 连接 /ʌnˈwaɪnd ˈæftər/。'Helps me clear my head' 中的 's' 与 'm' 连接 /hɛlps mi klɪər maɪ hɛd/。"
+  },
+  {
+    "id": "p83",
+    "category": "Remote Job Interview Practice",
+    "title": "Discussing a Professional Challenge or Failure",
+    "level": "Advanced",
+    "scenario": "During a remote job interview, the interviewer asks, \"Can you tell me about a time you failed or made a significant mistake in a professional setting? What did you learn from it?\"",
+    "textbook": "I made a mistake once. I forgot to send an email. It was bad. I learned to check my email.",
+    "textbookCritique": "This answer is far too vague and lacks the depth and professionalism expected in an interview. It doesn't describe the situation, its impact, the steps taken to resolve it, or profound lessons learned. It presents a trivial error rather than a significant professional challenge.",
+    "natural": "Certainly. A few years ago, when I was managing a project with a tight deadline, I underestimated the complexity of a particular module. I was so focused on hitting the initial milestones that I didn't push back enough on the client's request for an additional feature late in the cycle. This led to resource overstretch and ultimately a delay in the final delivery, albeit a minor one. The key takeaway for me was the importance of proactive expectation management and truly understanding the ripple effect of scope creep. Since then, I've implemented a more rigorous change request process and become much more assertive in safeguarding project timelines, which has significantly improved our team's predictability and client satisfaction.",
+    "chunks": [
+      "managing a project with a tight deadline",
+      "underestimated the complexity of a particular module",
+      "focused on hitting the initial milestones",
+      "didn't push back enough",
+      "client's request for an additional feature",
+      "late in the cycle",
+      "led to resource overstretch",
+      "ultimately a delay in the final delivery",
+      "albeit a minor one",
+      "key takeaway",
+      "importance of proactive expectation management",
+      "truly understanding the ripple effect of scope creep",
+      "implemented a more rigorous change request process",
+      "much more assertive in safeguarding project timelines",
+      "significantly improved our team's predictability and client satisfaction"
+    ],
+    "connectedSpeech": "'Certainly a few years ago' links 'y' to 'a' /sɜːrtənli ə fjuː jɪərz əˈɡoʊ/. 'Project with a tight deadline' links 't' to 'w' /prɑːdʒɛkt wɪð ə taɪt ˈdɛdlaɪn/. 'Underestimated the complexity' links 'd' to 'the' and 't' to 'com' /ʌndərˈɛstəmeɪtɪd ðə kəmˈplɛksɪti/. 'Focused on hitting' links 'd' to 'on' and 'n' to 'hitting' /foʊkəst ɑːn ˈhɪtɪŋ/. 'Push back enough' links 'sh' to 'b' and 'k' to 'e' /pʊʃ bæk ɪˈnʌf/. 'Request for an additional' links 't' to 'for' and 'r' to 'an' /rɪˈkwɛst fər ən əˈdɪʃənəl/. 'Led to resource' links 'd' to 'to' and 's' to 'r' /lɛd tu ˈriːsɔːrs/. 'Takeaway for me' links 'y' to 'f' /teɪkəˈweɪ fɔr miː/. 'Importance of proactive' links 's' to 'of' /ɪmˈpɔːrtəns əv proʊˈæktɪv/. 'Ripple effect of scope creep' links 'e' to 'f' and 'f' to 'of' /rɪpl ɪˈfɛkt əv skoʊp kriːp/. 'Implemented a more rigorous' links 'd' to 'a' and 's' to 'a' /ɪmplɪmɛntɪd ə mɔːr ˈrɪɡərəs/. 'Client satisfaction' links 't' to 's' /klaɪənt sætɪsˈfækʃən/.",
+    "listenText": "Certainly. A few years ago, when I was managing a project with a tight deadline, I underestimated the complexity of a particular module. I was so focused on hitting the initial milestones that I didn't push back enough on the client's request for an additional feature late in the cycle. This led to resource overstretch and ultimately a delay in the final delivery, albeit a minor one. The key takeaway for me was the importance of proactive expectation management and truly understanding the ripple effect of scope creep. Since then, I've implemented a more rigorous change request process and become much more assertive in safeguarding project timelines, which has significantly improved our team's predictability and client satisfaction.",
+    "title_cn": "讨论专业挑战或失败",
+    "category_cn": "远程求职面试练习",
+    "scenario_cn": "在一次远程求职面试中，面试官问道：“您能谈谈您在专业环境中失败或犯过重大错误的一次经历吗？您从中学习到了什么？”",
+    "textbookCritique_cn": "这个回答过于模糊，缺乏面试中所需的深度和专业性。它没有描述情况、影响、解决措施或深刻的教训。它呈现的是一个微不足道的错误，而非重大的专业挑战。",
+    "natural_cn": "当然。几年前，当我管理一个时间紧迫的项目时，我低估了一个特定模块的复杂性。我当时过于专注于达到初始里程碑，以至于没有充分拒绝客户在项目后期提出的额外功能请求。这导致了资源超负荷，最终造成了交付延迟，尽管只是轻微的延迟。对我来说，关键的收获是主动管理期望的重要性，以及真正理解范围蔓延的连锁反应。从那以后，我实施了更严格的变更请求流程，并在维护项目时间表方面变得更加果断，这显著提高了我们团队的可预测性和客户满意度。",
+    "chunks_cn": [
+      {
+        "en": "managing a project with a tight deadline",
+        "cn": "管理一个时间紧迫的项目"
+      },
+      {
+        "en": "underestimated the complexity of a particular module",
+        "cn": "低估了一个特定模块的复杂性"
+      },
+      {
+        "en": "focused on hitting the initial milestones",
+        "cn": "专注于达到初始里程碑"
+      },
+      {
+        "en": "didn't push back enough",
+        "cn": "没有充分拒绝"
+      },
+      {
+        "en": "client's request for an additional feature",
+        "cn": "客户提出的额外功能请求"
+      },
+      {
+        "en": "late in the cycle",
+        "cn": "在项目后期"
+      },
+      {
+        "en": "led to resource overstretch",
+        "cn": "导致了资源超负荷"
+      },
+      {
+        "en": "ultimately a delay in the final delivery",
+        "cn": "最终造成了交付延迟"
+      },
+      {
+        "en": "albeit a minor one",
+        "cn": "尽管只是轻微的延迟"
+      },
+      {
+        "en": "key takeaway",
+        "cn": "关键的收获"
+      },
+      {
+        "en": "importance of proactive expectation management",
+        "cn": "主动管理期望的重要性"
+      },
+      {
+        "en": "truly understanding the ripple effect of scope creep",
+        "cn": "真正理解范围蔓延的连锁反应"
+      },
+      {
+        "en": "implemented a more rigorous change request process",
+        "cn": "实施了更严格的变更请求流程"
+      },
+      {
+        "en": "much more assertive in safeguarding project timelines",
+        "cn": "在维护项目时间表方面变得更加果断"
+      },
+      {
+        "en": "significantly improved our team's predictability and client satisfaction",
+        "cn": "显著提高了我们团队的可预测性和客户满意度"
+      }
+    ],
+    "connectedSpeech_cn": "'Certainly a few years ago' /sɜːrtənli ə fjuː jɪərz əˈɡoʊ/ 中的 'y' 与 'a' 连接。'Project with a tight deadline' 中的 't' 与 'w' 连接 /prɑːdʒɛkt wɪð ə taɪt ˈdɛdlaɪn/。'Underestimated the complexity' 中的 'd' 与 'the' 连接，'t' 与 'com' 连接 /ʌndərˈɛstəmeɪtɪd ðə kəmˈplɛksɪti/。'Focused on hitting' 中的 'd' 与 'on' 连接，'n' 与 'hitting' 连接 /foʊkəst ɑːn ˈhɪtɪŋ/。'Push back enough' 中的 'sh' 与 'b' 连接，'k' 与 'e' 连接 /pʊʃ bæk ɪˈnʌf/。'Request for an additional' 中的 't' 与 'for' 连接，'r' 与 'an' 连接 /rɪˈkwɛst fər ən əˈdɪʃənəl/。'Led to resource' 中的 'd' 与 'to' 连接，'s' 与 'r' 连接 /lɛd tu ˈriːsɔːrs/。'Takeaway for me' 中的 'y' 与 'f' 连接 /teɪkəˈweɪ fɔr miː/。'Importance of proactive' 中的 's' 与 'of' 连接 /ɪmˈpɔːrtəns əv proʊˈæktɪv/. 'Ripple effect of scope creep' 中的 'e' 与 'f' 连接，'f' 与 'of' 连接 /rɪpl ɪˈfɛkt əv skoʊp kriːp/。'Implemented a more rigorous' 中的 'd' 与 'a' 连接，'s' 与 'a' 连接 /ɪmplɪmɛntɪd ə mɔːr ˈrɪɡərəs/。'Client satisfaction' 中的 't' 与 's' 连接 /klaɪənt sætɪsˈfækʃən/。"
+  }
+]
+```
