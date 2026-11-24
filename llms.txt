@@ -2903,3 +2903,256 @@ SpeakReady bridges this gap with:
   }
 ]
 ```
+
+
+## 2026-11-24 (auto)
+```json
+[
+  {
+    "id": "p84",
+    "category": "Workplace Communication",
+    "title": "Politely Declining New Tasks or Requesting Help",
+    "level": "Advanced",
+    "scenario": "Your manager assigns you a new urgent task, but you are already at capacity with existing projects. How do you professionally communicate your current workload and negotiate priorities or seek assistance?",
+    "textbook": "I can't do this. I have too much work. Someone else should do it.",
+    "textbookCritique": "This response is overly blunt, unprofessional, and doesn't offer any solutions or demonstrate a willingness to collaborate. It also lacks the respectful tone expected in a professional setting.",
+    "natural": "Thanks for thinking of me for this, [Manager's Name]. I understand this new task is urgent. Currently, I'm deep into [Project A] and [Project B], both of which are high-priority with deadlines approaching. Adding this new task right now would put a significant strain on my capacity and potentially impact the quality or timely delivery of my existing commitments. Would you like me to reprioritize, or could we explore if [Colleague's Name] or another team member might have the bandwidth to tackle this in the short term? I'm happy to help strategize if needed.",
+    "chunks": [
+      "Thanks for thinking of me for this",
+      "I understand this new task is urgent",
+      "Currently, I'm deep into",
+      "high-priority with deadlines approaching",
+      "put a significant strain on my capacity",
+      "potentially impact the quality or timely delivery",
+      "existing commitments",
+      "Would you like me to reprioritize",
+      "could we explore if",
+      "might have the bandwidth to tackle this",
+      "in the short term",
+      "happy to help strategize if needed"
+    ],
+    "connectedSpeech": "'Thinking of me for this' links 'g' to 'o' and 'f' to 'or' /θɪŋkɪŋ əv miː fər ðɪs/. 'Task is urgent' links 'k' to 'is' /tæsk ɪz ˈɜːrdʒənt/. 'Deep into' links 'p' to 'i' /diːp ˈɪntuː/. 'Both of which' links 'th' to 'o' /boʊθ əv wɪtʃ/. 'Deadlines approaching' links 's' to 'a' /dɛdlaɪnz əˈproʊtʃɪŋ/. 'Put a significant strain' links 't' to 'a' and 't' to 's' /pʊt ə sɪɡˈnɪfɪkənt streɪn/. 'Impact the quality or timely delivery' links 't' to 'th' and 'y' to 'o' /ɪmˈpækt ðə ˈkwɑːlɪti ɔːr ˈtaɪmli dɪˈlɪvəri/. 'Existing commitments' links 'g' to 'c' /ɪɡˈzɪstɪŋ kəˈmɪtmənts/. 'Explore if' links 'r' to 'i' /ɪkˈsplɔːr ɪf/. 'Might have the bandwidth' links 't' to 'h' and 'v' to 'th' /maɪt hæv ðə ˈbændwɪdθ/. 'Tackle this in the short term' links 's' to 'i' /tækl ðɪs ɪn ðə ʃɔːrt tɜːrm/. 'Strategize if needed' links 'z' to 'i' /strætəˈdʒaɪz ɪf ˈniːdɪd/.",
+    "listenText": "Thanks for thinking of me for this, [Manager's Name]. I understand this new task is urgent. Currently, I'm deep into [Project A] and [Project B], both of which are high-priority with deadlines approaching. Adding this new task right now would put a significant strain on my capacity and potentially impact the quality or timely delivery of my existing commitments. Would you like me to reprioritize, or could we explore if [Colleague's Name] or another team member might have the bandwidth to tackle this in the short term? I'm happy to help strategize if needed.",
+    "title_cn": "礼貌地拒绝新任务或寻求帮助",
+    "category_cn": "职场沟通",
+    "scenario_cn": "你的经理分配给你一项新的紧急任务，但你目前的现有项目已经满负荷。你如何专业地沟通你当前的工作量，并协商优先级或寻求帮助？",
+    "textbookCritique_cn": "这个回答过于生硬、不专业，没有提供任何解决方案，也没有表现出合作意愿。它也缺乏专业场合应有的尊重语气。",
+    "natural_cn": "感谢您考虑到我来处理这项任务，[经理姓名]。我理解这项新任务很紧急。目前，我正在深入处理[项目A]和[项目B]，这两个都是高优先级的，并且截止日期临近。现在增加这项新任务将给我的工作能力带来显著压力，并可能影响我现有承诺的质量或按时交付。您希望我重新安排优先级，还是我们可以探讨一下[同事姓名]或团队其他成员是否有能力在短期内承担这项任务？如果需要，我很乐意协助制定策略。",
+    "chunks_cn": [
+      {
+        "en": "Thanks for thinking of me for this",
+        "cn": "感谢您考虑到我来处理这项任务"
+      },
+      {
+        "en": "I understand this new task is urgent",
+        "cn": "我理解这项新任务很紧急"
+      },
+      {
+        "en": "Currently, I'm deep into",
+        "cn": "目前，我正在深入处理"
+      },
+      {
+        "en": "high-priority with deadlines approaching",
+        "cn": "高优先级的，并且截止日期临近"
+      },
+      {
+        "en": "put a significant strain on my capacity",
+        "cn": "给我的工作能力带来显著压力"
+      },
+      {
+        "en": "potentially impact the quality or timely delivery",
+        "cn": "可能影响质量或按时交付"
+      },
+      {
+        "en": "existing commitments",
+        "cn": "现有承诺"
+      },
+      {
+        "en": "Would you like me to reprioritize",
+        "cn": "您希望我重新安排优先级"
+      },
+      {
+        "en": "could we explore if",
+        "cn": "我们可以探讨一下是否"
+      },
+      {
+        "en": "might have the bandwidth to tackle this",
+        "cn": "是否有能力承担这项任务"
+      },
+      {
+        "en": "in the short term",
+        "cn": "在短期内"
+      },
+      {
+        "en": "happy to help strategize if needed",
+        "cn": "如果需要，我很乐意协助制定策略"
+      }
+    ],
+    "connectedSpeech_cn": "'Thinking of me for this' /θɪŋkɪŋ əv miː fər ðɪs/ 中的 'g' 与 'o' 连接，'f' 与 'or' 连接。'Task is urgent' /tæsk ɪz ˈɜːrdʒənt/ 中的 'k' 与 'is' 连接。'Deep into' /diːp ˈɪntuː/ 中的 'p' 与 'i' 连接。'Both of which' /boʊθ əv wɪtʃ/ 中的 'th' 与 'o' 连接。'Deadlines approaching' /dɛdlaɪnz əˈproʊtʃɪŋ/ 中的 's' 与 'a' 连接。'Put a significant strain' /pʊt ə sɪɡˈnɪfɪkənt streɪn/ 中的 't' 与 'a' 连接，'t' 与 's' 连接。'Impact the quality or timely delivery' /ɪmˈpækt ðə ˈkwɑːlɪti ɔːr ˈtaɪmli dɪˈlɪvəri/ 中的 't' 与 'th' 连接，'y' 与 'o' 连接。'Existing commitments' /ɪɡˈzɪstɪŋ kəˈmɪtmənts/ 中的 'g' 与 'c' 连接。'Explore if' /ɪkˈsplɔːr ɪf/ 中的 'r' 与 'i' 连接。'Might have the bandwidth' /maɪt hæv ðə ˈbændwɪdθ/ 中的 't' 与 'h' 连接，'v' 与 'th' 连接。'Tackle this in the short term' /tækl ðɪs ɪn ðə ʃɔːrt tɜːrm/ 中的 's' 与 'i' 连接。'Strategize if needed' /strætəˈdʒaɪz ɪf ˈniːdɪd/ 中的 'z' 与 'i' 连接。"
+  },
+  {
+    "id": "p85",
+    "category": "Remote Job Interview Practice",
+    "title": "Discussing Your Future Career Aspirations",
+    "level": "Advanced",
+    "scenario": "During a remote job interview, the interviewer asks, \"Where do you see yourself in five years?\"",
+    "textbook": "I want to be a manager. I want to make more money. I want a bigger title.",
+    "textbookCritique": "This answer sounds self-serving and doesn't connect your aspirations to the company's goals or demonstrate a genuine interest in long-term growth within the organization. It lacks professionalism and strategic thinking.",
+    "natural": "That's an excellent question. In five years, I envision myself having significantly contributed to a company like yours, not just through my direct responsibilities but also by taking on more strategic projects and perhaps even mentoring junior team members. I'm keen to deepen my expertise in [specific area relevant to the role/company] and explore opportunities where I can leverage my skills to drive greater impact. Ultimately, I aim to be in a role where I'm continually challenged, learning, and contributing to the organization's long-term success, ideally growing into a leadership position that aligns with my strengths in [relevant skill, e.g., project management, innovation].",
+    "chunks": [
+      "That's an excellent question",
+      "I envision myself having significantly contributed",
+      "a company like yours",
+      "through my direct responsibilities",
+      "taking on more strategic projects",
+      "mentoring junior team members",
+      "keen to deepen my expertise in",
+      "explore opportunities where I can leverage my skills",
+      "drive greater impact",
+      "Ultimately, I aim to be in a role where I'm continually challenged",
+      "contributing to the organization's long-term success",
+      "ideally growing into a leadership position",
+      "aligns with my strengths in"
+    ],
+    "connectedSpeech": "'That's an excellent question' links 's' to 'an' and 't' to 'q' /ðæts ən ˈɛksələnt ˈkwɛstʃən/. 'Envision myself having' links 'n' to 'm' and 'f' to 'h' /ɪnˈvɪʒən maɪˈsɛlf ˈhævɪŋ/. 'Contributed to a company' links 'd' to 't' /kənˈtrɪbjuːtɪd tuː ə ˈkʌmpəni/. 'Direct responsibilities but also' links 't' to 'r' and 's' to 'b' /dəˈrɛkt rɪˌspɑːnsɪˈbɪlətiz bʌt ˈɔːlsoʊ/. 'Strategic projects and perhaps' links 'c' to 't' and 's' to 'a' /strəˈtiːdʒɪk ˈprɑːdʒɛkts ənd pərˈhæps/. 'Mentoring junior team members' links 'g' to 'j' /mɛntɔːrɪŋ ˈdʒuːniər tiːm ˈmɛmbərz/. 'Keen to deepen my expertise in' links 'n' to 't' and 'p' to 'm' /kiːn tuː ˈdiːpən maɪ ˌɛkspərˈtiːz ɪn/. 'Leverage my skills to drive' links 'j' to 'm' /ˈlɛvərɪdʒ maɪ skɪlz tuː draɪv/. 'Greater impact ultimately' links 'r' to 'i' /ɡreɪtər ˈɪmpækt ˈʌltəmətli/. 'Aim to be in a role' links 'm' to 't' and 'n' to 'a' /eɪm tuː biː ɪn ə roʊl/. 'Continually challenged learning and contributing' links 'd' to 'l' and 'g' to 'a' /kənˈtɪnjuːəli ˈtʃælɪndʒd ˈlɜːrnɪŋ ənd kənˈtrɪbjuːtɪŋ/. 'Organization's long-term success ideally' links 'z' to 'l' and 's' to 'i' /ˌɔːrɡənəˈzeɪʃənz lɔːŋ tɜːrm səkˈsɛs aɪˈdiːəli/. 'Growing into a leadership position' links 'g' to 'i' and 'p' to 'o' /ɡroʊɪŋ ˈɪntuː ə ˈliːdərʃɪp pəˈzɪʃən/. 'Aligns with my strengths in' links 'z' to 'w' and 's' to 'i' /əˈlaɪnz wɪθ maɪ strɛŋθs ɪn/.",
+    "listenText": "That's an excellent question. In five years, I envision myself having significantly contributed to a company like yours, not just through my direct responsibilities but also by taking on more strategic projects and perhaps even mentoring junior team members. I'm keen to deepen my expertise in [specific area relevant to the role/company] and explore opportunities where I can leverage my skills to drive greater impact. Ultimately, I aim to be in a role where I'm continually challenged, learning, and contributing to the organization's long-term success, ideally growing into a leadership position that aligns with my strengths in [relevant skill, e.g., project management, innovation].",
+    "title_cn": "讨论你的未来职业抱负",
+    "category_cn": "远程求职面试练习",
+    "scenario_cn": "在一次远程求职面试中，面试官问道：“您认为您五年后会在哪里？”",
+    "textbookCritique_cn": "这个回答听起来过于自私，没有将你的抱负与公司的目标联系起来，也没有表现出在组织内长期成长的真正兴趣。它缺乏专业性和战略性思维。",
+    "natural_cn": "这是一个很好的问题。在五年内，我设想自己能为贵公司做出重大贡献，不仅通过我的直接职责，还能通过承担更多战略性项目，甚至指导初级团队成员。我渴望在[与职位/公司相关的特定领域]深化我的专业知识，并探索能够利用我的技能产生更大影响的机会。最终，我的目标是担任一个能让我持续接受挑战、不断学习并为组织的长期成功做出贡献的职位，理想情况下是成长为一个与我在[相关技能，例如项目管理、创新]方面的优势相符的领导职位。",
+    "chunks_cn": [
+      {
+        "en": "That's an excellent question",
+        "cn": "这是一个很好的问题"
+      },
+      {
+        "en": "I envision myself having significantly contributed",
+        "cn": "我设想自己能做出重大贡献"
+      },
+      {
+        "en": "a company like yours",
+        "cn": "像贵公司这样的企业"
+      },
+      {
+        "en": "through my direct responsibilities",
+        "cn": "通过我的直接职责"
+      },
+      {
+        "en": "taking on more strategic projects",
+        "cn": "承担更多战略性项目"
+      },
+      {
+        "en": "mentoring junior team members",
+        "cn": "指导初级团队成员"
+      },
+      {
+        "en": "keen to deepen my expertise in",
+        "cn": "渴望在...深化我的专业知识"
+      },
+      {
+        "en": "explore opportunities where I can leverage my skills",
+        "cn": "探索能够利用我的技能的机会"
+      },
+      {
+        "en": "drive greater impact",
+        "cn": "产生更大影响"
+      },
+      {
+        "en": "Ultimately, I aim to be in a role where I'm continually challenged",
+        "cn": "最终，我的目标是担任一个能让我持续接受挑战的职位"
+      },
+      {
+        "en": "contributing to the organization's long-term success",
+        "cn": "为组织的长期成功做出贡献"
+      },
+      {
+        "en": "ideally growing into a leadership position",
+        "cn": "理想情况下是成长为一个领导职位"
+      },
+      {
+        "en": "aligns with my strengths in",
+        "cn": "与我在...方面的优势相符"
+      }
+    ],
+    "connectedSpeech_cn": "'That's an excellent question' /ðæts ən ˈɛksələnt ˈkwɛstʃən/ 中的 's' 与 'an' 连接，'t' 与 'q' 连接。'Envision myself having' /ɪnˈvɪʒən maɪˈsɛlf ˈhævɪŋ/ 中的 'n' 与 'm' 连接，'f' 与 'h' 连接。'Contributed to a company' /kənˈtrɪbjuːtɪd tuː ə ˈkʌmpəni/ 中的 'd' 与 't' 连接。'Direct responsibilities but also' /dəˈrɛkt rɪˌspɑːnsɪˈbɪlətiz bʌt ˈɔːlsoʊ/ 中的 't' 与 'r' 连接，'s' 与 'b' 连接。'Strategic projects and perhaps' /strəˈtiːdʒɪk ˈprɑːdʒɛkts ənd pərˈhæps/ 中的 'c' 与 't' 连接，'s' 与 'a' 连接。'Mentoring junior team members' /mɛntɔːrɪŋ ˈdʒuːniər tiːm ˈmɛmbərz/ 中的 'g' 与 'j' 连接。'Keen to deepen my expertise in' /kiːn tuː ˈdiːpən maɪ ˌɛkspərˈtiːz ɪn/ 中的 'n' 与 't' 连接，'p' 与 'm' 连接。'Leverage my skills to drive' /ˈlɛvərɪdʒ maɪ skɪlz tuː draɪv/ 中的 'j' 与 'm' 连接。'Greater impact ultimately' /ɡreɪtər ˈɪmpækt ˈʌltəmətli/ 中的 'r' 与 'i' 连接。'Aim to be in a role' /eɪm tuː biː ɪn ə roʊl/ 中的 'm' 与 't' 连接，'n' 与 'a' 连接。'Continually challenged learning and contributing' /kənˈtɪnjuːəli ˈtʃælɪndʒd ˈlɜːrnɪŋ ənd kənˈtrɪbjuːtɪŋ/ 中的 'd' 与 'l' 连接，'g' 与 'a' 连接。'Organization's long-term success ideally' /ˌɔːrɡənəˈzeɪʃənz lɔːŋ tɜːrm səkˈsɛs aɪˈdiːəli/ 中的 'z' 与 'l' 连接，'s' 与 'i' 连接。'Growing into a leadership position' /ɡroʊɪŋ ˈɪntuː ə ˈliːdərʃɪp pəˈzɪʃən/ 中的 'g' 与 'i' 连接，'p' 与 'o' 连接。'Aligns with my strengths in' /əˈlaɪnz wɪθ maɪ strɛŋθs ɪn/ 中的 'z' 与 'w' 连接，'s' 与 'i' 连接。"
+  },
+  {
+    "id": "p86",
+    "category": "Everyday Small Talk & Socializing",
+    "title": "Discussing Popular Streaming Shows and Movies",
+    "level": "Intermediate",
+    "scenario": "You're chatting with a new colleague during a virtual coffee break, and the conversation naturally shifts to what you've been watching lately. They ask, \"Have you seen anything good on Netflix/streaming lately?\"",
+    "textbook": "Yes. I watched a show. It was good. You should watch it.",
+    "textbookCritique": "This response is far too brief and doesn't provide enough detail or open-endedness to encourage further conversation. It lacks engagement and specific recommendations, making it difficult for the other person to continue the chat.",
+    "natural": "Oh, definitely! I just finished 'The Crown' – the latest season was absolutely captivating, really delving into some fascinating historical moments. And before that, I got hooked on 'Squid Game' – talk about a wild ride, totally unexpected twists! What about you? Have you stumbled upon any hidden gems or binged anything recently that you'd recommend?",
+    "chunks": [
+      "Oh, definitely!",
+      "just finished 'The Crown'",
+      "the latest season was absolutely captivating",
+      "really delving into some fascinating historical moments",
+      "got hooked on 'Squid Game'",
+      "talk about a wild ride",
+      "totally unexpected twists",
+      "What about you?",
+      "stumbled upon any hidden gems",
+      "binged anything recently",
+      "that you'd recommend"
+    ],
+    "connectedSpeech": "'Oh, definitely' links 'h' to 'd' /oʊ ˈdɛfɪnɪtli/. 'Just finished' links 't' to 'f' /dʒʌst ˈfɪnɪʃt/. 'Latest season was absolutely' links 't' to 's' and 's' to 'w' /leɪtɪst siːzn wəz ˈæbsəluːtli/. 'Captivating really delving' links 'g' to 'r' /kæptɪˌveɪtɪŋ ˈrɪəli ˈdɛlvɪŋ/. 'Into some fascinating historical' links 'u' to 's' /ɪntuː sʌm ˈfæsɪneɪtɪŋ hɪˈstɔːrɪkl/. 'Got hooked on' links 't' to 'h' and 'd' to 'o' /ɡɑːt hʊkt ɑːn/. 'Wild ride' links 'd' to 'r' /waɪld raɪd/. 'Totally unexpected twists' links 'y' to 'u' /toʊtəli ˌʌnɪkˈspɛktɪd twɪsts/. 'What about you' links 't' to 'a' and 't' to 'y' /wɑːt əˈbaʊt juː/. 'Stumbled upon any hidden' links 'd' to 'u' and 'n' to 'a' /stʌmbld əˈpɑːn ˈɛni ˈhɪdn/. 'Binged anything recently' links 'd' to 'a' /bɪndʒd ˈɛnɪθɪŋ ˈriːsəntli/. 'That you'd recommend' links 't' to 'y' /ðæt juːd ˌrɛkəˈmɛnd/.",
+    "listenText": "Oh, definitely! I just finished 'The Crown' – the latest season was absolutely captivating, really delving into some fascinating historical moments. And before that, I got hooked on 'Squid Game' – talk about a wild ride, totally unexpected twists! What about you? Have you stumbled upon any hidden gems or binged anything recently that you'd recommend?",
+    "title_cn": "讨论流行的流媒体节目和电影",
+    "category_cn": "日常闲聊和社交",
+    "scenario_cn": "你正在与一位新同事进行虚拟咖啡休息时间的聊天，话题自然地转向了你最近在看什么。他们问：“你最近在Netflix/流媒体上看到什么好看的了吗？”",
+    "textbookCritique_cn": "这个回答过于简短，没有提供足够的细节或开放性来鼓励进一步的对话。它缺乏参与感和具体的推荐，使得对方难以继续聊天。",
+    "natural_cn": "哦，当然了！我刚看完《王冠》——最新一季绝对引人入胜，深入探讨了一些迷人的历史时刻。在那之前，我迷上了《鱿鱼游戏》——那真是一场疯狂的旅程，完全出乎意料的转折！你呢？你最近有没有偶然发现什么宝藏剧集或狂刷了什么值得推荐的吗？",
+    "chunks_cn": [
+      {
+        "en": "Oh, definitely!",
+        "cn": "哦，当然了！"
+      },
+      {
+        "en": "just finished 'The Crown'",
+        "cn": "刚看完《王冠》"
+      },
+      {
+        "en": "the latest season was absolutely captivating",
+        "cn": "最新一季绝对引人入胜"
+      },
+      {
+        "en": "really delving into some fascinating historical moments",
+        "cn": "深入探讨了一些迷人的历史时刻"
+      },
+      {
+        "en": "got hooked on 'Squid Game'",
+        "cn": "迷上了《鱿鱼游戏》"
+      },
+      {
+        "en": "talk about a wild ride",
+        "cn": "那真是一场疯狂的旅程"
+      },
+      {
+        "en": "totally unexpected twists",
+        "cn": "完全出乎意料的转折"
+      },
+      {
+        "en": "What about you?",
+        "cn": "你呢？"
+      },
+      {
+        "en": "stumbled upon any hidden gems",
+        "cn": "偶然发现什么宝藏剧集"
+      },
+      {
+        "en": "binged anything recently",
+        "cn": "狂刷了什么"
+      },
+      {
+        "en": "that you'd recommend",
+        "cn": "值得推荐的"
+      }
+    ],
+    "connectedSpeech_cn": "'Oh, definitely' /oʊ ˈdɛfɪnɪtli/ 中的 'h' 与 'd' 连接。'Just finished' /dʒʌst ˈfɪnɪʃt/ 中的 't' 与 'f' 连接。'Latest season was absolutely' /leɪtɪst siːzn wəz ˈæbsəluːtli/ 中的 't' 与 's' 连接，'s' 与 'w' 连接。'Captivating really delving' /kæptɪˌveɪtɪŋ ˈrɪəli ˈdɛlvɪŋ/ 中的 'g' 与 'r' 连接。'Into some fascinating historical' /ɪntuː sʌm ˈfæsɪneɪtɪŋ hɪˈstɔːrɪkl/ 中的 'u' 与 's' 连接。'Got hooked on' /ɡɑːt hʊkt ɑːn/ 中的 't' 与 'h' 连接，'d' 与 'o' 连接。'Wild ride' /waɪld raɪd/ 中的 'd' 与 'r' 连接。'Totally unexpected twists' /toʊtəli ˌʌnɪkˈspɛktɪd twɪsts/ 中的 'y' 与 'u' 连接。'What about you' /wɑːt əˈbaʊt juː/ 中的 't' 与 'a' 连接，'t' 与 'y' 连接。'Stumbled upon any hidden' /stʌmbld əˈpɑːn ˈɛni ˈhɪdn/ 中的 'd' 与 'u' 连接，'n' 与 'a' 连接。'Binged anything recently' /bɪndʒd ˈɛnɪθɪŋ ˈriːsəntli/ 中的 'd' 与 'a' 连接。'That you'd recommend' /ðæt juːd ˌrɛkəˈmɛnd/ 中的 't' 与 'y' 连接。"
+  }
+]
+```
