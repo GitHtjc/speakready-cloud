@@ -4865,5 +4865,286 @@
       }
     ],
     "connectedSpeech_cn": "'Oh, definitely' /oʊ ˈdɛfɪnɪtli/ 中的 'h' 与 'd' 连接。'Just finished' /dʒʌst ˈfɪnɪʃt/ 中的 't' 与 'f' 连接。'Latest season was absolutely' /leɪtɪst siːzn wəz ˈæbsəluːtli/ 中的 't' 与 's' 连接，'s' 与 'w' 连接。'Captivating really delving' /kæptɪˌveɪtɪŋ ˈrɪəli ˈdɛlvɪŋ/ 中的 'g' 与 'r' 连接。'Into some fascinating historical' /ɪntuː sʌm ˈfæsɪneɪtɪŋ hɪˈstɔːrɪkl/ 中的 'u' 与 's' 连接。'Got hooked on' /ɡɑːt hʊkt ɑːn/ 中的 't' 与 'h' 连接，'d' 与 'o' 连接。'Wild ride' /waɪld raɪd/ 中的 'd' 与 'r' 连接。'Totally unexpected twists' /toʊtəli ˌʌnɪkˈspɛktɪd twɪsts/ 中的 'y' 与 'u' 连接。'What about you' /wɑːt əˈbaʊt juː/ 中的 't' 与 'a' 连接，'t' 与 'y' 连接。'Stumbled upon any hidden' /stʌmbld əˈpɑːn ˈɛni ˈhɪdn/ 中的 'd' 与 'u' 连接，'n' 与 'a' 连接。'Binged anything recently' /bɪndʒd ˈɛnɪθɪŋ ˈriːsəntli/ 中的 'd' 与 'a' 连接。'That you'd recommend' /ðæt juːd ˌrɛkəˈmɛnd/ 中的 't' 与 'y' 连接。"
+  },
+  {
+    "id": "p87",
+    "category": "Remote Job Interview Prompts",
+    "title": "Adapting to AI in Professional Roles",
+    "level": "Advanced",
+    "scenario": "You're in a remote job interview for a project management position. The interviewer asks, \"How do you see artificial intelligence impacting your role, and how do you plan to adapt to these changes?\"",
+    "textbook": "AI is important for my job. I will learn new things to adapt.",
+    "textbookCritique": "This response is overly simplistic and lacks depth. It doesn't demonstrate a nuanced understanding of AI's potential impact on the specific role or offer concrete strategies for adaptation, which an advanced candidate should provide.",
+    "natural": "That's a fantastic question, especially given the current landscape. I actually view AI as a powerful tool for augmentation, rather than replacement. In a project manager role, I anticipate it streamlining administrative tasks, like data analysis or scheduling, freeing me up to focus on higher-level strategic planning, team motivation, and client engagement. My plan to adapt involves continuous learning – perhaps enrolling in specific AI literacy courses, staying updated on industry-specific AI tools, and actively seeking opportunities to integrate AI into workflows to enhance efficiency and decision-making. It's about evolving with the technology.",
+    "chunks": [
+      "That's a fantastic question",
+      "especially given the current landscape",
+      "view AI as a powerful tool for augmentation",
+      "rather than replacement",
+      "anticipate it streamlining administrative tasks",
+      "like data analysis or scheduling",
+      "freeing me up to focus on higher-level strategic planning",
+      "team motivation",
+      "client engagement",
+      "My plan to adapt involves continuous learning",
+      "enrolling in specific AI literacy courses",
+      "staying updated on industry-specific AI tools",
+      "actively seeking opportunities to integrate AI into workflows",
+      "to enhance efficiency and decision-making",
+      "It's about evolving with the technology"
+    ],
+    "connectedSpeech": "'That's a fantastic' links 's' to 'a' /ðæts ə fænˈtæstɪk/. 'Question especially' links 'n' to 'ɪ' /kwɛstʃən ɪˈspɛʃəli/. 'Given the current' links 'n' to 'ð' /ɡɪvən ðə ˈkɜːrənt/. 'Landscape I actually' links 'p' to 'aɪ' /lændˌskeɪp aɪ ˈæktʃuəli/. 'Tool for augmentation' links 'l' to 'f' and 'r' to 'ɔː' /tuːl fɔːr ɔːɡmɛnˈteɪʃən/. 'Rather than replacement' links 'r' to 'ð' /ˌræðər ðæn rɪˈpleɪsmənt/. 'Anticipate it streamlining' links 't' to 'ɪt' /ænˈtɪsɪpeɪt ɪt ˈstriːmlaɪnɪŋ/. 'Freeing me up' links 'ɡ' to 'miː' and 'iː' to 'ʌp' /friːɪŋ miː ʌp/. 'Higher-level strategic' links 'r' to 'l' /haɪər ˈlɛvəl strəˈtiːdʒɪk/. 'Plan to adapt involves' links 'n' to 't' and 't' to 'ə' /plæn tuː əˈdæpt ɪnˈvɒlvz/. 'Courses staying updated' links 'sɪz' to 'steɪɪŋ' and 'd' to 'ʌp' /kɔːrsɪz ˈsteɪɪŋ ˌʌpˈdeɪtɪd/. 'Tools and actively' links 'z' to 'ən' and 'd' to 'æ' /tuːlz ən ˈæktɪvli/. 'Integrate AI into' links 't' to 'eɪ' and 'iː' to 'ɪn' /ɪntɪˌɡreɪt eɪ aɪ ɪntuː/. 'Workflows to enhance' links 'z' to 'tuː' and 'uː' to 'ɪnˈhæns' /wɜːrkˌfloʊz tuː ɪnˈhæns/. 'Evolving with the technology' links 'ɡ' to 'wɪð' and 'ð' to 'ðə' /ɪˈvɒlvɪŋ wɪð ðə tɛkˈnɒlədʒi/.",
+    "listenText": "That's a fantastic question, especially given the current landscape. I actually view AI as a powerful tool for augmentation, rather than replacement. In a project manager role, I anticipate it streamlining administrative tasks, like data analysis or scheduling, freeing me up to focus on higher-level strategic planning, team motivation, and client engagement. My plan to adapt involves continuous learning – perhaps enrolling in specific AI literacy courses, staying updated on industry-specific AI tools, and actively seeking opportunities to integrate AI into workflows to enhance efficiency and decision-making. It's about evolving with the technology.",
+    "title_cn": "适应人工智能在职业角色中的应用",
+    "category_cn": "远程工作面试问题",
+    "scenario_cn": "你正在面试一个远程项目经理职位。面试官问：“你认为人工智能将如何影响你的角色，你又计划如何适应这些变化？”",
+    "textbookCritique_cn": "这个回答过于简单，缺乏深度。它没有展示对人工智能可能对特定角色产生的影响的细致理解，也没有提供具体的适应策略，而这些是一个高级候选人应该提供的。",
+    "natural_cn": "这是一个很棒的问题，尤其是在当前的环境下。我实际上认为人工智能是一种强大的增强工具，而不是替代。在项目经理的角色中，我预计它将简化行政任务，比如数据分析或排程，从而让我有更多时间专注于更高层次的战略规划、团队激励和客户互动。我的适应计划包括持续学习——也许是参加特定的人工智能素养课程，及时了解行业特定的人工智能工具，并积极寻求将人工智能整合到工作流程中的机会，以提高效率和决策能力。这关乎与技术共同发展。",
+    "chunks_cn": [
+      {
+        "en": "That's a fantastic question",
+        "cn": "这是一个很棒的问题"
+      },
+      {
+        "en": "especially given the current landscape",
+        "cn": "尤其是在当前的环境下"
+      },
+      {
+        "en": "view AI as a powerful tool for augmentation",
+        "cn": "认为人工智能是一种强大的增强工具"
+      },
+      {
+        "en": "rather than replacement",
+        "cn": "而不是替代"
+      },
+      {
+        "en": "anticipate it streamlining administrative tasks",
+        "cn": "预计它将简化行政任务"
+      },
+      {
+        "en": "like data analysis or scheduling",
+        "cn": "比如数据分析或排程"
+      },
+      {
+        "en": "freeing me up to focus on higher-level strategic planning",
+        "cn": "从而让我有更多时间专注于更高层次的战略规划"
+      },
+      {
+        "en": "team motivation",
+        "cn": "团队激励"
+      },
+      {
+        "en": "client engagement",
+        "cn": "客户互动"
+      },
+      {
+        "en": "My plan to adapt involves continuous learning",
+        "cn": "我的适应计划包括持续学习"
+      },
+      {
+        "en": "enrolling in specific AI literacy courses",
+        "cn": "参加特定的人工智能素养课程"
+      },
+      {
+        "en": "staying updated on industry-specific AI tools",
+        "cn": "及时了解行业特定的人工智能工具"
+      },
+      {
+        "en": "actively seeking opportunities to integrate AI into workflows",
+        "cn": "积极寻求将人工智能整合到工作流程中的机会"
+      },
+      {
+        "en": "to enhance efficiency and decision-making",
+        "cn": "以提高效率和决策能力"
+      },
+      {
+        "en": "It's about evolving with the technology",
+        "cn": "这关乎与技术共同发展"
+      }
+    ],
+    "connectedSpeech_cn": "'That's a fantastic' 中 's' 与 'a' 连接 /ðæts ə fænˈtæstɪk/。'Question especially' 中 'n' 与 'ɪ' 连接 /kwɛstʃən ɪˈspɛʃəli/。'Given the current' 中 'n' 与 'ð' 连接 /ɡɪvən ðə ˈkɜːrənt/。'Landscape I actually' 中 'p' 与 'aɪ' 连接 /lændˌskeɪp aɪ ˈæktʃuəli/。'Tool for augmentation' 中 'l' 与 'f' 连接，'r' 与 'ɔː' 连接 /tuːl fɔːr ɔːɡmɛnˈteɪʃən/。'Rather than replacement' 中 'r' 与 'ð' 连接 /ˌræðər ðæn rɪˈpleɪsmənt/。'Anticipate it streamlining' 中 't' 与 'ɪt' 连接 /ænˈtɪsɪpeɪt ɪt ˈstriːmlaɪnɪnɡ/。'Freeing me up' 中 'ɡ' 与 'miː' 连接，'iː' 与 'ʌp' 连接 /friːɪŋ miː ʌp/。'Higher-level strategic' 中 'r' 与 'l' 连接 /haɪər ˈlɛvəl strəˈtiːdʒɪk/。'Plan to adapt involves' 中 'n' 与 't' 连接，'t' 与 'ə' 连接 /plæn tuː əˈdæpt ɪnˈvɒlvz/。'Courses staying updated' 中 'sɪz' 与 'steɪɪŋ' 连接，'d' 与 'ʌp' 连接 /kɔːrsɪz ˈsteɪɪŋ ˌʌpˈdeɪtɪd/。'Tools and actively' 中 'z' 与 'ən' 连接，'d' 与 'æ' 连接 /tuːlz ən ˈæktɪvli/。'Integrate AI into' 中 't' 与 'eɪ' 连接，'iː' 与 'ɪn' 连接 /ɪntɪˌɡreɪt eɪ aɪ ɪntuː/。'Workflows to enhance' 中 'z' 与 'tuː' 连接，'uː' 与 'ɪnˈhæns' 连接 /wɜːrkˌfloʊz tuː ɪnˈhæns/。'Evolving with the technology' 中 'ɡ' 与 'wɪð' 连接，'ð' 与 'ðə' 连接 /ɪˈvɒlvɪŋ wɪð ðə tɛkˈnɒlədʒi/。"
+  },
+  {
+    "id": "p88",
+    "category": "IELTS/TOEFL Speaking Topics",
+    "title": "The Impact of Social Media on Society",
+    "level": "Advanced",
+    "scenario": "You are taking the IELTS Speaking Test, Part 3. The examiner asks, \"To what extent do you think social media has a positive or negative impact on society?\"",
+    "textbook": "Social media is good for communication. But it can be bad for mental health because of addiction.",
+    "textbookCritique": "This response is simplistic and lacks the detailed exploration, balanced argument, and sophisticated vocabulary expected in an advanced IELTS Part 3 answer. It offers superficial points without developing them adequately.",
+    "natural": "That's a really complex issue with arguments on both sides, isn't it? On the one hand, social media has undeniably revolutionized global communication, making it easier to connect with diverse communities, organize social movements, and disseminate information rapidly. Think about how quickly news or calls for humanitarian aid can spread now. However, the downsides are equally significant. We're seeing growing concerns about mental health, particularly among younger generations, due to constant comparison and cyberbullying. There's also the proliferation of misinformation and the echo chambers that can polarize public opinion. So, while it offers incredible tools for connection, it also presents substantial challenges to well-being and democratic discourse that we're still grappling with.",
+    "chunks": [
+      "That's a really complex issue",
+      "with arguments on both sides",
+      "undeniably revolutionized global communication",
+      "making it easier to connect with diverse communities",
+      "organize social movements",
+      "disseminate information rapidly",
+      "how quickly news or calls for humanitarian aid can spread",
+      "the downsides are equally significant",
+      "growing concerns about mental health",
+      "particularly among younger generations",
+      "due to constant comparison and cyberbullying",
+      "proliferation of misinformation",
+      "echo chambers that can polarize public opinion",
+      "offers incredible tools for connection",
+      "presents substantial challenges to well-being and democratic discourse",
+      "that we're still grappling with"
+    ],
+    "connectedSpeech": "'That's a really' links 's' to 'a' /ðæts ə ˈrɪəli/. 'Complex issue with' links 'x' to 'ɪ' and 'ʃuː' to 'wɪð' /kəmˈplɛks ˈɪʃuː wɪð/. 'Arguments on both' links 's' to 'ɑːn' /ˈɑːrɡjəmənts ɑːn/. 'Hands social media' links 'z' to 'ˈsoʊʃəl' /hændz ˈsoʊʃəl/. 'Has undeniably revolutionized' links 'z' to 'ʌn' /hæz ˌʌndɪˈnaɪəbli rɛvəˈluːʃənaɪzd/. 'Global communication making' links 'l' to 'kə' and 'n' to 'meɪkɪŋ' /ˌɡloʊbl kəˌmjuːnɪˈkeɪʃən ˈmeɪkɪŋ/. 'Easier to connect' links 'r' to 'tuː' /iːziər tuː kəˈnɛkt/. 'Communities organize' links 'z' to 'ɔːr' /kəˈmjuːnɪtiz ˈɔːrɡənaɪz/. 'Movements and disseminate' links 's' to 'ən' and 'd' to 'ˈdɪsɪməneɪt' /muːvmənts ən ˈdɪsɪməneɪt/. 'Information rapidly think' links 'n' to 'ræ' and 'pɪdli' to 'θɪŋk' /ɪnfərˈmeɪʃən ˈræpɪdli θɪŋk/. 'Humanitarian aid can' links 'n' to 'eɪd' and 'd' to 'kæn' /hjuːˌmænɪˈtɛəriən eɪd kæn/. 'Spread now however' links 'd' to 'naʊ' and 'aʊ' to 'haʊˈɛvər' /sprɛd naʊ haʊˈɛvər/. 'Downsides are equally' links 'z' to 'ɑːr' and 'r' to 'ˈiːkwəli' /daʊnsaɪdz ɑːr ˈiːkwəli/. 'Significant we're seeing' links 't' to 'wiːr' /sɪɡˈnɪfɪkənt wiːr ˈsiːɪŋ/. 'Concerns about mental' links 'z' to 'əˈbaʊt' and 't' to 'mɛntl' /kənˈsɜːrnz əˈbaʊt ˈmɛntl/. 'Health particularly among' links 'θ' to 'pər' and 'r' to 'ˌæməŋ' /hɛlθ pərˈtɪkjələrli əˌmʌŋ/. 'Younger generations due' links 'r' to 'dʒɛnəˈreɪʃənz' and 'z' to 'duː' /jʌŋɡər dʒɛnəˈreɪʃənz duː/. 'Comparison and cyberbullying' links 'n' to 'ən' and 'd' to 'ˈsaɪbərbʊliɪŋ' /kəmˈpærɪsn ən ˈsaɪbərbʊliɪŋ/. 'Also the proliferation' links 'oʊ' to 'ðə' /ɔːlsoʊ ðə prəˌlɪfəˈreɪʃən/. 'Misinformation and the echo' links 'n' to 'ən' and 'd' to 'ðiː' /ˌmɪsɪnfərˈmeɪʃən ən ðiː ˈɛkoʊ/. 'Chambers that can polarize' links 'z' to 'ðæt' and 't' to 'kæn' /tʃeɪmbərz ðæt kæn ˈpoʊləraɪz/. 'Public opinion so while' links 'k' to 'əˈpɪnjən' and 'n' to 'soʊ' /pʌblɪk əˈpɪnjən soʊ waɪl/. 'Offers incredible tools' links 'z' to 'ɪnˈkrɛdəbl' /ɒfərz ɪnˈkrɛdəbl tuːlz/. 'Connection it also' links 'n' to 'ɪt' and 't' to 'ɔːlsoʊ' /kəˈnɛkʃən ɪt ɔːlsoʊ/. 'Presents substantial challenges' links 's' to 'səbˈstænʃəl' /prɪˈzɛnts səbˈstænʃəl ˈtʃælɪndʒɪz/. 'To well-being and democratic' links 'uː' to 'wɛl' /tuː wɛlˈbiːɪŋ ən dɛməˈkrætɪk/. 'Discourse that we're still' links 's' to 'ðæt' and 't' to 'wiːr' /dɪsˈkɔːrs ðæt wiːr stɪl/. 'Grappling with' links 'ɡ' to 'wɪð' /ɡræplɪŋ wɪð/.",
+    "listenText": "That's a really complex issue with arguments on both sides, isn't it? On the one hand, social media has undeniably revolutionized global communication, making it easier to connect with diverse communities, organize social movements, and disseminate information rapidly. Think about how quickly news or calls for humanitarian aid can spread now. However, the downsides are equally significant. We're seeing growing concerns about mental health, particularly among younger generations, due to constant comparison and cyberbullying. There's also the proliferation of misinformation and the echo chambers that can polarize public opinion. So, while it offers incredible tools for connection, it also presents substantial challenges to well-being and democratic discourse that we're still grappling with.",
+    "title_cn": "社交媒体对社会的影响",
+    "category_cn": "雅思/托福口语话题",
+    "scenario_cn": "你正在参加雅思口语考试第三部分。考官问：“你认为社交媒体在多大程度上对社会产生了积极或消极的影响？”",
+    "textbookCritique_cn": "这个回答过于简单，缺乏高级雅思第三部分回答所需的详细阐述、平衡论证和复杂词汇。它提供了肤浅的观点，但没有充分展开。",
+    "natural_cn": "这是一个非常复杂的问题，双方都有论据，不是吗？一方面，社交媒体无疑彻底改变了全球交流方式，使人们更容易与不同的社区建立联系，组织社会运动，并迅速传播信息。想想现在新闻或人道援助呼吁能多快地传播。然而，负面影响也同样显著。我们看到人们越来越关注心理健康问题，尤其是在年轻一代中，这归因于不断的比较和网络欺凌。还有虚假信息的扩散以及可能使公众舆论两极分化的回音室效应。因此，尽管它提供了令人难以置信的连接工具，但也对我们的福祉和民主话语提出了我们仍在努力应对的重大挑战。",
+    "chunks_cn": [
+      {
+        "en": "That's a really complex issue",
+        "cn": "这是一个非常复杂的问题"
+      },
+      {
+        "en": "with arguments on both sides",
+        "cn": "双方都有论据"
+      },
+      {
+        "en": "undeniably revolutionized global communication",
+        "cn": "无疑彻底改变了全球交流方式"
+      },
+      {
+        "en": "making it easier to connect with diverse communities",
+        "cn": "使人们更容易与不同的社区建立联系"
+      },
+      {
+        "en": "organize social movements",
+        "cn": "组织社会运动"
+      },
+      {
+        "en": "disseminate information rapidly",
+        "cn": "迅速传播信息"
+      },
+      {
+        "en": "how quickly news or calls for humanitarian aid can spread",
+        "cn": "新闻或人道援助呼吁能多快地传播"
+      },
+      {
+        "en": "the downsides are equally significant",
+        "cn": "负面影响也同样显著"
+      },
+      {
+        "en": "growing concerns about mental health",
+        "cn": "越来越关注心理健康问题"
+      },
+      {
+        "en": "particularly among younger generations",
+        "cn": "尤其是在年轻一代中"
+      },
+      {
+        "en": "due to constant comparison and cyberbullying",
+        "cn": "归因于不断的比较和网络欺凌"
+      },
+      {
+        "en": "proliferation of misinformation",
+        "cn": "虚假信息的扩散"
+      },
+      {
+        "en": "echo chambers that can polarize public opinion",
+        "cn": "可能使公众舆论两极分化的回音室效应"
+      },
+      {
+        "en": "offers incredible tools for connection",
+        "cn": "提供了令人难以置信的连接工具"
+      },
+      {
+        "en": "presents substantial challenges to well-being and democratic discourse",
+        "cn": "对我们的福祉和民主话语提出了重大挑战"
+      },
+      {
+        "en": "that we're still grappling with",
+        "cn": "我们仍在努力应对的"
+      }
+    ],
+    "connectedSpeech_cn": "'That's a really' 中 's' 与 'a' 连接 /ðæts ə ˈrɪəli/。'Complex issue with' 中 'x' 与 'ɪ' 连接，'ʃuː' 与 'wɪð' 连接 /kəmˈplɛks ˈɪʃuː wɪð/。'Arguments on both' 中 's' 与 'ɑːn' 连接 /ˈɑːrɡjəmənts ɑːn/。'Hands social media' 中 'z' 与 'ˈsoʊʃəl' 连接 /hændz ˈsoʊʃəl/。'Has undeniably revolutionized' 中 'z' 与 'ʌn' 连接 /hæz ˌʌndɪˈnaɪəbli rɛvəˈluːʃənaɪzd/。'Global communication making' 中 'l' 与 'kə' 连接，'n' 与 'meɪkɪŋ' 连接 /ˌɡloʊbl kəˌmjuːnɪˈkeɪʃən ˈmeɪkɪŋ/。'Easier to connect' 中 'r' 与 'tuː' 连接 /iːziər tuː kəˈnɛkt/。'Communities organize' 中 'z' 与 'ɔːr' 连接 /kəˈmjuːnɪtiz ˈɔːrɡənaɪz/。'Movements and disseminate' 中 's' 与 'ən' 连接，'d' 与 'ˈdɪsɪməneɪt' 连接 /muːvmənts ən ˈdɪsɪməneɪt/。'Information rapidly think' 中 'n' 与 'ræ' 连接，'pɪdli' 与 'θɪŋk' 连接 /ɪnfərˈmeɪʃən ˈræpɪdli θɪŋk/。'Humanitarian aid can' 中 'n' 与 'eɪd' 连接，'d' 与 'kæn' 连接 /hjuːˌmænɪˈtɛəriən eɪd kæn/。'Spread now however' 中 'd' 与 'naʊ' 连接，'aʊ' 与 'haʊˈɛvər' 连接 /sprɛd naʊ haʊˈɛvər/。'Downsides are equally' 中 'z' 与 'ɑːr' 连接，'r' 与 'ˈiːkwəli' 连接 /daʊnsaɪdz ɑːr ˈiːkwəli/。'Significant we're seeing' 中 't' 与 'wiːr' 连接 /sɪɡˈnɪfɪkənt wiːr ˈsiːɪŋ/。'Concerns about mental' 中 'z' 与 'əˈbaʊt' 连接，'t' 与 'mɛntl' 连接 /kənˈsɜːrnz əˈbaʊt ˈmɛntl/。'Health particularly among' 中 'θ' 与 'pər' 连接，'r' 与 'ˌæməŋ' 连接 /hɛlθ pərˈtɪkjələrli əˌmʌŋ/。'Younger generations due' 中 'r' 与 'dʒɛnəˈreɪʃənz' 连接，'z' 与 'duː' 连接 /jʌŋɡər dʒɛnəˈreɪʃənz duː/。'Comparison and cyberbullying' 中 'n' 与 'ən' 连接，'d' 与 'ˈsaɪbərbʊliɪŋ' 连接 /kəmˈpærɪsn ən ˈsaɪbərbʊliɪŋ/。'Also the proliferation' 中 'oʊ' 与 'ðə' 连接 /ɔːlsoʊ ðə prəˌlɪfəˈreɪʃən/。'Misinformation and the echo' 中 'n' 与 'ən' 连接，'d' 与 'ðiː' 连接 /ˌmɪsɪnfərˈmeɪʃən ən ðiː ˈɛkoʊ/。'Chambers that can polarize' 中 'z' 与 'ðæt' 连接，'t' 与 'kæn' 连接 /tʃeɪmbərz ðæt kæn ˈpoʊləraɪz/。'Public opinion so while' 中 'k' 与 'əˈpɪnjən' 连接，'n' 与 'soʊ' 连接 /pʌblɪk əˈpɪnjən soʊ waɪl/。'Offers incredible tools' 中 'z' 与 'ɪnˈkrɛdəbl' 连接 /ɒfərz ɪnˈkrɛdəbl tuːlz/。'Connection it also' 中 'n' 与 'ɪt' 连接，'t' 与 'ɔːlsoʊ' 连接 /kəˈnɛkʃən ɪt ɔːlsoʊ/。'Presents substantial challenges' 中 's' 与 'səbˈstænʃəl' 连接 /prɪˈzɛnts səbˈstænʃəl ˈtʃælɪndʒɪz/。'To well-being and democratic' 中 'uː' 与 'wɛl' 连接 /tuː wɛlˈbiːɪŋ ən dɛməˈkrætɪk/。'Discourse that we're still' 中 's' 与 'ðæt' 连接，'t' 与 'wiːr' 连接 /dɪsˈkɔːrs ðæt wiːr stɪl/。'Grappling with' 中 'ɡ' 与 'wɪð' 连接 /ɡræplɪŋ wɪð/。"
+  },
+  {
+    "id": "p89",
+    "category": "Workplace Communication Scenarios",
+    "title": "Delivering Constructive Feedback Remotely",
+    "level": "Intermediate",
+    "scenario": "You need to give constructive feedback to a remote team member about a recent project deliverable. You want to ensure it's delivered effectively and received well, despite the distance. You initiate the conversation, \"Hi [Team Member's Name], do you have a few minutes to chat about the recent report?\"",
+    "textbook": "Your report was not good. Please fix it next time.",
+    "textbookCritique": "This feedback is far too blunt, accusatory, and unspecific. It offers no guidance on what was 'not good' or how to 'fix it', and it fails to create a supportive environment for improvement, which is especially critical in remote settings.",
+    "natural": "Hi [Team Member's Name], thanks for taking the time. I wanted to discuss the latest project report – specifically, I noticed some areas in the data analysis section that could be strengthened for clarity and impact, and perhaps incorporating a few more actionable recommendations. Overall, the foundational work is solid, but we could elevate it further. Would you be open to reviewing some specific points together and brainstorming how we might refine those sections for our next deliverable? I'm happy to walk through it with you.",
+    "chunks": [
+      "thanks for taking the time",
+      "wanted to discuss the latest project report",
+      "specifically, I noticed some areas",
+      "in the data analysis section",
+      "could be strengthened for clarity and impact",
+      "incorporating a few more actionable recommendations",
+      "Overall, the foundational work is solid",
+      "but we could elevate it further",
+      "Would you be open to reviewing some specific points together",
+      "brainstorming how we might refine those sections",
+      "for our next deliverable",
+      "I'm happy to walk through it with you"
+    ],
+    "connectedSpeech": "'Thanks for taking' links 's' to 'f' and 'r' to 't' /θæŋks fər ˈteɪkɪŋ/. 'Wanted to discuss' links 'd' to 'tə' and 's' to 'dɪˈskʌs' /wɒntɪd tə dɪˈskʌs/. 'Latest project report' links 't' to 's' and 't' to 'r' /leɪtɪst prɒdʒɛkt rɪˈpɔːrt/. 'Specifically I noticed' links 'iː' to 'aɪ' /spɪˈsɪfɪkli aɪ ˈnoʊtɪst/. 'Some areas in the' links 'm' to 'ɛə' and 's' to 'ɪn' /sʌm ˈɛəriəz ɪn ðə/. 'Data analysis section' links 'ə' to 'æ' /deɪtə əˈnæləsɪs ˈsɛkʃən/. 'Could be strengthened for' links 'd' to 'biː' and 'd' to 'fɔːr' /kʊd biː ˈstrɛŋθənd fɔːr/. 'Clarity and impact' links 'iː' to 'ən' and 'd' to 'ɪmˈpækt' /klærəti ən ˈɪmˈpækt/. 'Incorporating a few more' links 'ɡ' to 'ə' and 'r' to 'fjuː' /ɪnˈkɔːrpəreɪtɪŋ ə fjuː mɔːr/. 'Actionable recommendations overall' links 'l' to 'rɛkəmɛnˈdeɪʃənz' and 'z' to 'oʊvərˈɔːl' /ˌækʃənəbl rɛkəmɛnˈdeɪʃənz oʊvərˈɔːl/. 'Work is solid but' links 'k' to 'ɪz' and 'd' to 'bʌt' /wɜːrk ɪz ˈsɒlɪd bʌt/. 'Elevate it further' links 't' to 'ɪt' and 't' to 'fɜːrðər' /ɛləveɪt ɪt ˈfɜːrðər/. 'Open to reviewing' links 'n' to 'tuː' /oʊpən tuː rɪˈvjuːɪŋ/. 'Specific points together' links 'k' to 'pɔɪnts' and 's' to 'təˈɡɛðər' /spɪˈsɪfɪk pɔɪnts təˈɡɛðər/. 'Brainstorming how we might' links 'ɡ' to 'haʊ' /breɪnˌstɔːrmɪŋ haʊ wiː maɪt/. 'Refine those sections for' links 'n' to 'ðoʊz' and 'z' to 'fɔːr' /rɪˈfaɪn ðoʊz ˈsɛkʃənz fɔːr/. 'Next deliverable I'm happy' links 't' to 'dɪˈlɪvərəbl' and 'l' to 'aɪm' /nɛkst dɪˈlɪvərəbl aɪm ˈhæpi/. 'Through it with you' links 'uː' to 'ɪt' and 'θ' to 'j' /θruː ɪt wɪð juː/.",
+    "listenText": "Hi [Team Member's Name], thanks for taking the time. I wanted to discuss the latest project report – specifically, I noticed some areas in the data analysis section that could be strengthened for clarity and impact, and perhaps incorporating a few more actionable recommendations. Overall, the foundational work is solid, but we could elevate it further. Would you be open to reviewing some specific points together and brainstorming how we might refine those sections for our next deliverable? I'm happy to walk through it with you.",
+    "title_cn": "远程提供建设性反馈",
+    "category_cn": "职场沟通场景",
+    "scenario_cn": "你需要就一份最近的项目交付物向一名远程团队成员提供建设性反馈。你希望确保反馈有效传达并被良好接受，尽管存在距离。你主动开启对话：“嗨，[团队成员姓名]，你现在有几分钟时间聊聊最近的报告吗？”",
+    "textbookCritique_cn": "这种反馈过于直白、指责性强且不具体。它没有提供关于哪里“不好”或如何“改进”的指导，也未能创造一个支持改进的环境，这在远程环境中尤为关键。",
+    "natural_cn": "嗨，[团队成员姓名]，谢谢你抽出时间。我想讨论一下最新的项目报告——具体来说，我注意到数据分析部分的一些地方可以加强，以提高清晰度和影响力，或许还可以加入一些更具操作性的建议。总的来说，基础工作很扎实，但我们可以进一步提升它。你愿意一起回顾一些具体要点，并集思广益，看看我们如何为下一次交付物改进这些部分吗？我很乐意和你一起过一遍。",
+    "chunks_cn": [
+      {
+        "en": "thanks for taking the time",
+        "cn": "谢谢你抽出时间"
+      },
+      {
+        "en": "wanted to discuss the latest project report",
+        "cn": "我想讨论一下最新的项目报告"
+      },
+      {
+        "en": "specifically, I noticed some areas",
+        "cn": "具体来说，我注意到一些地方"
+      },
+      {
+        "en": "in the data analysis section",
+        "cn": "在数据分析部分"
+      },
+      {
+        "en": "could be strengthened for clarity and impact",
+        "cn": "可以加强，以提高清晰度和影响力"
+      },
+      {
+        "en": "incorporating a few more actionable recommendations",
+        "cn": "加入一些更具操作性的建议"
+      },
+      {
+        "en": "Overall, the foundational work is solid",
+        "cn": "总的来说，基础工作很扎实"
+      },
+      {
+        "en": "but we could elevate it further",
+        "cn": "但我们可以进一步提升它"
+      },
+      {
+        "en": "Would you be open to reviewing some specific points together",
+        "cn": "你愿意一起回顾一些具体要点吗"
+      },
+      {
+        "en": "brainstorming how we might refine those sections",
+        "cn": "集思广益，看看我们如何改进这些部分"
+      },
+      {
+        "en": "for our next deliverable",
+        "cn": "为下一次交付物"
+      },
+      {
+        "en": "I'm happy to walk through it with you",
+        "cn": "我很乐意和你一起过一遍"
+      }
+    ],
+    "connectedSpeech_cn": "'Thanks for taking' 中 's' 与 'f' 连接，'r' 与 't' 连接 /θæŋks fər ˈteɪkɪŋ/。'Wanted to discuss' 中 'd' 与 'tə' 连接，'s' 与 'dɪˈskʌs' 连接 /wɒntɪd tə dɪˈskʌs/。'Latest project report' 中 't' 与 's' 连接，'t' 与 'r' 连接 /leɪtɪst prɒdʒɛkt rɪˈpɔːrt/。'Specifically I noticed' 中 'iː' 与 'aɪ' 连接 /spɪˈsɪfɪkli aɪ ˈnoʊtɪst/。'Some areas in the' 中 'm' 与 'ɛə' 连接，'s' 与 'ɪn' 连接 /sʌm ˈɛəriəz ɪn ðə/。'Data analysis section' 中 'ə' 与 'æ' 连接 /deɪtə əˈnæləsɪs ˈsɛkʃən/。'Could be strengthened for' 中 'd' 与 'biː' 连接，'d' 与 'fɔːr' 连接 /kʊd biː ˈstrɛŋθənd fɔːr/。'Clarity and impact' 中 'iː' 与 'ən' 连接，'d' 与 'ɪmˈpækt' 连接 /klærəti ən ˈɪmˈpækt/。'Incorporating a few more' 中 'ɡ' 与 'ə' 连接，'r' 与 'fjuː' 连接 /ɪnˈkɔːrpəreɪtɪŋ ə fjuː mɔːr/。'Actionable recommendations overall' 中 'l' 与 'rɛkəmɛnˈdeɪʃənz' 连接，'z' 与 'oʊvərˈɔːl' 连接 /ˌækʃənəbl rɛkəmɛnˈdeɪʃənz oʊvərˈɔːl/。'Work is solid but' 中 'k' 与 'ɪz' 连接，'d' 与 'bʌt' 连接 /wɜːrk ɪz ˈsɒlɪd bʌt/。'Elevate it further' 中 't' 与 'ɪt' 连接，'t' 与 'fɜːrðər' 连接 /ɛləveɪt ɪt ˈfɜːrðər/。'Open to reviewing' 中 'n' 与 'tuː' 连接 /oʊpən tuː rɪˈvjuːɪŋ/。'Specific points together' 中 'k' 与 'pɔɪnts' 连接，'s' 与 'təˈɡɛðər' 连接 /spɪˈsɪfɪk pɔɪnts təˈɡɛðər/。'Brainstorming how we might' 中 'ɡ' 与 'haʊ' 连接 /breɪnˌstɔːrmɪŋ haʊ wiː maɪt/。'Refine those sections for' 中 'n' 与 'ðoʊz' 连接，'z' 与 'fɔːr' 连接 /rɪˈfaɪn ðoʊz ˈsɛkʃənz fɔːr/。'Next deliverable I'm happy' 中 't' 与 'dɪˈlɪvərəbl' 连接，'l' 与 'aɪm' 连接 /nɛkst dɪˈlɪvərəbl aɪm ˈhæpi/。'Through it with you' 中 'uː' 与 'ɪt' 连接，'θ' 与 'j' 连接 /θruː ɪt wɪð juː/。"
   }
 ]
