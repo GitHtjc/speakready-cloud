@@ -3652,3 +3652,291 @@ SpeakReady bridges this gap with:
   }
 ]
 ```
+
+
+## 2026-11-27 (auto)
+```json
+[
+  {
+    "id": "p93",
+    "category": "Remote Job Interview Prompts",
+    "title": "Articulating Readiness for a Remote-First Role",
+    "level": "Intermediate",
+    "scenario": "You're interviewing for a remote-first position. The interviewer asks how you ensure productivity and collaboration when working remotely, given the challenges of distance and potential distractions at home.",
+    "textbook": "How do you stay productive at home? What are the challenges of working remotely?",
+    "textbookCritique": "These questions are too blunt and might put the candidate on the defensive. They don't invite a comprehensive answer that showcases problem-solving skills or proactive strategies. 'Challenges' can sound like a complaint rather than an opportunity to demonstrate resilience.",
+    "natural": "Working remotely effectively really comes down to a few key strategies for me. I prioritize clear communication, especially through regular check-ins and using collaborative tools. I also set up a dedicated workspace, which helps me maintain focus, and I stick to a structured routine. For potential distractions, I actually find that scheduling specific 'deep work' blocks and communicating my availability to family helps immensely. It's all about proactive self-management.",
+    "chunks": [
+      "Working remotely effectively really comes down to",
+      "a few key strategies for me",
+      "prioritize clear communication",
+      "regular check-ins",
+      "using collaborative tools",
+      "set up a dedicated workspace",
+      "maintain focus",
+      "stick to a structured routine",
+      "For potential distractions",
+      "scheduling specific 'deep work' blocks",
+      "communicating my availability to family",
+      "helps immensely",
+      "It's all about proactive self-management"
+    ],
+    "connectedSpeech": "'Working remotely effectively' links 'g' to 'r' and 'ly' to 'e' /wɜːrkɪŋ rɪˈmoʊtli ɪˈfɛktɪvli/. 'Really comes down to' links 'y' to 'kʌmz' and 'z' to 'daʊn' /rɪəli kʌmz daʊn tuː/. 'Few key strategies for me' links 'w' to 'kiː' and 'z' to 'fɔːr' /fjuː kiː ˈstrætɪdʒiz fɔːr miː/. 'Prioritize clear communication' links 'z' to 'klɪər' /praɪˈɔːrɪtaɪz klɪər/. 'Regular check-ins' links 'r' to 'ɪn' and 's' to 'ɪnz' /ˈrɛɡjələr tʃɛk ɪnz/. 'Using collaborative tools' links 'g' to 'kəˈlæbəˌreɪtɪv' /juːzɪŋ kəˈlæbəˌreɪtɪv tuːlz/. 'Set up a dedicated' links 't' to 'ʌp' and 'p' to 'ə' /sɛt ʌp ə ˈdɛdɪkeɪtɪd/. 'Maintain focus and I' links 'n' to 'ˈfoʊkəs' and 's' to 'ænd' /meɪnˈteɪn ˈfoʊkəs ænd aɪ/. 'Stick to a structured routine' links 'k' to 'tuː' and 'd' to 'ə' /stɪk tuː ə ˈstrʌktʃərd ruːˈtiːn/. 'For potential distractions I' links 'r' to 'pəˈtɛnʃəl' and 'z' to 'aɪ' /fɔːr pəˈtɛnʃəl dɪˈstrækʃənz aɪ/. 'Find that scheduling specific' links 'd' to 'ðæt' and 'g' to 'spɪˈsɪfɪk' /faɪnd ðæt ˈskɛdʒuːlɪŋ spɪˈsɪfɪk/. 'Deep work blocks and' links 'p' to 'wɜːrk' and 's' to 'ænd' /diːp wɜːrk blɒks ænd/. 'Communicating my availability' links 'g' to 'maɪ' and 'y' to 'əˈveɪləˈbɪlɪti' /kəmˈjuːnɪˌkeɪtɪŋ maɪ əˌveɪləˈbɪlɪti/. 'Helps immensely it's all about' links 's' to 'ɪˈmɛnsli' and 't' to 'ɔːl' /hɛlps ɪˈmɛnsli ɪts ɔːl əˈbaʊt/. 'Proactive self-management' links 'v' to 'sɛlf' /proʊˈæktɪv sɛlf ˈmænɪdʒmənt/.",
+    "listenText": "Working remotely effectively really comes down to a few key strategies for me. I prioritize clear communication, especially through regular check-ins and using collaborative tools. I also set up a dedicated workspace, which helps me maintain focus, and I stick to a structured routine. For potential distractions, I actually find that scheduling specific 'deep work' blocks and communicating my availability to family helps immensely. It's all about proactive self-management.",
+    "title_cn": "阐述适应远程优先角色的能力",
+    "category_cn": "远程工作面试问题",
+    "scenario_cn": "你正在面试一个远程优先的职位。面试官询问你如何确保在远程工作时保持生产力和协作，考虑到距离和家中潜在的干扰所带来的挑战。",
+    "textbookCritique_cn": "这些问题过于直接，可能会让候选人感到防御。它们无法引出展示解决问题能力或积极策略的全面回答。“挑战”听起来更像是在抱怨，而不是展示韧性的机会。",
+    "natural_cn": "对我来说，有效地远程工作真的归结为几个关键策略。我优先考虑清晰的沟通，尤其是通过定期签到和使用协作工具。我还设置了一个专门的工作空间，这有助于我保持专注，并且我坚持有规律的作息。至于潜在的干扰，我发现安排特定的“深度工作”时间块并与家人沟通我的可用时间非常有帮助。这完全关乎积极主动的自我管理。",
+    "chunks_cn": [
+      {
+        "en": "Working remotely effectively really comes down to",
+        "cn": "有效地远程工作真的归结为"
+      },
+      {
+        "en": "a few key strategies for me",
+        "cn": "几个关键策略"
+      },
+      {
+        "en": "prioritize clear communication",
+        "cn": "优先考虑清晰的沟通"
+      },
+      {
+        "en": "regular check-ins",
+        "cn": "定期签到"
+      },
+      {
+        "en": "using collaborative tools",
+        "cn": "使用协作工具"
+      },
+      {
+        "en": "set up a dedicated workspace",
+        "cn": "设置一个专门的工作空间"
+      },
+      {
+        "en": "maintain focus",
+        "cn": "保持专注"
+      },
+      {
+        "en": "stick to a structured routine",
+        "cn": "坚持有规律的作息"
+      },
+      {
+        "en": "For potential distractions",
+        "cn": "至于潜在的干扰"
+      },
+      {
+        "en": "scheduling specific 'deep work' blocks",
+        "cn": "安排特定的“深度工作”时间块"
+      },
+      {
+        "en": "communicating my availability to family",
+        "cn": "与家人沟通我的可用时间"
+      },
+      {
+        "en": "helps immensely",
+        "cn": "非常有帮助"
+      },
+      {
+        "en": "It's all about proactive self-management",
+        "cn": "这完全关乎积极主动的自我管理"
+      }
+    ],
+    "connectedSpeech_cn": "'Working remotely effectively' 中 'g' 与 'r' 连接，'ly' 与 'e' 连接 /wɜːrkɪŋ rɪˈmoʊtli ɪˈfɛktɪvli/。'Really comes down to' 中 'y' 与 'kʌmz' 连接，'z' 与 'daʊn' 连接 /rɪəli kʌmz daʊn tuː/。'Few key strategies for me' 中 'w' 与 'kiː' 连接，'z' 与 'fɔːr' 连接 /fjuː kiː ˈstrætɪdʒiz fɔːr miː/。'Prioritize clear communication' 中 'z' 与 'klɪər' 连接 /praɪˈɔːrɪtaɪz klɪər/。'Regular check-ins' 中 'r' 与 'ɪn' 连接，'s' 与 'ɪnz' /ˈrɛɡjələr tʃɛk ɪnz/。'Using collaborative tools' 中 'g' 与 'kəˈlæbəˌreɪtɪv' 连接 /juːzɪŋ kəˈlæbəˌreɪtɪv tuːlz/。'Set up a dedicated' 中 't' 与 'ʌp' 连接，'p' 与 'ə' 连接 /sɛt ʌp ə ˈdɛdɪkeɪtɪd/。'Maintain focus and I' 中 'n' 与 'ˈfoʊkəs' 连接，'s' 与 'ænd' 连接 /meɪnˈteɪn ˈfoʊkəs ænd aɪ/。'Stick to a structured routine' 中 'k' 与 'tuː' 连接，'d' 与 'ə' 连接 /stɪk tuː ə ˈstrʌktʃərd ruːˈtiːn/。'For potential distractions I' 中 'r' 与 'pəˈtɛnʃəl' 连接，'z' 与 'aɪ' 连接 /fɔːr pəˈtɛnʃəl dɪˈstrækʃənz aɪ/。'Find that scheduling specific' 中 'd' 与 'ðæt' 连接，'g' 与 'spɪˈsɪfɪk' 连接 /faɪnd ðæt ˈskɛdʒuːlɪŋ spɪˈsɪfɪk/。'Deep work blocks and' 中 'p' 与 'wɜːrk' 连接，'s' 与 'ænd' 连接 /diːp wɜːrk blɒks ænd/。'Communicating my availability' 中 'g' 与 'maɪ' 连接，'y' 与 'əˈveɪləˈbɪlɪti' 连接 /kəmˈjuːnɪˌkeɪtɪŋ maɪ əˌveɪləˈbɪlɪti/。'Helps immensely it's all about' 中 's' 与 'ɪˈmɛnsli' 连接，'t' 与 'ɔːl' 连接 /hɛlps ɪˈmɛnsli ɪts ɔːl əˈbaʊt/。'Proactive self-management' 中 'v' 与 'sɛlf' 连接 /proʊˈæktɪv sɛlf ˈmænɪdʒmənt/。"
+  },
+  {
+    "id": "p94",
+    "category": "Workplace Communication Scenarios",
+    "title": "Delivering Constructive Feedback During a Performance Review",
+    "level": "Advanced",
+    "scenario": "It's late November, and as a team lead, you're conducting a year-end performance review with a team member. You need to address an area where their contribution could improve, specifically concerning their participation in cross-functional team meetings, without demotivating them.",
+    "textbook": "You don't speak enough in meetings. You need to contribute more to cross-functional teams.",
+    "textbookCritique": "This is too direct, accusatory, and focuses on a negative outcome rather than a desired behavior or its impact. It lacks empathy and doesn't offer a path forward, potentially making the team member feel criticized rather than guided.",
+    "natural": "Let's talk a bit about your participation in our cross-functional team meetings. I've noticed that sometimes your valuable insights aren't always shared, especially in larger group settings. I think your perspective is really important, and if you could chime in more, it would genuinely benefit those discussions and help shape our collective outcomes. What are your thoughts on that, and perhaps we can explore ways to make it easier for you to contribute?",
+    "chunks": [
+      "Let's talk a bit about",
+      "your participation in our cross-functional team meetings",
+      "I've noticed that sometimes",
+      "your valuable insights aren't always shared",
+      "especially in larger group settings",
+      "your perspective is really important",
+      "if you could chime in more",
+      "it would genuinely benefit those discussions",
+      "help shape our collective outcomes",
+      "What are your thoughts on that",
+      "perhaps we can explore ways",
+      "to make it easier for you to contribute"
+    ],
+    "connectedSpeech": "'Let's talk a bit about' links 's' to 'tɔːk' and 'k' to 'ə' /lɛts tɔːk ə bɪt əˈbaʊt/. 'Your participation in our' links 'r' to 'pɑːrtɪsɪˈpeɪʃən' and 'n' to 'ɪn' /jɔːr pɑːrtɪsɪˈpeɪʃən ɪn aʊər/. 'Cross-functional team meetings' links 's' to 'fʌŋkʃənəl' and 'm' to 'miːtɪŋz' /krɔːsˈfʌŋkʃənəl tiːm ˈmiːtɪŋz/. 'I've noticed that sometimes' links 'v' to 'noʊtɪst' and 't' to 'sʌmtaɪmz' /aɪv ˈnoʊtɪst ðæt ˈsʌmtaɪmz/. 'Valuable insights aren't always' links 'l' to 'ɪnsaɪts' and 's' to 'ɑːrnt' /'væljʊəbl ˈɪnsaɪts ɑːrnt ˈɔːlweɪz/. 'Shared especially in larger' links 'd' to 'ɪˈspɛʃəli' and 'y' to 'ɪn' /ʃɛrd ɪˈspɛʃəli ɪn ˈlɑːrdʒər/. 'Group settings I think' links 'p' to 'sɛtɪŋz' and 's' to 'aɪ' /ɡruːp ˈsɛtɪŋz aɪ θɪŋk/. 'Your perspective is really important' links 'r' to 'pərˈspɛktɪv' and 'v' to 'ɪz' /jɔːr pərˈspɛktɪv ɪz ˈrɪəli ɪmˈpɔːrtənt/. 'If you could chime in more' links 'f' to 'juː' and 'd' to 'tʃaɪm' /ɪf juː kʊd tʃaɪm ɪn mɔːr/. 'It would genuinely benefit those' links 't' to 'wʊd' and 'd' to 'ˈdʒɛnjuɪnli' /ɪt wʊd ˈdʒɛnjuɪnli ˈbɛnɪfɪt ðoʊz/. 'Discussions and help shape' links 'z' to 'ænd' and 'p' to 'ʃeɪp' /dɪˈskʌʃənz ænd hɛlp ʃeɪp/. 'Our collective outcomes What are' links 'r' to 'kəˈlɛktɪv' and 'v' to 'aʊtˌkʌmz' /aʊər kəˈlɛktɪv ˈaʊtˌkʌmz wʌt ɑːr/. 'Your thoughts on that and' links 's' to 'ɒn' and 't' to 'ænd' /jɔːr θɔːts ɒn ðæt ænd/. 'Perhaps we can explore ways to' links 's' to 'wiː' and 'r' to 'weɪz' /pərˈhæps wiː kæn ɪkˈsplɔːr weɪz tuː/. 'Make it easier for you to contribute' links 'k' to 'ɪt' and 't' to 'iːziər' /meɪk ɪt ˈiːziər fɔːr juː tuː kənˈtrɪbjuːt/.",
+    "listenText": "Let's talk a bit about your participation in our cross-functional team meetings. I've noticed that sometimes your valuable insights aren't always shared, especially in larger group settings. I think your perspective is really important, and if you could chime in more, it would genuinely benefit those discussions and help shape our collective outcomes. What are your thoughts on that, and perhaps we can explore ways to make it easier for you to contribute?",
+    "title_cn": "在绩效评估中提供建设性反馈",
+    "category_cn": "职场沟通情景",
+    "scenario_cn": "现在是十一月末，作为团队负责人，你正在与一名团队成员进行年终绩效评估。你需要指出他们可以改进的领域，特别是关于他们在跨职能团队会议中的参与度，同时不打击他们的积极性。",
+    "textbookCritique_cn": "这种说法过于直接、带有指责性，并且侧重于负面结果而非期望的行为或其影响。它缺乏同理心，没有提供前进的道路，可能会让团队成员感到被批评而不是被指导。",
+    "natural_cn": "我们来聊聊你参与跨职能团队会议的情况吧。我注意到有时你宝贵的见解没有被充分分享出来，尤其是在大型团队会议中。我认为你的观点非常重要，如果你能更多地加入讨论，那将真正有益于这些讨论，并帮助塑造我们的集体成果。你对此有什么想法？也许我们可以探讨一下如何让你更容易地做出贡献？",
+    "chunks_cn": [
+      {
+        "en": "Let's talk a bit about",
+        "cn": "我们来聊聊"
+      },
+      {
+        "en": "your participation in our cross-functional team meetings",
+        "cn": "你参与跨职能团队会议的情况"
+      },
+      {
+        "en": "I've noticed that sometimes",
+        "cn": "我注意到有时"
+      },
+      {
+        "en": "your valuable insights aren't always shared",
+        "cn": "你宝贵的见解没有被充分分享出来"
+      },
+      {
+        "en": "especially in larger group settings",
+        "cn": "尤其是在大型团队会议中"
+      },
+      {
+        "en": "your perspective is really important",
+        "cn": "你的观点非常重要"
+      },
+      {
+        "en": "if you could chime in more",
+        "cn": "如果你能更多地加入讨论"
+      },
+      {
+        "en": "it would genuinely benefit those discussions",
+        "cn": "那将真正有益于这些讨论"
+      },
+      {
+        "en": "help shape our collective outcomes",
+        "cn": "帮助塑造我们的集体成果"
+      },
+      {
+        "en": "What are your thoughts on that",
+        "cn": "你对此有什么想法"
+      },
+      {
+        "en": "perhaps we can explore ways",
+        "cn": "也许我们可以探讨一下"
+      },
+      {
+        "en": "to make it easier for you to contribute",
+        "cn": "如何让你更容易地做出贡献"
+      }
+    ],
+    "connectedSpeech_cn": "'Let's talk a bit about' 中 's' 与 'tɔːk' 连接，'k' 与 'ə' 连接 /lɛts tɔːk ə bɪt əˈbaʊt/。'Your participation in our' 中 'r' 与 'pɑːrtɪsɪˈpeɪʃən' 连接，'n' 与 'ɪn' 连接 /jɔːr pɑːrtɪsɪˈpeɪʃən ɪn aʊər/。'Cross-functional team meetings' 中 's' 与 'fʌŋkʃənəl' 连接，'m' 与 'miːtɪŋz' 连接 /krɔːsˈfʌŋkʃənəl tiːm ˈmiːtɪŋz/。'I've noticed that sometimes' 中 'v' 与 'noʊtɪst' 连接，'t' 与 'sʌmtaɪmz' 连接 /aɪv ˈnoʊtɪst ðæt ˈsʌmtaɪmz/。'Valuable insights aren't always' 中 'l' 与 'ɪnsaɪts' 连接，'s' 与 'ɑːrnt' 连接 /'væljʊəbl ˈɪnsaɪts ɑːrnt ˈɔːlweɪz/。'Shared especially in larger' 中 'd' 与 'ɪˈspɛʃəli' 连接，'y' 与 'ɪn' 连接 /ʃɛrd ɪˈspɛʃəli ɪn ˈlɑːrdʒər/。'Group settings I think' 中 'p' 与 'sɛtɪŋz' 连接，'s' 与 'aɪ' 连接 /ɡruːp ˈsɛtɪŋz aɪ θɪŋk/。'Your perspective is really important' 中 'r' 与 'pərˈspɛktɪv' 连接，'v' 与 'ɪz' 连接 /jɔːr pərˈspɛktɪv ɪz ˈrɪəli ɪmˈpɔːrtənt/。'If you could chime in more' 中 'f' 与 'juː' 连接，'d' 与 'tʃaɪm' 连接 /ɪf juː kʊd tʃaɪm ɪn mɔːr/。'It would genuinely benefit those' 中 't' 与 'wʊd' 连接，'d' 与 'ˈdʒɛnjuɪnli' 连接 /ɪt wʊd ˈdʒɛnjuɪnli ˈbɛnɪfɪt ðoʊz/。'Discussions and help shape' 中 'z' 与 'ænd' 连接，'p' 与 'ʃeɪp' 连接 /dɪˈskʌʃənz ænd hɛlp ʃeɪp/。'Our collective outcomes What are' 中 'r' 与 'kəˈlɛktɪv' 连接，'v' 与 'aʊtˌkʌmz' 连接 /aʊər kəˈlɛktɪv ˈaʊtˌkʌmz wʌt ɑːr/。'Your thoughts on that and' 中 's' 与 'ɒn' 连接，'t' 与 'ænd' 连接 /jɔːr θɔːts ɒn ðæt ænd/。'Perhaps we can explore ways to' 中 's' 与 'wiː' 连接，'r' 与 'weɪz' 连接 /pərˈhæps wiː kæn ɪkˈsplɔːr weɪz tuː/。'Make it easier for you to contribute' 中 'k' 与 'ɪt' 连接，'t' 与 'iːziər' 连接 /meɪk ɪt ˈiːziər fɔːr juː tuː kənˈtrɪbjuːt/。"
+  },
+  {
+    "id": "p95",
+    "category": "IELTS/TOEFL Speaking Topics",
+    "title": "Discussing the Societal Impact of Advanced AI",
+    "level": "Advanced",
+    "scenario": "In an IELTS/TOEFL speaking test, the examiner asks you: 'What are the most significant ways advanced Artificial Intelligence (AI) is likely to transform society in the next two decades, and what potential challenges might arise?'",
+    "textbook": "How will AI change our world? Is AI good or bad for society?",
+    "textbookCritique": "These textbook questions are too general and simplistic for an advanced English proficiency test like IELTS/TOEFL. They don't prompt candidates to demonstrate complex vocabulary, nuanced arguments, or the ability to discuss future implications and challenges in depth.",
+    "natural": "Well, looking ahead over the next couple of decades, I think advanced AI is set to profoundly reshape numerous facets of society. One of the most significant transformations will undoubtedly be in the job market, where automation driven by AI could displace certain roles, yet simultaneously create entirely new industries and positions requiring different skill sets. Beyond that, we'll likely see monumental shifts in healthcare, with AI assisting in diagnostics and personalized treatments, and in transportation through autonomous systems. However, these advancements aren't without their complexities. Ethical dilemmas, such as algorithmic bias and privacy concerns, will become increasingly prevalent. There's also the formidable challenge of ensuring equitable access to AI's benefits and managing the societal implications of widespread job displacement, requiring proactive policy-making and educational reforms. It’s a double-edged sword, really.",
+    "chunks": [
+      "looking ahead over the next couple of decades",
+      "advanced AI is set to profoundly reshape",
+      "numerous facets of society",
+      "most significant transformations will undoubtedly be in the job market",
+      "automation driven by AI could displace certain roles",
+      "simultaneously create entirely new industries and positions",
+      "requiring different skill sets",
+      "Beyond that, we'll likely see monumental shifts in healthcare",
+      "AI assisting in diagnostics and personalized treatments",
+      "in transportation through autonomous systems",
+      "these advancements aren't without their complexities",
+      "Ethical dilemmas",
+      "algorithmic bias and privacy concerns",
+      "become increasingly prevalent",
+      "formidable challenge of ensuring equitable access",
+      "managing the societal implications of widespread job displacement",
+      "requiring proactive policy-making and educational reforms",
+      "It’s a double-edged sword, really"
+    ],
+    "connectedSpeech": "'Looking ahead over the next' links 'g' to 'əˈhɛd' and 'd' to 'oʊvər' /lʊkɪŋ əˈhɛd oʊvər ðə nɛkst/. 'Couple of decades I think' links 'l' to 'əv' and 'z' to 'aɪ' /ˈkʌpl əv ˈdɛkeɪdz aɪ θɪŋk/. 'Advanced AI is set to' links 'd' to 'eɪ aɪ' and 's' to 'sɛt' /ədˈvænst eɪ aɪ ɪz sɛt tuː/. 'Profoundly reshape numerous' links 'y' to 'riːˈʃeɪp' and 'p' to 'ˈnuːmərəs' /prəˈfaʊndli riːˈʃeɪp ˈnuːmərəs/. 'Facets of society One of' links 's' to 'əv' and 'y' to 'wʌn' /ˈfæsɪts əv səˈsaɪəti wʌn əv/. 'Most significant transformations will undoubtedly be' links 't' to 'sɪɡˈnɪfɪkənt' and 'z' to 'wɪl' /moʊst sɪɡˈnɪfɪkənt trænsfɔːrˈmeɪʃənz wɪl ʌnˈdaʊtɪdli biː/. 'Job market where automation' links 'b' to 'mɑːrkɪt' and 't' to 'wɛər' /dʒɒb ˈmɑːrkɪt wɛər ɔːtəˈmeɪʃən/. 'Driven by AI could displace' links 'n' to 'baɪ' and 'ɪ' to 'kʊd' /drɪvn baɪ eɪ aɪ kʊd dɪsˈpleɪs/. 'Certain roles yet simultaneously' links 'n' to 'roʊlz' and 'z' to 'jɛt' /ˈsɜːrtn roʊlz jɛt sɪməlˈteɪniəsli/. 'Create entirely new industries' links 't' to 'ɪnˈtaɪərli' and 'y' to 'nuː' /kriˈeɪt ɪnˈtaɪərli nuː ˈɪndəstriz/. 'Positions requiring different skill sets' links 'z' to 'rɪˈkwaɪərɪŋ' and 't' to 'dɪfrənt' /pəˈzɪʃənz rɪˈkwaɪərɪŋ ˈdɪfrənt skɪl sɛts/. 'Beyond that we'll likely see monumental' links 'd' to 'ðæt' and 't' to 'wiːl' /bɪˈjɒnd ðæt wiːl ˈlaɪkli siː ˌmɒnjuˈmɛntl/. 'Shifts in healthcare with AI assisting' links 's' to 'ɪn' and 'θ' to 'wɪθ' /ʃɪfts ɪn ˈhɛlθkɛər wɪθ eɪ aɪ əˈsɪstɪŋ/. 'In diagnostics and personalized' links 's' to 'ænd' and 'd' to 'ˌpɜːrsənəˌlaɪzd' /ɪn daɪəɡˈnɒstɪks ænd ˌpɜːrsənəˌlaɪzd/. 'Treatments and in transportation' links 's' to 'ænd' and 'n' to 'ɪn' /ˈtriːtmənts ænd ɪn trænsˌpɔːrˈteɪʃən/. 'Through autonomous systems However' links 'θ' to 'ɔːˈtɒnəməs' and 's' to 'haʊˈɛvər' /θruː ɔːˈtɒnəməs ˈsɪstəmz haʊˈɛvər/. 'These advancements aren't without their complexities' links 's' to 'ɑːrnt' and 't' to 'wɪˈðaʊt' /ðiːz ədˈvænsmənts ɑːrnt wɪˈðaʊt ðɛər kəmˈplɛksɪtiz/. 'Ethical dilemmas such as algorithmic' links 'l' to 'dɪˈlɛməz' and 's' to 'əz' /ˈɛθɪkl dɪˈlɛməz sʌtʃ əz ˌælɡəˈrɪðmɪk/. 'Bias and privacy concerns will' links 's' to 'ænd' and 'y' to 'kənˈsɜːrnz' /baɪəs ænd ˈprɪvəsi kənˈsɜːrnz wɪl/. 'Become increasingly prevalent There's also' links 'm' to 'ɪnˈkriːsɪŋli' and 't' to 'ðɛərz' /bɪˈkʌm ɪnˈkriːsɪŋli ˈprɛvələnt ðɛərz ˈɔːlsoʊ/. 'Formidable challenge of ensuring equitable' links 'l' to 'tʃæləndʒ' and 'dʒ' to 'əv' /ˈfɔːrmɪdəbl ˈtʃæləndʒ əv ɪnˈʃʊərɪŋ ˈɛkwɪtəbl/. 'Access to AI's benefits and managing' links 's' to 'tuː' and 's' to 'bɛnɪfɪts' /ˈæksɛs tuː eɪ aɪz ˈbɛnɪfɪts ænd ˈmænɪdʒɪŋ/. 'The societal implications of widespread' links 'l' to 'ɪmplɪˈkeɪʃənz' and 'z' to 'əv' /ðə səˈsaɪətl ɪmplɪˈkeɪʃənz əv ˈwaɪdsprɛd/. 'Job displacement requiring proactive' links 't' to 'rɪˈkwaɪərɪŋ' and 'g' to 'proʊˈæktɪv' /dʒɒb dɪsˈpleɪsmənt rɪˈkwaɪərɪŋ proʊˈæktɪv/. 'Policy-making and educational reforms' links 'g' to 'ænd' and 'l' to 'rɪˈfɔːrmz' /ˈpɒlɪsiˌmeɪkɪŋ ænd ˌɛdʒuˈkeɪʃənəl rɪˈfɔːrmz/. 'It’s a double-edged sword really' links 't' to 'sɔːrd' and 'd' to 'ˈrɪəli' /ɪts ə ˈdʌbl ɛdʒd sɔːrd ˈrɪəli/.",
+    "listenText": "Well, looking ahead over the next couple of decades, I think advanced AI is set to profoundly reshape numerous facets of society. One of the most significant transformations will undoubtedly be in the job market, where automation driven by AI could displace certain roles, yet simultaneously create entirely new industries and positions requiring different skill sets. Beyond that, we'll likely see monumental shifts in healthcare, with AI assisting in diagnostics and personalized treatments, and in transportation through autonomous systems. However, these advancements aren't without their complexities. Ethical dilemmas, such as algorithmic bias and privacy concerns, will become increasingly prevalent. There's also the formidable challenge of ensuring equitable access to AI's benefits and managing the societal implications of widespread job displacement, requiring proactive policy-making and educational reforms. It’s a double-edged sword, really.",
+    "title_cn": "讨论先进人工智能的社会影响",
+    "category_cn": "雅思/托福口语话题",
+    "scenario_cn": "在雅思/托福口语考试中，考官问你：'在未来二十年里，先进人工智能（AI）最有可能以何种重大方式改变社会，以及可能出现哪些潜在挑战？'",
+    "textbookCritique_cn": "这些教材式的问题对于像雅思/托福这样的高级英语水平测试来说过于笼统和简单。它们无法促使考生展示复杂的词汇、细致入微的论点，或深入讨论未来影响和挑战的能力。",
+    "natural_cn": "嗯，展望未来几十年，我认为先进人工智能必将深刻重塑社会的诸多方面。最重大的变革之一无疑将是就业市场，人工智能驱动的自动化可能会取代某些岗位，但同时也会创造全新的行业和需要不同技能的职位。除此之外，我们还可能看到医疗保健领域的巨大转变，AI将辅助诊断和个性化治疗，以及通过自主系统实现交通运输的变革。然而，这些进步并非没有复杂性。算法偏见和隐私问题等伦理困境将变得越来越普遍。还有一个艰巨的挑战是确保公平获取AI的益处，并管理广泛失业的社会影响，这需要积极的政策制定和教育改革。这真是一把双刃剑。",
+    "chunks_cn": [
+      {
+        "en": "looking ahead over the next couple of decades",
+        "cn": "展望未来几十年"
+      },
+      {
+        "en": "advanced AI is set to profoundly reshape",
+        "cn": "先进人工智能必将深刻重塑"
+      },
+      {
+        "en": "numerous facets of society",
+        "cn": "社会的诸多方面"
+      },
+      {
+        "en": "most significant transformations will undoubtedly be in the job market",
+        "cn": "最重大的变革无疑将是就业市场"
+      },
+      {
+        "en": "automation driven by AI could displace certain roles",
+        "cn": "人工智能驱动的自动化可能会取代某些岗位"
+      },
+      {
+        "en": "simultaneously create entirely new industries and positions",
+        "cn": "同时也会创造全新的行业和职位"
+      },
+      {
+        "en": "requiring different skill sets",
+        "cn": "需要不同技能的"
+      },
+      {
+        "en": "Beyond that, we'll likely see monumental shifts in healthcare",
+        "cn": "除此之外，我们还可能看到医疗保健领域的巨大转变"
+      },
+      {
+        "en": "AI assisting in diagnostics and personalized treatments",
+        "cn": "AI将辅助诊断和个性化治疗"
+      },
+      {
+        "en": "in transportation through autonomous systems",
+        "cn": "通过自主系统实现交通运输的变革"
+      },
+      {
+        "en": "these advancements aren't without their complexities",
+        "cn": "这些进步并非没有复杂性"
+      },
+      {
+        "en": "Ethical dilemmas",
+        "cn": "伦理困境"
+      },
+      {
+        "en": "algorithmic bias and privacy concerns",
+        "cn": "算法偏见和隐私问题"
+      },
+      {
+        "en": "become increasingly prevalent",
+        "cn": "变得越来越普遍"
+      },
+      {
+        "en": "formidable challenge of ensuring equitable access",
+        "cn": "确保公平获取的艰巨挑战"
+      },
+      {
+        "en": "managing the societal implications of widespread job displacement",
+        "cn": "管理广泛失业的社会影响"
+      },
+      {
+        "en": "requiring proactive policy-making and educational reforms",
+        "cn": "需要积极的政策制定和教育改革"
+      },
+      {
+        "en": "It’s a double-edged sword, really",
+        "cn": "这真是一把双刃剑"
+      }
+    ],
+    "connectedSpeech_cn": "'Looking ahead over the next' 中 'g' 与 'əˈhɛd' 连接，'d' 与 'oʊvər' 连接 /lʊkɪŋ əˈhɛd oʊvər ðə nɛkst/。'Couple of decades I think' 中 'l' 与 'əv' 连接，'z' 与 'aɪ' 连接 /ˈkʌpl əv ˈdɛkeɪdz aɪ θɪŋk/。'Advanced AI is set to' 中 'd' 与 'eɪ aɪ' 连接，'s' 与 'sɛt' 连接 /ədˈvænst eɪ aɪ ɪz sɛt tuː/。'Profoundly reshape numerous' 中 'y' 与 'riːˈʃeɪp' 连接，'p' 与 'ˈnuːmərəs' 连接 /prəˈfaʊndli riːˈʃeɪp ˈnuːmərəs/。'Facets of society One of' 中 's' 与 'əv' 连接，'y' 与 'wʌn' 连接 /ˈfæsɪts əv səˈsaɪəti wʌn əv/。'Most significant transformations will undoubtedly be' 中 't' 与 'sɪɡˈnɪfɪkənt' 连接，'z' 与 'wɪl' 连接 /moʊst sɪɡˈnɪfɪkənt trænsfɔːrˈmeɪʃənz wɪl ʌnˈdaʊtɪdli biː/。'Job market where automation' 中 'b' 与 'mɑːrkɪt' 连接，'t' 与 'wɛər' 连接 /dʒɒb ˈmɑːrkɪt wɛər ɔːtəˈmeɪʃən/。'Driven by AI could displace' 中 'n' 与 'baɪ' 连接，'ɪ' 与 'kʊd' 连接 /drɪvn baɪ eɪ aɪ kʊd dɪsˈpleɪs/。'Certain roles yet simultaneously' 中 'n' 与 'roʊlz' 连接，'z' 与 'jɛt' 连接 /ˈsɜːrtn roʊlz jɛt sɪməlˈteɪniəsli/。'Create entirely new industries' 中 't' 与 'ɪnˈtaɪərli' 连接，'y' 与 'nuː' 连接 /kriˈeɪt ɪnˈtaɪərli nuː ˈɪndəstriz/。'Positions requiring different skill sets' 中 'z' 与 'rɪˈkwaɪərɪŋ' 连接，'t' 与 'dɪfrənt' 连接 /pəˈzɪʃənz rɪˈkwaɪərɪŋ ˈdɪfrənt skɪl sɛts/。'Beyond that we'll likely see monumental' 中 'd' 与 'ðæt' 连接，'t' 与 'wiːl' 连接 /bɪˈjɒnd ðæt wiːl ˈlaɪkli siː ˌmɒnjuˈmɛntl/。'Shifts in healthcare with AI assisting' 中 's' 与 'ɪn' 连接，'θ' 与 'wɪθ' 连接 /ʃɪfts ɪn ˈhɛlθkɛər wɪθ eɪ aɪ əˈsɪstɪŋ/。'In diagnostics and personalized' 中 's' 与 'ænd' 连接，'d' 与 'ˌpɜːrsənəˌlaɪzd' 连接 /ɪn daɪəɡˈnɒstɪks ænd ˌpɜːrsənəˌlaɪzd/。'Treatments and in transportation' 中 's' 与 'ænd' 连接，'n' 与 'ɪn' 连接 /ˈtriːtmənts ænd ɪn trænsˌpɔːrˈteɪʃən/。'Through autonomous systems However' 中 'θ' 与 'ɔːˈtɒnəməs' 连接，'s' 与 'haʊˈɛvər' 连接 /θruː ɔːˈtɒnəməs ˈsɪstəmz haʊˈɛvər/。'These advancements aren't without their complexities' 中 's' 与 'ɑːrnt' 连接，'t' 与 'wɪˈðaʊt' 连接 /ðiːz ədˈvænsmənts ɑːrnt wɪˈðaʊt ðɛər kəmˈplɛksɪtiz/。'Ethical dilemmas such as algorithmic' 中 'l' 与 'dɪˈlɛməz' 连接，'s' 与 'əz' 连接 /ˈɛθɪkl dɪˈlɛməz sʌtʃ əz ˌælɡəˈrɪðmɪk/。'Bias and privacy concerns will' 中 's' 与 'ænd' 连接，'y' 与 'kənˈsɜːrnz' 连接 /baɪəs ænd ˈprɪvəsi kənˈsɜːrnz wɪl/。'Become increasingly prevalent There's also' 中 'm' 与 'ɪnˈkriːsɪŋli' 连接，'t' 与 'ðɛərz' 连接 /bɪˈkʌm ɪnˈkriːsɪŋli ˈprɛvələnt ðɛərz ˈɔːlsoʊ/。'Formidable challenge of ensuring equitable' 中 'l' 与 'tʃæləndʒ' 连接，'dʒ' 与 'əv' 连接 /ˈfɔːrmɪdəbl ˈtʃæləndʒ əv ɪnˈʃʊərɪŋ ˈɛkwɪtəbl/。'Access to AI's benefits and managing' 中 's' 与 'tuː' 连接，'s' 与 'bɛnɪfɪts' 连接 /ˈæksɛs tuː eɪ aɪz ˈbɛnɪfɪts ænd ˈmænɪdʒɪŋ/。'The societal implications of widespread' 中 'l' 与 'ɪmplɪˈkeɪʃənz' 连接，'z' 与 'əv' 连接 /ðə səˈsaɪətl ɪmplɪˈkeɪʃənz əv ˈwaɪdsprɛd/。'Job displacement requiring proactive' 中 't' 与 'rɪˈkwaɪərɪŋ' 连接，'g' 与 'proʊˈæktɪv' 连接 /dʒɒb dɪsˈpleɪsmənt rɪˈkwaɪərɪŋ proʊˈæktɪv/。'Policy-making and educational reforms' 中 'g' 与 'ænd' 连接，'l' 与 'rɪˈfɔːrmz' 连接 /ˈpɒlɪsiˌmeɪkɪŋ ænd ˌɛdʒuˈkeɪʃənəl rɪˈfɔːrmz/。'It’s a double-edged sword really' 中 't' 与 'sɔːrd' 连接，'d' 与 'ˈrɪəli' 连接 /ɪts ə ˈdʌbl ɛdʒd sɔːrd ˈrɪəli/。"
+  }
+]
+```
